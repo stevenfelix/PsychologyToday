@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Dr. Bob Childs, Psychologist, Cambridge, MA 02138 | Psychology Today</title>
+<meta name="description" content="Dr. Bob Childs, Psychologist, Cambridge, MA 02138, (617) 209-4613, For over 20 years I have been providing patients with a safe space that is mutually created together through a trusting connection built to hold whatever you bring into therapy. My focus is on longer term therapy that is aimed at achieving real and lasting change in one&#039;s life. It is also my experience that once many of the initial issues are worked through, whether they are older emotional wounds or current relationship issues, that ultimately what will emerge are your own unique qualities that will allow you to flourish in all aspects of your life.">
+<meta name="robots" content="index,follow">
+<link rel='stylesheet' type='text/css' href='https://resources.psychologytoday.com/v3.26.2/css/directoryweb/psychologytoday.en-US.css'>
+<link rel="icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="shortcut icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v3.26.2/images/apple-touch-icon-TD.png">
+
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/fastclick.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/directoryweb-sx.ui.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.flag.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.gallery.js"></script>
+
+<script>
+window.addEventListener('load', function() {
+    FastClick.attach(document.body);
+}, false);
+</script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/bootstrap/bootstrap.min.js'></script><script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/contactShare.js'></script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/form.js'></script>
+<meta name="dcterms.modified" content="2016-Jul-24">
+<meta name="geo.region" content="US-MA">
+<link rel="canonical" href="https://therapists.psychologytoday.com/rms/name/Bob_Childs_PsyD_Cambridge_Massachusetts_132845">
+<meta name="dcterms.title" content="Dr. Bob Childs, Psychologist, Cambridge, MA 02138">
+<meta name="dcterms.creator" content="Psychology Today">
+<meta name="dcterms.coverage" content="Cambridge, MA 02138">
+<meta name="geo.placename" content="Cambridge, MA 02138">
+<script>
+  var dataLayer = [{'SxTrackingID' : 'UA-2018330-4'}];
+</script>
+<!-- Start Optimizely Code -->
+<script src="https://cdn.optimizely.com/js/6265930501.js"></script>
+<!-- End Optimizely Code -->
+</head>
+<body id='top'  class="prof-detail"  data-spid-raw="rms" data-spid-type="TD">
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<nav id="subBrandsXsm" class="xsm-subBrands-show hide">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+<div id="pageContainer">
+<div id="headerShadow"></div>
+<header id="headerWrapper" class="outerWrapper TD fixed-header">
+
+    <div class="pageInner">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+	        	<button class="btn btn-frost xsm-subBrands-hidden hidden-xs" id="subBrandsBtn"
+	onclick="$('html').toggleClass('subBrandsOpen');sx.showOverlay();">
+		<i class="icon icon-white icon-show_lines"></i>
+	</button>
+	<a class="xsm-subBrands-show hidden-sm hidden-md hidden-lg" id="subBrandsBtnXs">
+		<i class="icon icon-white icon-show_lines"></i>
+	</a>
+                <h1><a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_Brand" id="headerBrand" class="headerLogo brandFace"
+                    title="Psychology Today"><span id='headerLogo' class='ui-sprite ui-sprite-resp'>Psychology Today</span></a>
+                    <a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_SubBrand"
+  id="headerSubBrand"
+  class="headerLogo subBrandFace"
+  title="Therapists">
+  Therapists</a>
+  
+
+	            </h1>
+			    <nav id="subBrands" class="xsm-subBrands-hidden">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+                
+    <a href="https://therapists.psychologytoday.com/" title="Find a Therapist"
+     id="headerSearchIcon" class="hidden-sm hidden-md hidden-lg"
+    data-trigger='search-autosuggest' data-event-label='Search_HeaderButton'></a>
+    <div id="headerSearchBox" class="hidden-sm hidden-md hidden-lg" 
+     data-trigger='search-autosuggest' data-event-label='Search_SearchField'>
+        <input type="text" class="hidden-sm hidden-md hidden-lg"
+           placeholder="City/Zip or Name"
+            title="Search for Therapists near you.">
+    </div>
+           </div>
+           <div class="col-lg-4 col-md-4 col-sm-5  hidden-xs" id="headerActions" style="text-align: right;">
+<a href="https://member.psychologytoday.com/rms-sec/" class="btn btn btn-frost headerBtn">Log In</a>
+<a href="https://member.psychologytoday.com/therapist/?src=RMSLOG"
+  class="btn headerBtn btn-orange">Sign Up and Get Listed</a>
+
+</div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('#pageContainer').on(sx.transitionEndEvent, function(e) {
+
+        if (e.target.id != 'pageContainer') {
+            return;
+        }
+
+        if ($('#subBrandsXsm').hasClass('closing')) {
+            $('#headerWrapper').css({
+                'position' : 'fixed',
+                'top' : '0px'
+            });
+            $('#subBrandsXsm').removeClass('show');
+            $('#subBrandsXsm').addClass('hide');
+            $('#subBrandXsm').removeClass('closing');
+            $('#pageContainer').removeClass('overlay');
+
+            var scrollPosition = Math.abs(parseInt($('body').css('top'),10));
+            $('body').css({
+                position: 'static',
+                overflow: 'auto'
+            });
+            $('body').scrollTop(scrollPosition);
+        } else {
+            $('#subBrandXsm').removeClass('opening');
+        } 
+    });
+
+    $('#subBrandsBtnXs').on('click', function(e) {
+        e.preventDefault();
+        if ($('html').hasClass('subBrandsOpenXsm')) {
+            $('#subBrandsXsm').removeClass('opening');
+            $('#subBrandsXsm').addClass('closing');
+            $('html').removeClass('subBrandsOpenXsm');
+            $('#pageContainer').off('click.menuDismissal');
+        } else {
+            $('#pageContainer').on('click.menuDismissal', function(e) {
+                e.preventDefault();
+                if ($('html').hasClass('subBrandsOpenXsm') ) {
+                    if ($('#pageContainer').hasClass('overlay')) {
+                        $('#subBrandsXsm').removeClass('opening');
+                        $('#subBrandsXsm').addClass('closing');
+                        $('html').removeClass('subBrandsOpenXsm');
+                        $('#pageContainer').removeClass('overlay');
+                        $('#pageContainer').off('click.menuDismissal');
+                        $('#pageContainer *').css({ 'pointer-events' : 'auto' });
+                    } else {
+                       $('#pageContainer').addClass('overlay');
+                    }
+                } 
+            });
+            $('#pageContainer *').css({ 'pointer-events' : 'none' });
+            $('#subBrandsXsm').addClass('show');
+            $('#subBrandsXsm').addClass('opening');
+            $('#subBrandsXsm').removeClass('closing');
+            $('#headerWrapper').css({
+                'position' : 'absolute',
+                'top' : $(window).scrollTop() + 'px'
+            });
+            $('body').css({
+                position: 'fixed',
+                overflow: 'hidden',
+                width: $('body').width(),
+                top: '-' + $('body').scrollTop() + 'px'
+            })
+            $('html').addClass('subBrandsOpenXsm');
+        }
+    });     
+});
+</script>
+
+<div id="main" class="no-min-height">    <div class ="breadcrumb-nav profile-breadcrumb">
+    <div class="pageInner">
+        <div class="contextual">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <div class="contextual breadcrumb">
+                        <a href="https://therapists.psychologytoday.com/rms/prof_results.php?sid=1487041991.3685_13607&city=Cambridge&state=MA&rec_next=1&tr=BackResults"
+                           data-event-label='ProfileNav_BackToSearchLink'>
+                            <i class="icon icon-chevron-left back"></i>Back To Results</a>
+                        <a href="https://therapists.psychologytoday.com/rms/"
+                           data-event-label='ProfileNav_NewSearchLink' class="hidden-xs">
+                            <i class="icon icon-search search"></i>New Search</a>
+                    </div>
+                </div>
+                                    <div class="col-sm-6 col-med-6  col-lg-6">
+                        <div class="contextual-right breadcrumb">
+                                                        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=244096&sid=1487041991.3685_13607&city=Cambridge&county=Middlesex&state=MA&rec_next=1&ref=49&tr=PrevProf"
+                               data-event-label='ProfileNav_prevProfLink' class="" title="Kate Graham">
+                                <i class="icon icon-chevron-left  back hidden-xs"></i>Previous</a>
+                                                                                    <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=72771&sid=1487041991.3685_13607&city=Cambridge&county=Middlesex&state=MA&rec_next=1&ref=51&tr=NextProf"
+                               data-event-label='ProfileNav_nextProfLink' class="profile-next"
+                               title="Melinda Kulish">Next<i class="icon icon-chevron-right next hidden-xs"></i></a>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id='profileContainer' class="pageInner profile"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="132845"
+     data-prof-name="Bob Childs"
+     data-phone="(617) 209-4613"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=132845"
+     data-profile-image="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/45/28/132845_2_120x150.jpg?pu=0"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=132845"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div id="profHdr" class="row">
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg profile-title-container">
+                            <h1 itemprop="name">
+                    Bob Childs</h1>
+                <div class="profile-title">
+                    <h2>
+                                                                                                                                            <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="37" 
+>Psychologist</span>, </span>
+                                                                                                                                            <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="53" 
+>PsyD</span></span>
+                                            </h2>
+                </div>
+                                    <div class="profile-title-verified hidden-sm hidden-md hidden-lg">
+                        <span data-target="#modalVerified" data-toggle="modal">
+                                <i class="icon icon-ok"></i>Verified by <span>Psychology Today</span>
+                        </span>
+                    </div>
+                                    </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 photo-column no-padding-right">
+                            <span title="Bob Childs, PsyD, Psychologist in Cambridge"
+                      id="profilePhoto"
+                      data-target="#modalPhotoContact" data-toggle="modal">
+                    <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/45/28/132845_2_120x150.jpg?pu=0" itemprop="image"
+                         alt="Bob Childs, PsyD, Psychologist in Cambridge" style="width:100%"
+                         data-event-label="Photo_ModalLink">
+                    <div class="photo-enlarge hidden-sm hidden-md hidden-lg">
+                        <div class="btns">
+                            <i class="icon icon-enlarge"></i>
+                        </div>
+                    </div>
+                </span>
+                        <div class="hidden-xs profile-buttons">
+                                        <a
+        href="tel:6172094613"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 209-4613</a>
+    <button
+        title="Send email to Bob Childs"
+        class="btn btn-block btn-orange"
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+        >Email Me</button>
+<button
+        title="Recommend Bob Childs to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/share"
+        >Send to Friend</button>
+                            </div>
+                    </div>
+
+        <div class="profile-middle profile-flag col-xs-8 col-sm-10 col-md-10 col-lg-10">
+            <div class="row">
+                <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+                                            <h1 itemprop="name">
+                            Bob Childs</h1>
+                        <div class="profile-title">
+                            <h2>
+                                                                                                                                                                                    <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="37" 
+>Psychologist</span>, </span>
+                                                                                                                                                                                    <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="53" 
+>PsyD</span></span>
+                                                            </h2>
+                        </div>
+                                    </div>
+                <div class="hidden-xs col-sm-6 col-md-5 col-lg-5 text-right">
+                                                                        <div class="profile-phone">
+                                <i class="icon icon-earphone icon-white profile-phone-icon"></i>
+                                <span itemprop="telephone"><a href="tel:6172094613"
+                                                              data-event-label="Profile_PhoneLink">(617) 209-4613</a></span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="hidden-xs col-sm-10 col-md-10 col-lg-10">
+            <div class="profile-menu hidden-xs">
+    <ul>
+        <li>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=132845&amp;p=1&amp;sid=1487041991.3685_13607&amp;city=Cambridge&amp;county=Middlesex&amp;state=MA&amp;rec_next=1"
+               class="active"               title="About">About</a>
+        </li>
+                            </ul>
+            <div class="profile-verified">
+            <div class="verified-wrapper">
+                <div class="verified" data-target="#modalVerified" data-toggle="modal"
+                     data-event-label="Profile_Verified">
+                    <div class="verified-link">
+                        Verified by <span>Psychology Today</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        </div>
+        <div class="col-xs-8 hidden-sm hidden-md hidden-lg profile-buttons">
+                <a
+        href="tel:6172094613"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 209-4613</a>
+    <button
+        title="Send email to Bob Childs"
+        class="btn btn-block "
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+        >Email Me</button>
+<button
+        title="Recommend Bob Childs to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/share"
+        >Send to Friend</button>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+            <div id="profile-content">
+                    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-7 col-lg-7">
+            <div class="hidden-sm hidden-md hidden-lg">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                            <span itemprop='streetAddress'>
+                    120 Garden St
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Cambridge</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02138</span><br>
+                    
+                            <a href='tel:6172094613'
+               data-event-label='Address1_PhoneLink'>(617) 209-4613</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Bob Childs"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                    >Email Me
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.384356"
+                    data-map-lon="-71.130539"
+                    data-map-over-enable=""
+                    data-address-rank-1="120 Garden St, Cambridge, Massachusetts, 02138">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                    </div>
+</div>            </div>
+            </div>
+                            <div class="profile-statement">
+                    <hr class="hidden-sm hidden-md hidden-lg">
+                    <div class="section profile-personalstatement">
+                    <div class="statementPara">
+            For over 20 years I have been providing patients with a safe space that is mutually created together through a trusting connection built to hold whatever you bring into therapy. My focus is on longer term therapy that is aimed at achieving real and lasting change in one&#039;s life. It is also my experience that once many of the initial issues are worked through, whether they are older emotional wounds or current relationship issues, that ultimately what will emerge are your own unique qualities that will allow you to flourish in all aspects of your life.
+        </div>
+    
+                    <div class="statementPara">
+            My clinical specialties include Jungian psychology, working with artists from many different mediums on creativity and the psychological process; working in the psychology of Adoption, including search and reunion issues, identity issues and Genetic Sexual Attraction. Finally, I also specialize in working with individuals who are Twins.
+        </div>
+    
+                    <div class="statementPara">
+            I also teach clinical psychology at the Massachusetts School of Professional Psychology.
+        </div>
+    </div>                </div>
+                        <div class="profile-consultation">
+    <strong>Take the first step to help.</strong> Call or <a href='#' data-event-label='FreeConsult_EmailLink' data-toggle='modal' data-target='#modalContactForm' data-element-target='#profileContainer' data-action-url='https://therapists.psychologytoday.com/rms/profile/132845/contact' rel='nofollow'>Email</a> Bob Childs now - <a href='tel:6172094613' data-event-label='FreeConsult_PhoneLink'><strong>(617) 209-4613</strong></a>
+</div>                            <div class="profile-qualifications">
+<h2>Qualifications</h2>
+<ul>
+            <li>
+            <strong>Years in Practice:</strong>
+            20+ Years
+        </li>
+    
+            <li>
+            <strong>School:</strong>
+            MA School of Professional Psychology</li>
+                <li>
+            <strong>Year Graduated:</strong>
+            1998
+        </li>
+                <li>
+            <strong>License No. and State:</strong>
+            7857 Massachusetts
+        </li>
+                                </ul>
+</div>                                                        </div>
+        <div class="col-xs-12 col-sm-4 col-md-5 col-lg-5">
+            <div class="hidden-xs">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                            <span itemprop='streetAddress'>
+                    120 Garden St
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Cambridge</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02138</span><br>
+                    
+                            <a href='tel:6172094613'
+               data-event-label='Address1_PhoneLink'>(617) 209-4613</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Bob Childs"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                    >Email Me
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.384356"
+                    data-map-lon="-71.130539"
+                    data-map-over-enable=""
+                    data-address-rank-1="120 Garden St, Cambridge, Massachusetts, 02138">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                    </div>
+</div>            </div>
+            </div>
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Specialties</h2>
+                        
+                                                <h3 class="spec-subcat">Issues</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Adoption</li>
+                                                                        
+                                                        <li>Anxiety</li>
+                                                                        
+                                                        <li>Depression</li>
+                                                                        
+                                                        <li>Divorce</li>
+                                                                        
+                                                        <li>Grief</li>
+                                                                        
+                                                        <li>Peer Relationships</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Relationship Issues</li>
+                                                                        
+                                                        <li>Self Esteem</li>
+                                                                        
+                                                        <li>Sexual Abuse</li>
+                                                                        
+                                                        <li>Spirituality</li>
+                                                                        
+                                                        <li>Trauma and PTSD</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                        
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Treatment Approach</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Orientation</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li><span data-ui-type="glossary" data-glossary-id="81" 
+>Existential</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="21" 
+>Humanistic</span></li>
+                                                                        
+                                                        <li>Jungian Psychology</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="22" 
+>Psychoanalytic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="23" 
+>Psychodynamic</span></li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Modality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Individuals</li>
+                                                                        
+                                                        <li>Couples</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                    <div class='hidden-sm hidden-md hidden-lg'>
+                <hr>
+                <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="profile-bottom">
+        <div class="section profile-change_block">
+            <div class="last-modified">Last Modified: 24 Jul 2016</div>
+        </div>
+    </div>
+            <div class="modal" id="modalVerified" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <span class="title">Bob Childs has been Verified by Psychology Today</span>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="profile-verified_content">
+                <p>The information in Psychology Today is provided exclusively by participating therapists. When you see this seal, it means Psychology Today has verified the following:</p>
+                <div>
+                    <ul class="profile-list">
+                                                    <li>The name and contact details of the professional
+                            </li>
+                                                    <li>That the professional's license, if applicable, is valid within the state in which he or she practices
+                            </li>
+                                                    <li>That the professional is not subject to any license strictures preventing practice
+                            </li>
+                                            </ul>
+                </div>
+                
+                <p>Psychology Today verifies the information at the time a therapist is initially listed in the directory and then upon expiration of the professional's credentials.</p>
+<p>If you find any of the information in Psychology Today directory to be inaccurate in any way, please tell us by emailing: therapist@psychologytoday.com</p>
+                <div class="verified-disclaimer">
+                    <p>You assume full responsibility for the communications with
+    any therapist you contact through Psychology Today directory. Psychology Today shall in no event be
+    liable to you or to anyone for any decision made or action taken by you in the reliance on
+    information provided in Psychology Today.
+</p>
+<p>
+    Psychology Today directory is not intended as a tool for verifying the credentials,
+    qualifications, or abilities of any therapists it lists. Inclusion in
+    Psychology Today does not imply recommendation or endorsement nor does omission from
+    Psychology Today imply Psychology Today disapproval. Psychology Today does not warrant or represent that
+    Psychology Today directory or any part thereof is accurate or complete. Psychology Today disclaims all warranties,
+    either express or implied, including but not limited to the implied warranties of merchantability
+    and fitness for particular purpose.
+</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+                <div class="modal" id="modalMap" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Bob Childs
+            <div class="modal-subtitle">
+                            <span class="nowrap">Psychologist, </span>
+                            <span class="nowrap">PsyD</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div id="map-canvas" class="modal-map"></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div id="map-addresses"></div>
+       </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div id="contactBar" class="fixed-header"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="132845"
+     data-prof-name="Bob Childs"
+     data-phone="(617) 209-4613"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=132845"
+     data-profile-image="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/45/28/132845_2_120x150.jpg?pu=0"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=132845"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div class="pageInner hideContactBar">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div id="contactBarPhoto" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="contact-photo">
+                                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/45/28/132845_2_120x150.jpg?pu=0" itemprop="image"
+                                     alt="Bob Childs, PsyD, Psychologist in Cambridge">
+                            </div>
+                                                                            <div class="contact-info" >
+                                                    <h1 itemprop="name" class="contact-name">
+                                Bob Childs</h1>
+
+                            <div class="profile-title contact-title">
+                                <h2>
+                                                                                                                                                                                                        <span class="nowrap">Psychologist, </span>
+                                                                                                                                                                                                        <span class="nowrap">PsyD</span>
+                                                                    </h2>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+ 
+                    <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs"> 
+                    <div class="contact-button"> 
+                                                    <div class="contact-phone">
+                                <a href="tel:6172094613"
+                                   class="tr-contactbar-phone" data-event-label="ContactBarLg_PhoneLink">
+                                    <i class="icon icon-earphone icon-white contactbar-phone-icon"></i> (617) 209-4613</a>
+                            </div>
+                                                                            or
+                                                                            <div class="contact-email">
+                                <a href="#"
+                                   rel="nofollow"
+                                   title="Send email to Bob Childs"
+                                   data-event-label="ContactBarLg_EmailLink"
+                                   data-toggle="modal"
+                                   data-target="#modalContactForm"
+                                   data-element-target="#contactBar"
+                                   data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                                   >Email</a>
+                            </div>
+                                                </div>
+                    </div>
+                </div>
+
+                </div>
+
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="contact-button-xs">
+                                                                                                                        <div class="col-xs-6 col-tight-right">
+                                                                                                <div class="contact-email-xs">
+                                        <a href="#"
+                                           rel="nofollow"
+                                           title="Send email to Bob Childs"
+                                           class="btn btn-block "
+                                           data-event-label="ContactBarXs_EmailLink"
+                                           data-toggle="modal"
+                                           data-target="#modalContactForm"
+                                           data-element-target="#contactBar"
+                                           data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                                           >Email Me</a>
+                                    </div>
+                                                                                            </div>
+                            <div class="col-xs-6 col-tight-left">
+                                                                                                    <div class="contact-phone-xs">
+                                        <a href="tel:6172094613"
+                                           data-event-label="ContactBarXs_PhoneLink"
+                                           class="btn btn-block btn-orange tr-contactbar-phone">
+                                            (617) 209-4613</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#contactBar').detach().appendTo('#headerShadow');
+            setContactBarPosition();
+            $('#contactBar').show();
+            contactBar();
+
+            window.addEventListener('scroll', function () {
+                contactBar();
+            });
+
+            $(window).on('resize', function () {
+                setContactBarPosition();
+                contactBar();
+            });
+
+        });
+        function contactBar() {
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+               var height = $('#profHdr').height() + 115;
+                if (window.pageYOffset > height) {
+                        showContactBar();
+                    } else if (window.pageYOffset <= height) {
+                        hideContactBar();
+                    }
+            } else {
+                var height = $('#profHdr').height() + 40;
+                if (window.pageYOffset > height) {
+                    showContactBar();
+                } else if (window.pageYOffset <= height) {
+                    hideContactBar();
+                }
+            }
+        }
+        function setContactBarPosition() {
+            var offset = $('#contactBar').outerHeight() - $('#headerShadow').outerHeight();
+            $('#contactBar').css({
+                "top": '-' + offset + 'px'
+            });
+        }
+        function showContactBar() {
+            var offset = $('#contactBar').outerHeight();
+            $('#headerShadow').css({
+                "top": offset + 'px'
+            });
+        }
+        function hideContactBar() {
+            $('#headerShadow').css({
+                "top": '0px'
+            });
+        }
+    </script>
+            <div class="modal" id="modalPhotoContact" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Bob Childs
+            <div class="modal-subtitle">
+                            <span class="nowrap">Psychologist, </span>
+                            <span class="nowrap">PsyD</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="col-xs-12">
+            <div class="modal-contact-photo">
+                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/45/28/132845_2_120x150.jpg?pu=0" itemprop="image"
+                     alt="Bob Childs, PsyD, Psychologist in Cambridge">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="hidden-sm hidden-md hidden-lg modal-photo-contact-info">
+
+            
+                            <div class="col-xs-6 col-tight-right">
+                    <div class="modal-contact-email">
+                        <button title="Send email to Bob Childs"
+                                class="btn btn-block "
+                                data-event-label="PhotoModal_EmailLink"
+                                data-toggle="modal"
+                                data-target="#modalContactForm"
+                                data-element-target="#profileContainer"
+                                data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                                >Email Me</button>
+                    </div>
+                </div>
+                                        <div class=" col-xs-6 col-tight-left">
+                    <div class="modal-contact-phone">
+                        <a href="tel:6172094613"
+                           class="btn btn-block btn-orange"
+                           data-event-label="PhotoModal_PhoneLink">
+                            (617) 209-4613</a>
+                    </div>
+                </div>
+                    </div>
+        <div class="hidden-xs">
+            <div class="modal-photo-contact-info">
+                                    <div class="contact-phone">
+                        <a href="tel:6172094613"
+                           class="tr-photoModal-phone" data-event-label="PhotoModalLg_PhoneLink">
+                            <i class="icon icon-earphone icon-white modal-photo-phone"></i> (617) 209-4613
+                        </a>
+                    </div>
+                                 or 
+                                    <div class="contact-email">
+                        <a href="#"
+                           data-event-label="PhotoModalLg_EmailLink"
+                           data-toggle="modal"
+                           data-target="#modalContactForm"
+                           data-element-target="#profileContainer"
+                           data-action-url="https://therapists.psychologytoday.com/rms/profile/132845/contact"
+                           >Email</a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div class="modal floating-label-form-container contact-modal" id="modalShareForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">    <h1>Share <span></span>'s Profile</h1>
+</div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-md-12">
+            <form id="profile-share" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="shareFormName" class="control-label">Your Name</label>
+                    <input type="text" class="form-control" id="shareFormName" name="your-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormEmail" class="control-label">Your Email</label>
+                    <input type="text" class="form-control" id="shareFormEmail" name="your-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendName" class="control-label">Friend&#039;s Name</label>
+                    <input type="text" class="form-control" id="shareFormFriendName" name="friend-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendEmail" class="control-label">Friend&#039;s Email</label>
+                    <input type="text" class="form-control" id="shareFormFriendEmail" name="friend-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormBody" class="control-label"
+                           data-floating-label="Message (80 words max)">
+                        Message</label>
+                    <textarea class="form-control" id="shareFormBody" name="message"></textarea>
+                </div>
+                <div id="profile-share-captcha" class="form-group form-captcha"></div>
+                <button type="submit"
+                        class="btn btn-orange btn-large btn-block submit-hide">Send Email
+                </button>
+            </form>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalContactForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1 class="result-xs">Email <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="emailFormName">Your Name</label>
+                    <input type="text" class="form-control" id="emailFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="emailFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="emailFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="emailFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="emailFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactemail_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Don't be shy. Our therapists are here to help you and are pleased to hear from you.</p>
+
+<p>Feel free to ask for what you want... an appointment, a consultation or simply a response to a question. Keep it short, 200
+words or less, this is just an initial contact.</p>
+
+<p>Remember to double check your return email address or your phone number if you prefer to be called.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.<p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalVideoRequestForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1>Request a Video Call with <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact-video" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="videoFormName">Your Name</label>
+                    <input type="text" class="form-control" id="videoFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="videoFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="videoFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="videoFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="videoFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-video-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactvideo_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Send this email to request a video session with this therapist.</p>
+
+<p>The therapist may first call or email you back to schedule a time and provide details about how to connect.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.</p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+</div>
+<script type="text/javascript"
+        src="//maps.googleapis.com/maps/api/js?key=AIzaSyD0vXldAbHFWHvHbWzKT_W0CIyI35PACSI&amp;sensor=false"></script>
+<script type="text/javascript">
+    dataLayer.push({'defaultEventCategory': 'ProfilePage'});
+
+    $('#modalMap').on('shown.bs.modal', function (e) {
+        initializeMap(e);
+    });
+
+    function initializeMap(e) {
+        var count = 0;
+        var markers = [];
+        var markerABC = 'A';
+        var coords;
+        var geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(44.8819, -93.2217);
+        var mapOptions = {
+            center: latlng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+
+        var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+        $('#map-addresses').html('');
+        var addrs = [
+            $('[data-target="#modalMap"]', $('.address-rank-1:first')),
+            $('[data-target="#modalMap"]', $('.address-rank-2:first'))
+        ];
+
+        $(addrs).each(function () {
+            var lat = $(this).attr('data-map-lat');
+            var lon = $(this).attr('data-map-lon');
+
+            over_enable = parseInt($(this).attr('data-map-over-enable'));
+            address = $(this).attr('data-' + $(this).attr('data-map-address'));
+            var markerABC = 'A';
+
+            var addrHtml = $(this).parents('.address').clone().appendTo('#map-addresses');
+            $('.address-buttons', addrHtml).remove();
+
+            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+
+            if (over_enable) {
+                coords = new google.maps.LatLng(lat, lon);
+                map.setCenter(coords);
+                marker = new google.maps.Marker({
+                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                    position: coords,
+                    animation: google.maps.Animation.DROP,
+                    map: map
+                });
+
+                markers.push(marker);
+                setMap(markers, map);
+            } else {
+                codeAddress(address, function (coords) {
+                    map.setCenter(coords);
+                    marker = new google.maps.Marker({
+                        icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                        position: coords,
+                        animation: google.maps.Animation.DROP,
+                        map: map
+                    });
+
+                    markers.push(marker);
+                    setMap(markers, map);
+                });
+            }
+            count++;
+        });
+    }
+
+    function codeAddress(address, callback) {
+        var geocoder = new google.maps.Geocoder();
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    callback(results[0].geometry.location);
+                }
+            });
+        }
+    }
+
+    function setMap(markers, map) {
+        zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function (event) {
+
+            if (this.getZoom() > 9) {
+                if (markers.length == 1) {
+                    // Change max/min zoom here
+                    this.setZoom(15);
+                }
+            }
+            google.maps.event.removeListener(zoomChangeBoundsListener);
+        });
+
+        var bounds = new google.maps.LatLngBounds();
+        $.each(markers, function (index, marker) {
+            marker.setMap(map);
+            bounds.extend(marker.getPosition());
+        });
+        map.fitBounds(bounds);
+    }
+
+    var isForbiddenHost = "";
+    var noEmailMessage = "<h1>Sorry!</h1> <p>[NAME] would like to hear from you but prefers to be contacted by phone. [PHONE_TEXT]";
+    var notAcceptingNewClientMessage = "[NAME] is not currently accepting new clients.";
+    var personMessageLabel = "Message";
+    var personMessageFloatingLabel = "How can I help you? (200 words max)";
+    var companyMessageLabel = "Message";
+    var companyMessageFloatingLabel = "How can we help you? (200 words max)";
+    var ajaxErrorMessage = 'There was a problem sending your email. Please try again later.';
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchas&render=explicit" async defer></script>
+&nbsp;
+<!-- detail END: Search Only: 0.105 Sec., Total: 0.167 Sec. -->
+<br>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/modal/modal.js'></script>
+<div id='searchModal' class='modal search-modal' data-directory-url='https://therapists.psychologytoday.com/rms/prof_results.php'><div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-body scrollable">
+                    <div id='autosuggestContainer' class='autosuggest-container'
+         data-placeholder="City, Zip or Name"
+         data-endpoint="https://therapists.psychologytoday.com/rms/search/suggest">
+        <div class='autosuggest-header'>
+            <div class='autosuggest-input'>
+                <i class='icon icon-chevron-left hidden-sm hidden-md hidden-lg' data-dismiss='modal'></i>
+                <input type="text" id='autosuggestSearchInput' class="search-autosuggest"
+                       data-label='Search_SearchField'
+                       autosuggest='off' autocorrect='off' autocapitalize='off' tabindex=0>
+                <input type="hidden" id='autosuggestHiddenInput'>
+                <button id='autosuggestSearchButton' class="btn btn-blue btn-search"
+                        title="Search for Therapists near you.">
+                    <i class="icon icon-search icon-white"></i>
+                </button>
+            </div>
+            <div class='autosuggest-message'></div>
+        </div>
+
+        <div id='searchSuggestions' class='autosuggest-sections'>
+            <div id='locationSuggestions' class='autosuggest-section' data-section='locations'></div>
+            <div id='nameSuggestions' class='autosuggest-section' data-section='names'></div>
+        </div>
+    </div>
+
+    <script src='https://resources.psychologytoday.com/v3.26.2/js/search/autosuggest.js' charset='UTF-8'></script>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+</div></div>
+<footer id="pageFooter" class="outerWrapper">
+    <div class="pageInner"><section id='metaSearches' class='hidden-xs collapsible'>
+    <h3>Searches containing Bob Childs</h3>
+    <div class='row collapsible-content'>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=180&amp;topid=132845' title='Adoption Therapists in Cambridge, MA'>Adoption Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=132845' title='Anxiety Therapists in Cambridge, MA'>Anxiety Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=132845' title='Bereavement Therapists in Cambridge, MA'>Bereavement Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=287&amp;topid=132845' title='Couples Therapists in Cambridge, MA'>Couples Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=2&amp;topid=132845' title='Depression Therapists in Cambridge, MA'>Depression Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=26&amp;topid=132845' title='Divorce Therapists in Cambridge, MA'>Divorce Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=310&amp;topid=132845' title='Existential Therapists in Cambridge, MA'>Existential Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=132845' title='Fears Therapists in Cambridge, MA'>Fears Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=132845' title='Grief Therapists in Cambridge, MA'>Grief Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=297&amp;topid=132845' title='Humanistic Therapists in Cambridge, MA'>Humanistic Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=286&amp;topid=132845' title='Individuals Therapists in Cambridge, MA'>Individuals Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=132845' title='Loss Therapists in Cambridge, MA'>Loss Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=132845' title='Mourning Therapists in Cambridge, MA'>Mourning Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=228&amp;topid=132845' title='Peer Relationships Therapists in Cambridge, MA'>Peer Relationships Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=132845' title='Phobia Therapists in Cambridge, MA'>Phobia Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=19&amp;topid=132845' title='Post-Traumatic Stress Therapists in Cambridge, MA'>Post-Traumatic Stress Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=298&amp;topid=132845' title='Psychoanalytic Therapists in Cambridge, MA'>Psychoanalytic Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=299&amp;topid=132845' title='Psychodynamic Therapists in Cambridge, MA'>Psychodynamic Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=1&amp;topid=132845' title='Relationship Issues Therapists in Cambridge, MA'>Relationship Issues Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=260&amp;topid=132845' title='Self Esteem Therapists in Cambridge, MA'>Self Esteem Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=256&amp;topid=132845' title='Sexual Abuse Therapists in Cambridge, MA'>Sexual Abuse Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=18&amp;topid=132845' title='Spirituality Therapists in Cambridge, MA'>Spirituality Therapists in Cambridge, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=19&amp;topid=132845' title='Trauma and PTSD Therapists in Cambridge, MA'>Trauma and PTSD Therapists in Cambridge, MA</a></li>
+                                            </ul>
+        </div>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=180&amp;topid=132845' title='Adoption Therapists in 02138'>Adoption Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=3&amp;topid=132845' title='Anxiety Therapists in 02138'>Anxiety Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=14&amp;topid=132845' title='Bereavement Therapists in 02138'>Bereavement Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=287&amp;topid=132845' title='Couples Therapists in 02138'>Couples Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=2&amp;topid=132845' title='Depression Therapists in 02138'>Depression Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=26&amp;topid=132845' title='Divorce Therapists in 02138'>Divorce Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=310&amp;topid=132845' title='Existential Therapists in 02138'>Existential Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=3&amp;topid=132845' title='Fears Therapists in 02138'>Fears Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=14&amp;topid=132845' title='Grief Therapists in 02138'>Grief Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=297&amp;topid=132845' title='Humanistic Therapists in 02138'>Humanistic Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=286&amp;topid=132845' title='Individuals Therapists in 02138'>Individuals Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=14&amp;topid=132845' title='Loss Therapists in 02138'>Loss Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=14&amp;topid=132845' title='Mourning Therapists in 02138'>Mourning Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=228&amp;topid=132845' title='Peer Relationships Therapists in 02138'>Peer Relationships Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=3&amp;topid=132845' title='Phobia Therapists in 02138'>Phobia Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=19&amp;topid=132845' title='Post-Traumatic Stress Therapists in 02138'>Post-Traumatic Stress Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=298&amp;topid=132845' title='Psychoanalytic Therapists in 02138'>Psychoanalytic Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=299&amp;topid=132845' title='Psychodynamic Therapists in 02138'>Psychodynamic Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=1&amp;topid=132845' title='Relationship Issues Therapists in 02138'>Relationship Issues Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=260&amp;topid=132845' title='Self Esteem Therapists in 02138'>Self Esteem Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=256&amp;topid=132845' title='Sexual Abuse Therapists in 02138'>Sexual Abuse Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=18&amp;topid=132845' title='Spirituality Therapists in 02138'>Spirituality Therapists in 02138</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02138&amp;spec=19&amp;topid=132845' title='Trauma and PTSD Therapists in 02138'>Trauma and PTSD Therapists in 02138</a></li>
+                            </ul>
+        </div>
+    </div>
+</section><div class="row">		<div class="promo-ribbon hidden-xs col-sm-12 hidden-md hidden-lg">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div>	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footerActions">
+		<div class="hidden-sm hidden-md hidden-lg text-xs-center">
+			<a href="https://member.psychologytoday.com/rms-sec/"
+			 class="footerLoginBtn btn btn-blue">Log In</a>
+
+			<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+			 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+		</div><div class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<a href="https://therapists.psychologytoday.com/"
+ id="footerLogoTd" class="footerLogo ui-sprite"
+ title="Psychology Today">Psychology Today</a>
+
+<a href="https://www.healthprofs.com/cam/"
+ id="footerLogoCam" class="footerLogo ui-sprite"
+ title="The Health Professionals Directory">HealthProfs.com</a>
+
+<div class="footerActions col-xs-12 hidden-sm hidden-md hidden-lg">
+	<a href="https://member.psychologytoday.com/rms-sec/"
+	 class="footerLoginBtn btn btn-blue">Log In</a>
+
+	<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+	 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+</div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-left text-xs-center"><ul id="footerNav">
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/about.html" class="footerNavItem first">About</a>
+</li>	<li><a href="https://therapists.psychologytoday.com/us/careers" class="footerNavItem first">Careers</a></li><li>
+    <a href="https://therapists.psychologytoday.com/rms/content/privacy.html" class="footerNavItem">Privacy</a>
+</li>
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/terms.html" class="footerNavItem">Terms</a>
+</li></ul><div id="footerCopyright">
+&copy; 2017 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a><span class="hidden-xs hidden-sm">,
+Psychology Today is &copy; 2017
+  <a href="https://www.psychologytoday.com">Sussex Publishers, LLC</a>
+</span></div></div>		</div>
+		<div class="promo-ribbon hidden-xs col-xs-12 hidden-sm col-md-6 col-lg-6 pull-left">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div></div>
+</div>
+</footer>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9980773" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+//]]>
+</script>
+<noscript>
+  <img alt=""
+  src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9980773&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<div style="font-size: 0px; margin-top: -1px">
+<!-- Google Code for Therapy Directory Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071677164;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "JZ0bCKqCmgMQ7P2B_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071677164/?value=0&amp;label=JZ0bCKqCmgMQ7P2B_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div><!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.async = true;
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src =
+["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&cg=0&cc=1&si=",
+escape(window.location.href), "&rp=", escape(document.referrer),
+"&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img
+src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>

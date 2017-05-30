@@ -1,0 +1,2219 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Dr. Ruxandra Carp, Psychiatrist, Winchester, MA 01890 | Psychology Today</title>
+<meta name="description" content="Dr. Ruxandra Carp, Psychiatrist, Winchester, MA 01890, (781) 519-0442, BcBs/ Tufts. Harvard Medical School psychiatry residency and fellowship graduate. Double Board Certified in Adult Psychiatry and in Child / Adolescent Psychiatry. Recipient of Doctors&#039; Choice Awards (8/2015). I focus on developing a collaborative relationship with my clients and I am deeply interested in getting to know their unique strengths, needs, and life experiences. I combine evidence based medicine with various therapeutic interventions, to empower my clients to balance their emotions, thought patterns, and reactions. Subsequently, they strenthen their confidence and motivation to develop healthier life styles and pursue their personal, academic, and career goals.">
+<meta name="robots" content="index,follow">
+<link rel='stylesheet' type='text/css' href='https://resources.psychologytoday.com/v3.26.2/css/directoryweb/psychologytoday.en-US.css'>
+<link rel="icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="shortcut icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v3.26.2/images/apple-touch-icon-TD.png">
+
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/fastclick.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/directoryweb-sx.ui.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.flag.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.gallery.js"></script>
+
+<script>
+window.addEventListener('load', function() {
+    FastClick.attach(document.body);
+}, false);
+</script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/bootstrap/bootstrap.min.js'></script><script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/contactShare.js'></script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/form.js'></script>
+<meta name="dcterms.modified" content="2016-May-13">
+<meta name="geo.region" content="US-MA">
+<link rel="canonical" href="https://psychiatrists.psychologytoday.com/rms/name/Ruxandra_Carp_MD_Winchester_Massachusetts_160551">
+<meta name="dcterms.title" content="Dr. Ruxandra Carp, Psychiatrist, Winchester, MA 01890">
+<meta name="dcterms.creator" content="Psychology Today">
+<meta name="dcterms.coverage" content="Winchester, MA 01890">
+<meta name="geo.placename" content="Winchester, MA 01890">
+<script>
+  var dataLayer = [{'SxTrackingID' : 'UA-2018330-4'}];
+</script>
+<!-- Start Optimizely Code -->
+<script src="https://cdn.optimizely.com/js/6265930501.js"></script>
+<!-- End Optimizely Code -->
+</head>
+<body id='top'  class="prof-detail"  data-spid-raw="rms" data-spid-type="TD">
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<nav id="subBrandsXsm" class="xsm-subBrands-show hide">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+<div id="pageContainer">
+<div id="headerShadow"></div>
+<header id="headerWrapper" class="outerWrapper TD fixed-header">
+
+    <div class="pageInner">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+	        	<button class="btn btn-frost xsm-subBrands-hidden hidden-xs" id="subBrandsBtn"
+	onclick="$('html').toggleClass('subBrandsOpen');sx.showOverlay();">
+		<i class="icon icon-white icon-show_lines"></i>
+	</button>
+	<a class="xsm-subBrands-show hidden-sm hidden-md hidden-lg" id="subBrandsBtnXs">
+		<i class="icon icon-white icon-show_lines"></i>
+	</a>
+                <h1><a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_Brand" id="headerBrand" class="headerLogo brandFace"
+                    title="Psychology Today"><span id='headerLogo' class='ui-sprite ui-sprite-resp'>Psychology Today</span></a>
+                    <a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_SubBrand"
+  id="headerSubBrand"
+  class="headerLogo subBrandFace"
+  title="Therapists">
+  Therapists</a>
+  
+
+	            </h1>
+			    <nav id="subBrands" class="xsm-subBrands-hidden">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+                
+    <a href="https://therapists.psychologytoday.com/" title="Find a Therapist"
+     id="headerSearchIcon" class="hidden-sm hidden-md hidden-lg"
+    data-trigger='search-autosuggest' data-event-label='Search_HeaderButton'></a>
+    <div id="headerSearchBox" class="hidden-sm hidden-md hidden-lg" 
+     data-trigger='search-autosuggest' data-event-label='Search_SearchField'>
+        <input type="text" class="hidden-sm hidden-md hidden-lg"
+           placeholder="City/Zip or Name"
+            title="Search for Therapists near you.">
+    </div>
+           </div>
+           <div class="col-lg-4 col-md-4 col-sm-5  hidden-xs" id="headerActions" style="text-align: right;">
+<a href="https://member.psychologytoday.com/rms-sec/" class="btn btn btn-frost headerBtn">Log In</a>
+<a href="https://member.psychologytoday.com/therapist/?src=RMSLOG"
+  class="btn headerBtn btn-orange">Sign Up and Get Listed</a>
+
+</div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('#pageContainer').on(sx.transitionEndEvent, function(e) {
+
+        if (e.target.id != 'pageContainer') {
+            return;
+        }
+
+        if ($('#subBrandsXsm').hasClass('closing')) {
+            $('#headerWrapper').css({
+                'position' : 'fixed',
+                'top' : '0px'
+            });
+            $('#subBrandsXsm').removeClass('show');
+            $('#subBrandsXsm').addClass('hide');
+            $('#subBrandXsm').removeClass('closing');
+            $('#pageContainer').removeClass('overlay');
+
+            var scrollPosition = Math.abs(parseInt($('body').css('top'),10));
+            $('body').css({
+                position: 'static',
+                overflow: 'auto'
+            });
+            $('body').scrollTop(scrollPosition);
+        } else {
+            $('#subBrandXsm').removeClass('opening');
+        } 
+    });
+
+    $('#subBrandsBtnXs').on('click', function(e) {
+        e.preventDefault();
+        if ($('html').hasClass('subBrandsOpenXsm')) {
+            $('#subBrandsXsm').removeClass('opening');
+            $('#subBrandsXsm').addClass('closing');
+            $('html').removeClass('subBrandsOpenXsm');
+            $('#pageContainer').off('click.menuDismissal');
+        } else {
+            $('#pageContainer').on('click.menuDismissal', function(e) {
+                e.preventDefault();
+                if ($('html').hasClass('subBrandsOpenXsm') ) {
+                    if ($('#pageContainer').hasClass('overlay')) {
+                        $('#subBrandsXsm').removeClass('opening');
+                        $('#subBrandsXsm').addClass('closing');
+                        $('html').removeClass('subBrandsOpenXsm');
+                        $('#pageContainer').removeClass('overlay');
+                        $('#pageContainer').off('click.menuDismissal');
+                        $('#pageContainer *').css({ 'pointer-events' : 'auto' });
+                    } else {
+                       $('#pageContainer').addClass('overlay');
+                    }
+                } 
+            });
+            $('#pageContainer *').css({ 'pointer-events' : 'none' });
+            $('#subBrandsXsm').addClass('show');
+            $('#subBrandsXsm').addClass('opening');
+            $('#subBrandsXsm').removeClass('closing');
+            $('#headerWrapper').css({
+                'position' : 'absolute',
+                'top' : $(window).scrollTop() + 'px'
+            });
+            $('body').css({
+                position: 'fixed',
+                overflow: 'hidden',
+                width: $('body').width(),
+                top: '-' + $('body').scrollTop() + 'px'
+            })
+            $('html').addClass('subBrandsOpenXsm');
+        }
+    });     
+});
+</script>
+
+<div id="main" class="no-min-height">    <div class ="breadcrumb-nav profile-breadcrumb">
+    <div class="pageInner">
+        <div class="contextual">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <div class="contextual breadcrumb">
+                        <a href="https://therapists.psychologytoday.com/rms/prof_results.php?sid=1487103260.3064_24526&state=Massachusetts&rec_next=21&tr=BackResults"
+                           data-event-label='ProfileNav_BackToSearchLink'>
+                            <i class="icon icon-chevron-left back"></i>Back To Results</a>
+                        <a href="https://therapists.psychologytoday.com/rms/"
+                           data-event-label='ProfileNav_NewSearchLink' class="hidden-xs">
+                            <i class="icon icon-search search"></i>New Search</a>
+                    </div>
+                </div>
+                                    <div class="col-sm-6 col-med-6  col-lg-6">
+                        <div class="contextual-right breadcrumb">
+                                                        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=40656&sid=1487103260.3064_24526&state=Massachusetts&rec_next=21&ref=129&tr=PrevProf"
+                               data-event-label='ProfileNav_prevProfLink' class="" title="Wendy Greene">
+                                <i class="icon icon-chevron-left  back hidden-xs"></i>Previous</a>
+                                                                                    <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=175034&sid=1487103260.3064_24526&state=Massachusetts&rec_next=21&ref=131&tr=NextProf"
+                               data-event-label='ProfileNav_nextProfLink' class="profile-next"
+                               title="Theresa Garvin">Next<i class="icon icon-chevron-right next hidden-xs"></i></a>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id='profileContainer' class="pageInner profile"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="160551"
+     data-prof-name="Ruxandra Carp"
+     data-phone="(781) 519-0442"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551"
+     data-profile-image="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478401-2_120x150.jpg?pu=1445286073"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div id="profHdr" class="row">
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg profile-title-container">
+                            <h1 itemprop="name">
+                    Ruxandra Carp</h1>
+                <div class="profile-title">
+                    <h2>
+                                                                                                                                            <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="36" 
+>Psychiatrist</span>, </span>
+                                                                                                                                            <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="17" 
+>MD</span></span>
+                                            </h2>
+                </div>
+                                    <div class="profile-title-verified hidden-sm hidden-md hidden-lg">
+                        <span data-target="#modalVerified" data-toggle="modal">
+                                <i class="icon icon-ok"></i>Verified by <span>Psychology Today</span>
+                        </span>
+                    </div>
+                                    </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 photo-column no-padding-right">
+                            <span title="Ruxandra Carp, MD, Psychiatrist in Winchester"
+                      id="profilePhoto"
+                      data-target="#modalPhotoContact" data-toggle="modal">
+                    <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478401-2_120x150.jpg?pu=1445286073" itemprop="image"
+                         alt="Ruxandra Carp, MD, Psychiatrist in Winchester" style="width:100%"
+                         data-event-label="Photo_ModalLink">
+                    <div class="photo-enlarge hidden-sm hidden-md hidden-lg">
+                        <div class="btns">
+                            <i class="icon icon-enlarge"></i>
+                        </div>
+                    </div>
+                </span>
+                        <div class="hidden-xs profile-buttons">
+                                        <a
+        href="tel:7815190442"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(781) 519-0442</a>
+    <button
+        title="Send email to Ruxandra Carp"
+        class="btn btn-block btn-orange"
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+        >Email Me</button>
+<button
+        title="Recommend Ruxandra Carp to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/160551/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Ruxandra Carp">Website</a>
+                            </div>
+                    </div>
+
+        <div class="profile-middle profile-flag col-xs-8 col-sm-10 col-md-10 col-lg-10">
+            <div class="row">
+                <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+                                            <h1 itemprop="name">
+                            Ruxandra Carp</h1>
+                        <div class="profile-title">
+                            <h2>
+                                                                                                                                                                                    <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="36" 
+>Psychiatrist</span>, </span>
+                                                                                                                                                                                    <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="17" 
+>MD</span></span>
+                                                            </h2>
+                        </div>
+                                    </div>
+                <div class="hidden-xs col-sm-6 col-md-5 col-lg-5 text-right">
+                                                                        <div class="profile-phone">
+                                <i class="icon icon-earphone icon-white profile-phone-icon"></i>
+                                <span itemprop="telephone"><a href="tel:7815190442"
+                                                              data-event-label="Profile_PhoneLink">(781) 519-0442</a></span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="hidden-xs col-sm-10 col-md-10 col-lg-10">
+            <div class="profile-menu hidden-xs">
+    <ul>
+        <li>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;p=1&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21"
+               class="active"               title="About">About</a>
+        </li>
+                    <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;p=2&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21"
+                                      title="Photos">Photos</a>
+            </li>
+                            <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;p=4&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21"
+                                      title="Network">Network</a>
+            </li>
+                    </ul>
+            <div class="profile-verified">
+            <div class="verified-wrapper">
+                <div class="verified" data-target="#modalVerified" data-toggle="modal"
+                     data-event-label="Profile_Verified">
+                    <div class="verified-link">
+                        Verified by <span>Psychology Today</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        </div>
+        <div class="col-xs-8 hidden-sm hidden-md hidden-lg profile-buttons">
+                <a
+        href="tel:7815190442"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(781) 519-0442</a>
+    <button
+        title="Send email to Ruxandra Carp"
+        class="btn btn-block "
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+        >Email Me</button>
+<button
+        title="Recommend Ruxandra Carp to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/160551/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Ruxandra Carp">Website</a>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+            <div id="profile-content">
+                    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-7 col-lg-7">
+            <div class="hidden-sm hidden-md hidden-lg">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Ruxandra Carp M.D., Child &amp; Adult Psychiatry<br>
+                                            <span itemprop='streetAddress'>
+                    One Mt Vernon St
+                </span><br>
+            
+                            # 208<br>
+                    
+                    <span itemprop="addressLocality">Winchester</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>01890</span><br>
+                    
+                            <a href='tel:7815190442'
+               data-event-label='Address1_PhoneLink'>(781) 519-0442</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Ruxandra Carp"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                    >Email Me
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.4527061"
+                    data-map-lon="-71.136786"
+                    data-map-over-enable=""
+                    data-address-rank-1="One Mt Vernon St, Winchester, Massachusetts, 01890">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Belmont.html" class="textNoLink" title="Therapists in Belmont, MA">Belmont, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Winchester.html" class="textNoLink" title="Therapists in Winchester, MA">Winchester, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/01890.html" class="textNoLink"
+                               title="Therapists in 01890">01890</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02476.html" class="textNoLink"
+                               title="Therapists in 02476">02476</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02478.html" class="textNoLink"
+                               title="Therapists in 02478">02478</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/160551/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Ruxandra Carp">Website</a><br>
+            </div>
+</div>            </div>
+            </div>
+                            <div class="profile-statement">
+                    <hr class="hidden-sm hidden-md hidden-lg">
+                    <div class="section profile-personalstatement">
+                    <div class="statementPara">
+            BcBs/ Tufts. Harvard Medical School psychiatry residency and fellowship graduate. Double Board Certified in Adult Psychiatry and in Child / Adolescent Psychiatry. Recipient of Doctors&#039; Choice Awards (8/2015). I focus on developing a collaborative relationship with my clients and I am deeply interested in getting to know their unique strengths, needs, and life experiences. I combine evidence based medicine with various therapeutic interventions, to empower my clients to balance their emotions, thought patterns, and reactions. Subsequently, they strenthen their confidence and motivation to develop healthier life styles and pursue their personal, academic, and career goals.
+        </div>
+    
+                    <div class="statementPara">
+            CLIENT TESTIMONIALS:                                            www.ruxandracarpmd.com                                                                        COLLEAGUE TESTIMONIALS:                                                                                                                      www.doctors choice awards.org/nominees/dr-ruxandra-carp
+        </div>
+    
+                    <div class="statementPara">
+            Additional degrees enhacing my understanding of how the mind works and my repertoir of therapy interventions: Master of Arts in Clinical Psychology. Doctoral level education in clinical psychology (PsyD doctoral candidate). Fellowship in Psychoanalysis. Life Coach certification. Master Reiki Therapy ceritfication. Master of Arts in Anthropology.
+        </div>
+    </div>                </div>
+                <div class="profile-gallery">
+    <div class="gallery1" data-ui-type="gallery">
+        <div class="gallery-title">
+            Ruxandra Carp's Photo Gallery
+        </div>
+        <div class="photo-large">
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="249947">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=249947&amp;media=https%3A%2F%2Fcdn4.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-249947-1_1500x1500.jpg%3Fpu%3D1389416940&amp;description=Ruxandra+Carp-I+hope+my+office+space+contributes+to+a+safe+and+relaxed+atmosphere%2C+where+clients+feel+at+ease."
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="249948">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=249948&amp;media=https%3A%2F%2Fcdn2.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-249948-1_1500x1500.jpg%3Fpu%3D1445272721&amp;description=Ruxandra+Carp-It+is+my+hope+this+space+is+inviting+to+clients+of+all+ages."
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="249950">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=249950&amp;media=https%3A%2F%2Fcdn0.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-249950-1_1500x1500.jpg%3Fpu%3D1389853237&amp;description=Ruxandra+Carp-The+waiting+room+is+designed+to+accommodate+a+cheerful+play+area+for+children."
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="249949">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=249949&amp;media=https%3A%2F%2Fcdn4.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-249949-1_1500x1500.jpg%3Fpu%3D1389416460&amp;description=Ruxandra+Carp-The+waiting+area+is+private%2C+furnished+with+comfortable+seating.+Clients+may+unwind%2C+read%2C+or+listen+to+music."
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="251255">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=251255&amp;media=https%3A%2F%2Fcdn2.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-251255-1_1500x1500.jpg%3Fpu%3D1389853127&amp;description=Ruxandra+Carp-I+am+a+Blue+Cross+Blue+Shield+and+Tufts+provider.+I%27d+be+happy+to+help%2C+so+please+feel+free+to+call%2F+email+with+any+questions.+Thank+you%21"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="267885">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=267885&amp;media=https%3A%2F%2Fcdn0.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-267885-1_1500x1500.jpg%3Fpu%3D1395075995&amp;description=Ruxandra+Carp-http%3A%2F%2Fwww.ruxandracarpmd.com%2Ftestimonials.html"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="267922">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=267922&amp;media=https%3A%2F%2Fcdn4.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-267922-1_1500x1500.jpg%3Fpu%3D1395077368&amp;description=Ruxandra+Carp-A+warm+welcome+to+potential+adult+clients%2C+pediatric+clients%2C+and+families%21"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="478067">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=478067&amp;media=https%3A%2F%2Fcdn2.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-478067-1_1500x1500.jpg%3Fpu%3D1445272671&amp;description=Ruxandra+Carp-http%3A%2F%2Fwww.doctors+choice+awards.org%2Fnominees%2Fdr-ruxandra-carp"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="478417">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=478417&amp;media=https%3A%2F%2Fcdn0.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-478417-1_1500x1500.jpg%3Fpu%3D1445286592&amp;description=Ruxandra+Carp-"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="478427">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551&amp;sid=1487103260.3064_24526&amp;state=Massachusetts&amp;rec_next=21&amp;phid=478427&amp;media=https%3A%2F%2Fcdn4.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F51%2F05%2F160551-478427-1_1500x1500.jpg%3Fpu%3D1445287184&amp;description=Ruxandra+Carp-"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                    </div>
+        <div class="photo-caption"></div>
+        <ul class="thumbnails">
+                                                                                                                            <li class="sliderItem">
+                    <a href="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249947-1_500x500.jpg?pu=1389416940"
+                       title="I hope my office space contributes to a safe and relaxed atmosphere, where clients feel at ease." class="thumbnail active"
+                       data-gallery-original="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249947-1_1500x1500.jpg?pu=1389416940"
+                       data-photo_id="249947">
+                        <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249947-1_100x100.jpg?pu=1389416940" alt="I hope my office space contributes to a safe and relaxed atmosphere, where clients feel at ease."
+                             class="thumbnail-img active">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249948-1_500x500.jpg?pu=1445272721"
+                       title="It is my hope this space is inviting to clients of all ages." class="thumbnail"
+                       data-gallery-original="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249948-1_1500x1500.jpg?pu=1445272721"
+                       data-photo_id="249948">
+                        <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249948-1_100x100.jpg?pu=1445272721" alt="It is my hope this space is inviting to clients of all ages."
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249950-1_500x500.jpg?pu=1389853237"
+                       title="The waiting room is designed to accommodate a cheerful play area for children." class="thumbnail"
+                       data-gallery-original="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249950-1_1500x1500.jpg?pu=1389853237"
+                       data-photo_id="249950">
+                        <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249950-1_100x100.jpg?pu=1389853237" alt="The waiting room is designed to accommodate a cheerful play area for children."
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249949-1_500x500.jpg?pu=1389416460"
+                       title="The waiting area is private, furnished with comfortable seating. Clients may unwind, read, or listen to music." class="thumbnail"
+                       data-gallery-original="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249949-1_1500x1500.jpg?pu=1389416460"
+                       data-photo_id="249949">
+                        <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-249949-1_100x100.jpg?pu=1389416460" alt="The waiting area is private, furnished with comfortable seating. Clients may unwind, read, or listen to music."
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-251255-1_500x500.jpg?pu=1389853127"
+                       title="I am a Blue Cross Blue Shield and Tufts provider. I&#039;d be happy to help, so please feel free to call/ email with any questions. Thank you!" class="thumbnail"
+                       data-gallery-original="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-251255-1_1500x1500.jpg?pu=1389853127"
+                       data-photo_id="251255">
+                        <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-251255-1_100x100.jpg?pu=1389853127" alt="I am a Blue Cross Blue Shield and Tufts provider. I&#039;d be happy to help, so please feel free to call/ email with any questions. Thank you!"
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267885-1_500x500.jpg?pu=1395075995"
+                       title="http://www.ruxandracarpmd.com/testimonials.html" class="thumbnail"
+                       data-gallery-original="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267885-1_1500x1500.jpg?pu=1395075995"
+                       data-photo_id="267885">
+                        <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267885-1_100x100.jpg?pu=1395075995" alt="http://www.ruxandracarpmd.com/testimonials.html"
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267922-1_500x500.jpg?pu=1395077368"
+                       title="A warm welcome to potential adult clients, pediatric clients, and families!" class="thumbnail"
+                       data-gallery-original="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267922-1_1500x1500.jpg?pu=1395077368"
+                       data-photo_id="267922">
+                        <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-267922-1_100x100.jpg?pu=1395077368" alt="A warm welcome to potential adult clients, pediatric clients, and families!"
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478067-1_500x500.jpg?pu=1445272671"
+                       title="http://www.doctors choice awards.org/nominees/dr-ruxandra-carp" class="thumbnail"
+                       data-gallery-original="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478067-1_1500x1500.jpg?pu=1445272671"
+                       data-photo_id="478067">
+                        <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478067-1_100x100.jpg?pu=1445272671" alt="http://www.doctors choice awards.org/nominees/dr-ruxandra-carp"
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478417-1_500x500.jpg?pu=1445286592"
+                       title="" class="thumbnail"
+                       data-gallery-original="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478417-1_1500x1500.jpg?pu=1445286592"
+                       data-photo_id="478417">
+                        <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478417-1_100x100.jpg?pu=1445286592" alt=""
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                                                                            <li class="sliderItem">
+                    <a href="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478427-1_500x500.jpg?pu=1445287184"
+                       title="" class="thumbnail"
+                       data-gallery-original="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478427-1_1500x1500.jpg?pu=1445287184"
+                       data-photo_id="478427">
+                        <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478427-1_100x100.jpg?pu=1445287184" alt=""
+                             class="thumbnail-img">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</div>                        <div class="profile-consultation">
+    <strong>Take the first step to help.</strong> Call or <a href='#' data-event-label='FreeConsult_EmailLink' data-toggle='modal' data-target='#modalContactForm' data-element-target='#profileContainer' data-action-url='https://therapists.psychologytoday.com/rms/profile/160551/contact' rel='nofollow'>Email</a> Ruxandra Carp now - <a href='tel:7815190442' data-event-label='FreeConsult_PhoneLink'><strong>(781) 519-0442</strong></a>
+</div>                            <div class="profile-qualifications">
+<h2>Qualifications</h2>
+<ul>
+            <li>
+            <strong>Years in Practice:</strong>
+            10+ Years
+        </li>
+    
+            <li>
+            <strong>School:</strong>
+            Harvard Residency and Fellowship</li>
+                    <li>
+            <strong>License No. and State:</strong>
+            243367 Massachusetts
+        </li>
+                                </ul>
+</div>                                        <hr>
+                <div class="profile-finances">
+    <h2>Finances</h2>
+    <ul>
+                    <li>
+                <strong>Avg Cost (per session):</strong> $80 - $290
+            </li>
+                            <li>
+                <strong>Sliding Scale:</strong> Yes
+            </li>
+                                    <li>
+                <strong>Accepts Insurance:</strong> Yes
+            </li>
+                            <li>
+                <strong>Accepted Payment Methods: </strong>
+                                    Cash,                                     Check                            </li>
+            </ul>
+
+                        <br><strong>Accepted Insurance Plans</strong>
+            <div class="spec-list">
+                                                                                                            <div class="row">
+                                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-tight-right">
+                    <ul>
+                    
+                    <li>BlueCross and BlueShield</li>
+                    
+                                                                            
+                    <li>Tufts</li>
+                                        </ul>
+                    </div>
+                    
+                                                                                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-tight-right">
+                    <ul>
+                    
+                    <li>Out of Network</li>
+                                        </ul>
+                    </div>
+                    
+                                            </div>
+                                                </div>
+                                    <div class="profile-verify-ins">
+            Verify your health insurance coverage when you
+                            <a href="#"
+                   rel="nofollow"
+                   data-event-label="VerifyInsurance_EmailLink"
+                   data-toggle="modal"
+                   data-target="#modalContactForm"
+                   data-element-target="#profileContainer"
+                   data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                   >arrange your first visit</a>.
+                    </div>
+    </div>                                        <hr>
+                <div class="profile-additional-credentials">
+    <h2>Additional Credentials</h2>
+    <ul>
+                                                                                        <li><strong>Certificate:</strong> The American Board of Psychiatry and Neurology/Board Certified in Adult Psych</li>
+                <li><strong>Certificate Date:</strong> 2012</li>
+                                                                                                    <li><strong>Certificate:</strong> The American Board of Psychiatry and Neurology/Board Certified in Child Psych</li>
+                <li><strong>Certificate Date:</strong> 2013</li>
+                    
+    </ul>
+    </div>                                </div>
+        <div class="col-xs-12 col-sm-4 col-md-5 col-lg-5">
+            <div class="hidden-xs">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Ruxandra Carp M.D., Child &amp; Adult Psychiatry<br>
+                                            <span itemprop='streetAddress'>
+                    One Mt Vernon St
+                </span><br>
+            
+                            # 208<br>
+                    
+                    <span itemprop="addressLocality">Winchester</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>01890</span><br>
+                    
+                            <a href='tel:7815190442'
+               data-event-label='Address1_PhoneLink'>(781) 519-0442</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Ruxandra Carp"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                    >Email Me
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.4527061"
+                    data-map-lon="-71.136786"
+                    data-map-over-enable=""
+                    data-address-rank-1="One Mt Vernon St, Winchester, Massachusetts, 01890">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Belmont.html" class="textNoLink" title="Therapists in Belmont, MA">Belmont, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Winchester.html" class="textNoLink" title="Therapists in Winchester, MA">Winchester, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/01890.html" class="textNoLink"
+                               title="Therapists in 01890">01890</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02476.html" class="textNoLink"
+                               title="Therapists in 02476">02476</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02478.html" class="textNoLink"
+                               title="Therapists in 02478">02478</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/160551/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Ruxandra Carp">Website</a><br>
+            </div>
+</div>            </div>
+            </div>
+                            <hr>
+<div class="spec-list">
+            <h2>Specialties</h2>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="specialties-list">
+                                            <li class='highlight'>Child or Adolescent</li>
+                                            <li class='highlight'>Mood Disorders</li>
+                                            <li class='highlight'>Medication Management</li>
+                                    </ul>
+            </div>
+        </div>
+    
+                        
+                                
+                                                <h3 class="spec-subcat">Issues</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>ADHD</li>
+                                                                        
+                                                        <li>Anger Management</li>
+                                                                        
+                                                        <li>Anxiety</li>
+                                                                        
+                                                        <li>Asperger's Syndrome</li>
+                                                                        
+                                                        <li>Autism</li>
+                                                                        
+                                                        <li>Behavioral Issues</li>
+                                                                        
+                                                        <li>Bipolar Disorder</li>
+                                                                        
+                                                        <li>Career Counseling</li>
+                                                                        
+                                                        <li>Codependency</li>
+                                                                        
+                                                        <li>Coping Skills</li>
+                                                                        
+                                                        <li>Depression</li>
+                                                                        
+                                                        <li>Developmental Disorders</li>
+                                                                        
+                                                        <li>Emotional Disturbance</li>
+                                                                        
+                                                        <li>Grief</li>
+                                                                        
+                                                        <li>Infertility</li>
+                                                                        
+                                                        <li>Infidelity</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Internet Addiction</li>
+                                                                        
+                                                        <li>Learning Disabilities</li>
+                                                                        
+                                                        <li>Life Coaching</li>
+                                                                        
+                                                        <li>Obesity</li>
+                                                                        
+                                                        <li>Obsessive-Compulsive (OCD)</li>
+                                                                        
+                                                        <li>Oppositional Defiance</li>
+                                                                        
+                                                        <li>Parenting</li>
+                                                                        
+                                                        <li>School Issues</li>
+                                                                        
+                                                        <li>Self Esteem</li>
+                                                                        
+                                                        <li>Sleep or Insomnia</li>
+                                                                        
+                                                        <li>Testing and Evaluation</li>
+                                                                        
+                                                        <li>Trauma and PTSD</li>
+                                                                        
+                                                        <li>Traumatic Brain Injury</li>
+                                                                        
+                                                        <li>Weight Loss</li>
+                                                                        
+                                                        <li>Women's Issues</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Client Focus</h2>
+                        
+                                                <h3 class="spec-subcat">Age</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Toddlers / Preschoolers (0 to 6)</li>
+                                                                        
+                                                        <li>Children (6 to 10)</li>
+                                                                        
+                                                        <li>Preteens / Tweens (11 to 13)</li>
+                                                                        
+                                                        <li>Adolescents / Teenagers (14 to 19)</li>
+                                                                        
+                                                        <li>Adults</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>            
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Treatment Approach</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Orientation</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li><span data-ui-type="glossary" data-glossary-id="50" 
+>Cognitive Behavioral (CBT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="51" 
+>Eclectic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="82" 
+>Family Systems</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="21" 
+>Humanistic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="99" 
+>Play Therapy</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="23" 
+>Psychodynamic</span></li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Modality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Individuals</li>
+                                                                        
+                                                        <li>Family</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <div class='hidden-xs hidden-sm'>
+                    <hr>
+                    <h2>Professional Connections</h2>
+<div class="profile-network">
+    <div class="tabs">
+        <ul>
+            <li><a href="#tabs-connections" class="tab-active">Connections</a></li>
+                            <li><a href="#tabs-endorsements">Endorsements</a></li>
+                                </ul>
+        <div id="tabs-connections" class="tab-pane">
+                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/55/58/105855-519207-2_80x100.jpg?pu=1477873754"
+  alt="Roxana Albut Sahlean, MEd, LMHC" title="Roxana Albut Sahlean, MEd, LMHC" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/105855.html">Roxana Albut Sahlean, MEd, LMHC</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Counselor
+                </div>
+                <div class="connection-type">
+                                            Colleague,
+                                                                                                                    known for 4 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/84/40/144084_3_80x100.jpg?pu=0"
+  alt="Dr. Judith Goldberg, PhD" title="Dr. Judith Goldberg, PhD" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/144084.html">Dr. Judith Goldberg, PhD</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Psychologist
+                </div>
+                <div class="connection-type">
+                                            Colleague,
+                                                                                                                    known for 4 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/70/69/106970_3_80x100.jpg?pu=0"
+  alt="Dr. Mark Strecker, MD" title="Dr. Mark Strecker, MD" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/106970.html">Dr. Mark Strecker, MD</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Psychiatrist
+                </div>
+                <div class="connection-type">
+                                            Colleague,
+                                                                                                                    known for 4 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/30/42/144230_1_80x100.jpg?pu=0"
+  alt="Barbara Doyle, MA, LMHC" title="Barbara Doyle, MA, LMHC" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/144230.html">Barbara Doyle, MA, LMHC</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Counselor
+                </div>
+                <div class="connection-type">
+                                            Colleague,
+                                                                                                                    known for 3 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/74/04/140474-286550-1_80x100.jpg?pu=1401378956"
+  alt="Dr. Linda Helmig Bram, PhD" title="Dr. Linda Helmig Bram, PhD" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/140474.html">Dr. Linda Helmig Bram, PhD</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Psychologist
+                </div>
+                <div class="connection-type">
+                                            Colleague,
+                                                                                                                    known for 4 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/104653.html">Dr. David Penner, MD</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Psychiatrist
+                </div>
+                <div class="connection-type">
+                                            Classmate,
+                                                                                                                    known for 7 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/05/04/130405-409906-2_80x100.jpg?pu=1436981055"
+  alt="Kevin Kozin, MTS, LICSW" title="Kevin Kozin, MTS, LICSW" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/130405.html">Kevin Kozin, MTS, LICSW</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Clinical Social Work/Therapist
+                </div>
+                <div class="connection-type">
+                                            Classmate,
+                                                                                                                    known for 4 years
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>                    </div>
+                    <div id="tabs-endorsements" class="tab-pane">
+                                    <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="connection-endorsement">
+        I highly recommend Dr. Carp, as a very skilled, thoughtful, dedicated and compassionate psychiatrist.
+    </div>
+    <div class="row">
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/70/69/106970_3_80x100.jpg?pu=0"
+  alt="Dr. Mark Strecker, MD" title="Dr. Mark Strecker, MD" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <h4><span itemprop="name">
+		    <a href="http://therapists.psychologytoday.com/rms/106970.html">Dr. Mark Strecker, MD</a>
+                </span></h4>
+
+            <div class="connection-thrpst-type">
+                Psychiatrist
+            </div>
+            <div class="connection-type">
+                                    Colleague,
+                                                    known for 4 years
+                            </div>
+        </div>
+    </div>
+</div>                            </div>
+                    </div>
+</div>                </div>
+                        <div class='hidden-sm hidden-md hidden-lg'>
+                <hr>
+                <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Belmont.html" class="textNoLink" title="Therapists in Belmont, MA">Belmont, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Winchester.html" class="textNoLink" title="Therapists in Winchester, MA">Winchester, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/01890.html" class="textNoLink"
+                               title="Therapists in 01890">01890</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02476.html" class="textNoLink"
+                               title="Therapists in 02476">02476</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02478.html" class="textNoLink"
+                               title="Therapists in 02478">02478</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="profile-bottom">
+        <div class="section profile-change_block">
+            <div class="last-modified">Last Modified: 13 May 2016</div>
+        </div>
+    </div>
+            <div class="modal" id="modalVerified" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <span class="title">Ruxandra Carp has been Verified by Psychology Today</span>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="profile-verified_content">
+                <p>The information in Psychology Today is provided exclusively by participating therapists. When you see this seal, it means Psychology Today has verified the following:</p>
+                <div>
+                    <ul class="profile-list">
+                                                    <li>The name and contact details of the professional
+                            </li>
+                                                    <li>That the professional's license, if applicable, is valid within the state in which he or she practices
+                            </li>
+                                                    <li>That the professional is not subject to any license strictures preventing practice
+                            </li>
+                                            </ul>
+                </div>
+                
+                <p>Psychology Today verifies the information at the time a therapist is initially listed in the directory and then upon expiration of the professional's credentials.</p>
+<p>If you find any of the information in Psychology Today directory to be inaccurate in any way, please tell us by emailing: therapist@psychologytoday.com</p>
+                <div class="verified-disclaimer">
+                    <p>You assume full responsibility for the communications with
+    any therapist you contact through Psychology Today directory. Psychology Today shall in no event be
+    liable to you or to anyone for any decision made or action taken by you in the reliance on
+    information provided in Psychology Today.
+</p>
+<p>
+    Psychology Today directory is not intended as a tool for verifying the credentials,
+    qualifications, or abilities of any therapists it lists. Inclusion in
+    Psychology Today does not imply recommendation or endorsement nor does omission from
+    Psychology Today imply Psychology Today disapproval. Psychology Today does not warrant or represent that
+    Psychology Today directory or any part thereof is accurate or complete. Psychology Today disclaims all warranties,
+    either express or implied, including but not limited to the implied warranties of merchantability
+    and fitness for particular purpose.
+</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+                <div class="modal" id="modalMap" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Ruxandra Carp
+            <div class="modal-subtitle">
+                            <span class="nowrap">Psychiatrist, </span>
+                            <span class="nowrap">MD</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div id="map-canvas" class="modal-map"></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div id="map-addresses"></div>
+       </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div id="contactBar" class="fixed-header"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="160551"
+     data-prof-name="Ruxandra Carp"
+     data-phone="(781) 519-0442"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551"
+     data-profile-image="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478401-2_120x150.jpg?pu=1445286073"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=160551"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div class="pageInner hideContactBar">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div id="contactBarPhoto" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="contact-photo">
+                                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478401-2_120x150.jpg?pu=1445286073" itemprop="image"
+                                     alt="Ruxandra Carp, MD, Psychiatrist in Winchester">
+                            </div>
+                                                                            <div class="contact-info" >
+                                                    <h1 itemprop="name" class="contact-name">
+                                Ruxandra Carp</h1>
+
+                            <div class="profile-title contact-title">
+                                <h2>
+                                                                                                                                                                                                        <span class="nowrap">Psychiatrist, </span>
+                                                                                                                                                                                                        <span class="nowrap">MD</span>
+                                                                    </h2>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+ 
+                    <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs"> 
+                    <div class="contact-button"> 
+                                                    <div class="contact-phone">
+                                <a href="tel:7815190442"
+                                   class="tr-contactbar-phone" data-event-label="ContactBarLg_PhoneLink">
+                                    <i class="icon icon-earphone icon-white contactbar-phone-icon"></i> (781) 519-0442</a>
+                            </div>
+                                                                            or
+                                                                            <div class="contact-email">
+                                <a href="#"
+                                   rel="nofollow"
+                                   title="Send email to Ruxandra Carp"
+                                   data-event-label="ContactBarLg_EmailLink"
+                                   data-toggle="modal"
+                                   data-target="#modalContactForm"
+                                   data-element-target="#contactBar"
+                                   data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                                   >Email</a>
+                            </div>
+                                                </div>
+                    </div>
+                </div>
+
+                </div>
+
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="contact-button-xs">
+                                                                                                                        <div class="col-xs-6 col-tight-right">
+                                                                                                <div class="contact-email-xs">
+                                        <a href="#"
+                                           rel="nofollow"
+                                           title="Send email to Ruxandra Carp"
+                                           class="btn btn-block "
+                                           data-event-label="ContactBarXs_EmailLink"
+                                           data-toggle="modal"
+                                           data-target="#modalContactForm"
+                                           data-element-target="#contactBar"
+                                           data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                                           >Email Me</a>
+                                    </div>
+                                                                                            </div>
+                            <div class="col-xs-6 col-tight-left">
+                                                                                                    <div class="contact-phone-xs">
+                                        <a href="tel:7815190442"
+                                           data-event-label="ContactBarXs_PhoneLink"
+                                           class="btn btn-block btn-orange tr-contactbar-phone">
+                                            (781) 519-0442</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#contactBar').detach().appendTo('#headerShadow');
+            setContactBarPosition();
+            $('#contactBar').show();
+            contactBar();
+
+            window.addEventListener('scroll', function () {
+                contactBar();
+            });
+
+            $(window).on('resize', function () {
+                setContactBarPosition();
+                contactBar();
+            });
+
+        });
+        function contactBar() {
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+               var height = $('#profHdr').height() + 115;
+                if (window.pageYOffset > height) {
+                        showContactBar();
+                    } else if (window.pageYOffset <= height) {
+                        hideContactBar();
+                    }
+            } else {
+                var height = $('#profHdr').height() + 40;
+                if (window.pageYOffset > height) {
+                    showContactBar();
+                } else if (window.pageYOffset <= height) {
+                    hideContactBar();
+                }
+            }
+        }
+        function setContactBarPosition() {
+            var offset = $('#contactBar').outerHeight() - $('#headerShadow').outerHeight();
+            $('#contactBar').css({
+                "top": '-' + offset + 'px'
+            });
+        }
+        function showContactBar() {
+            var offset = $('#contactBar').outerHeight();
+            $('#headerShadow').css({
+                "top": offset + 'px'
+            });
+        }
+        function hideContactBar() {
+            $('#headerShadow').css({
+                "top": '0px'
+            });
+        }
+    </script>
+            <div class="modal" id="modalPhotoContact" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Ruxandra Carp
+            <div class="modal-subtitle">
+                            <span class="nowrap">Psychiatrist, </span>
+                            <span class="nowrap">MD</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="col-xs-12">
+            <div class="modal-contact-photo">
+                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/51/05/160551-478401-2_320x400.jpg?pu=1445286073" itemprop="image"
+                     alt="Ruxandra Carp, MD, Psychiatrist in Winchester">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="hidden-sm hidden-md hidden-lg modal-photo-contact-info">
+
+            
+                            <div class="col-xs-6 col-tight-right">
+                    <div class="modal-contact-email">
+                        <button title="Send email to Ruxandra Carp"
+                                class="btn btn-block "
+                                data-event-label="PhotoModal_EmailLink"
+                                data-toggle="modal"
+                                data-target="#modalContactForm"
+                                data-element-target="#profileContainer"
+                                data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                                >Email Me</button>
+                    </div>
+                </div>
+                                        <div class=" col-xs-6 col-tight-left">
+                    <div class="modal-contact-phone">
+                        <a href="tel:7815190442"
+                           class="btn btn-block btn-orange"
+                           data-event-label="PhotoModal_PhoneLink">
+                            (781) 519-0442</a>
+                    </div>
+                </div>
+                    </div>
+        <div class="hidden-xs">
+            <div class="modal-photo-contact-info">
+                                    <div class="contact-phone">
+                        <a href="tel:7815190442"
+                           class="tr-photoModal-phone" data-event-label="PhotoModalLg_PhoneLink">
+                            <i class="icon icon-earphone icon-white modal-photo-phone"></i> (781) 519-0442
+                        </a>
+                    </div>
+                                 or 
+                                    <div class="contact-email">
+                        <a href="#"
+                           data-event-label="PhotoModalLg_EmailLink"
+                           data-toggle="modal"
+                           data-target="#modalContactForm"
+                           data-element-target="#profileContainer"
+                           data-action-url="https://therapists.psychologytoday.com/rms/profile/160551/contact"
+                           >Email</a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div class="modal floating-label-form-container contact-modal" id="modalShareForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">    <h1>Share <span></span>'s Profile</h1>
+</div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-md-12">
+            <form id="profile-share" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="shareFormName" class="control-label">Your Name</label>
+                    <input type="text" class="form-control" id="shareFormName" name="your-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormEmail" class="control-label">Your Email</label>
+                    <input type="text" class="form-control" id="shareFormEmail" name="your-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendName" class="control-label">Friend&#039;s Name</label>
+                    <input type="text" class="form-control" id="shareFormFriendName" name="friend-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendEmail" class="control-label">Friend&#039;s Email</label>
+                    <input type="text" class="form-control" id="shareFormFriendEmail" name="friend-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormBody" class="control-label"
+                           data-floating-label="Message (80 words max)">
+                        Message</label>
+                    <textarea class="form-control" id="shareFormBody" name="message"></textarea>
+                </div>
+                <div id="profile-share-captcha" class="form-group form-captcha"></div>
+                <button type="submit"
+                        class="btn btn-orange btn-large btn-block submit-hide">Send Email
+                </button>
+            </form>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalContactForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1 class="result-xs">Email <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="emailFormName">Your Name</label>
+                    <input type="text" class="form-control" id="emailFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="emailFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="emailFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="emailFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="emailFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactemail_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Don't be shy. Our therapists are here to help you and are pleased to hear from you.</p>
+
+<p>Feel free to ask for what you want... an appointment, a consultation or simply a response to a question. Keep it short, 200
+words or less, this is just an initial contact.</p>
+
+<p>Remember to double check your return email address or your phone number if you prefer to be called.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.<p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalVideoRequestForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1>Request a Video Call with <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact-video" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="videoFormName">Your Name</label>
+                    <input type="text" class="form-control" id="videoFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="videoFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="videoFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="videoFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="videoFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-video-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactvideo_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Send this email to request a video session with this therapist.</p>
+
+<p>The therapist may first call or email you back to schedule a time and provide details about how to connect.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.</p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+</div>
+<script type="text/javascript"
+        src="//maps.googleapis.com/maps/api/js?key=AIzaSyD0vXldAbHFWHvHbWzKT_W0CIyI35PACSI&amp;sensor=false"></script>
+<script type="text/javascript">
+    dataLayer.push({'defaultEventCategory': 'ProfilePage'});
+
+    $('#modalMap').on('shown.bs.modal', function (e) {
+        initializeMap(e);
+    });
+
+    function initializeMap(e) {
+        var count = 0;
+        var markers = [];
+        var markerABC = 'A';
+        var coords;
+        var geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(44.8819, -93.2217);
+        var mapOptions = {
+            center: latlng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+
+        var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+        $('#map-addresses').html('');
+        var addrs = [
+            $('[data-target="#modalMap"]', $('.address-rank-1:first')),
+            $('[data-target="#modalMap"]', $('.address-rank-2:first'))
+        ];
+
+        $(addrs).each(function () {
+            var lat = $(this).attr('data-map-lat');
+            var lon = $(this).attr('data-map-lon');
+
+            over_enable = parseInt($(this).attr('data-map-over-enable'));
+            address = $(this).attr('data-' + $(this).attr('data-map-address'));
+            var markerABC = 'A';
+
+            var addrHtml = $(this).parents('.address').clone().appendTo('#map-addresses');
+            $('.address-buttons', addrHtml).remove();
+
+            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+
+            if (over_enable) {
+                coords = new google.maps.LatLng(lat, lon);
+                map.setCenter(coords);
+                marker = new google.maps.Marker({
+                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                    position: coords,
+                    animation: google.maps.Animation.DROP,
+                    map: map
+                });
+
+                markers.push(marker);
+                setMap(markers, map);
+            } else {
+                codeAddress(address, function (coords) {
+                    map.setCenter(coords);
+                    marker = new google.maps.Marker({
+                        icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                        position: coords,
+                        animation: google.maps.Animation.DROP,
+                        map: map
+                    });
+
+                    markers.push(marker);
+                    setMap(markers, map);
+                });
+            }
+            count++;
+        });
+    }
+
+    function codeAddress(address, callback) {
+        var geocoder = new google.maps.Geocoder();
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    callback(results[0].geometry.location);
+                }
+            });
+        }
+    }
+
+    function setMap(markers, map) {
+        zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function (event) {
+
+            if (this.getZoom() > 9) {
+                if (markers.length == 1) {
+                    // Change max/min zoom here
+                    this.setZoom(15);
+                }
+            }
+            google.maps.event.removeListener(zoomChangeBoundsListener);
+        });
+
+        var bounds = new google.maps.LatLngBounds();
+        $.each(markers, function (index, marker) {
+            marker.setMap(map);
+            bounds.extend(marker.getPosition());
+        });
+        map.fitBounds(bounds);
+    }
+
+    var isForbiddenHost = "";
+    var noEmailMessage = "<h1>Sorry!</h1> <p>[NAME] would like to hear from you but prefers to be contacted by phone. [PHONE_TEXT]";
+    var notAcceptingNewClientMessage = "[NAME] is not currently accepting new clients.";
+    var personMessageLabel = "Message";
+    var personMessageFloatingLabel = "How can I help you? (200 words max)";
+    var companyMessageLabel = "Message";
+    var companyMessageFloatingLabel = "How can we help you? (200 words max)";
+    var ajaxErrorMessage = 'There was a problem sending your email. Please try again later.';
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchas&render=explicit" async defer></script>
+&nbsp;
+<!-- detail END: Search Only: 0.082 Sec., Total: 0.145 Sec. -->
+<br>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/modal/modal.js'></script>
+<div id='searchModal' class='modal search-modal' data-directory-url='https://therapists.psychologytoday.com/rms/prof_results.php'><div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-body scrollable">
+                    <div id='autosuggestContainer' class='autosuggest-container'
+         data-placeholder="City, Zip or Name"
+         data-endpoint="https://therapists.psychologytoday.com/rms/search/suggest">
+        <div class='autosuggest-header'>
+            <div class='autosuggest-input'>
+                <i class='icon icon-chevron-left hidden-sm hidden-md hidden-lg' data-dismiss='modal'></i>
+                <input type="text" id='autosuggestSearchInput' class="search-autosuggest"
+                       data-label='Search_SearchField'
+                       autosuggest='off' autocorrect='off' autocapitalize='off' tabindex=0>
+                <input type="hidden" id='autosuggestHiddenInput'>
+                <button id='autosuggestSearchButton' class="btn btn-blue btn-search"
+                        title="Search for Therapists near you.">
+                    <i class="icon icon-search icon-white"></i>
+                </button>
+            </div>
+            <div class='autosuggest-message'></div>
+        </div>
+
+        <div id='searchSuggestions' class='autosuggest-sections'>
+            <div id='locationSuggestions' class='autosuggest-section' data-section='locations'></div>
+            <div id='nameSuggestions' class='autosuggest-section' data-section='names'></div>
+        </div>
+    </div>
+
+    <script src='https://resources.psychologytoday.com/v3.26.2/js/search/autosuggest.js' charset='UTF-8'></script>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+</div></div>
+<footer id="pageFooter" class="outerWrapper">
+    <div class="pageInner"><section id='metaSearches' class='hidden-xs collapsible'>
+    <h3>Searches containing Ruxandra Carp</h3>
+    <div class='row collapsible-content'>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=6&amp;topid=160551' title='ADD Psychiatrists in Winchester, MA'>ADD Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=6&amp;topid=160551' title='ADHD Psychiatrists in Winchester, MA'>ADHD Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=192&amp;topid=160551' title='Academic Counseling Psychiatrists in Winchester, MA'>Academic Counseling Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=192&amp;topid=160551' title='Academic Underachievement Psychiatrists in Winchester, MA'>Academic Underachievement Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=326&amp;topid=160551' title='Adolescents / Teenagers (14 to 19) Psychiatrists in Winchester, MA'>Adolescents / Teenagers (14 to 19) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=327&amp;topid=160551' title='Adults Psychiatrists in Winchester, MA'>Adults Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=551&amp;topid=160551' title='Affairs Psychiatrists in Winchester, MA'>Affairs Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=166&amp;topid=160551' title='Anger Management Psychiatrists in Winchester, MA'>Anger Management Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=3&amp;topid=160551' title='Anxiety Psychiatrists in Winchester, MA'>Anxiety Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=251&amp;topid=160551' title='Asperger&#039;s Syndrome Psychiatrists in Winchester, MA'>Asperger&#039;s Syndrome Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=6&amp;topid=160551' title='Attention Deficit Psychiatrists in Winchester, MA'>Attention Deficit Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=167&amp;topid=160551' title='Autism Psychiatrists in Winchester, MA'>Autism Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=423&amp;topid=160551' title='BCBS Insurance Psychiatrists in Winchester, MA'>BCBS Insurance Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=195&amp;topid=160551' title='Behavioral Issues Psychiatrists in Winchester, MA'>Behavioral Issues Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=14&amp;topid=160551' title='Bereavement Psychiatrists in Winchester, MA'>Bereavement Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=551&amp;topid=160551' title='Betrayal Psychiatrists in Winchester, MA'>Betrayal Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=168&amp;topid=160551' title='Bipolar Disorder Psychiatrists in Winchester, MA'>Bipolar Disorder Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=423&amp;topid=160551' title='BlueCross and BlueShield Insurance Psychiatrists in Winchester, MA'>BlueCross and BlueShield Insurance Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=183&amp;topid=160551' title='Career Counseling Psychiatrists in Winchester, MA'>Career Counseling Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=551&amp;topid=160551' title='Cheating Psychiatrists in Winchester, MA'>Cheating Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=5&amp;topid=160551' title='Child or Adolescent Psychiatrists in Winchester, MA'>Child or Adolescent Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=325&amp;topid=160551' title='Children (6 to 10) Psychiatrists in Winchester, MA'>Children (6 to 10) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=503&amp;topid=160551' title='Codependency Psychiatrists in Winchester, MA'>Codependency Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=293&amp;topid=160551' title='Cognitive Behavioral (CBT) Psychiatrists in Winchester, MA'>Cognitive Behavioral (CBT) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=249&amp;topid=160551' title='Coping Skills Psychiatrists in Winchester, MA'>Coping Skills Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=2&amp;topid=160551' title='Depression Psychiatrists in Winchester, MA'>Depression Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=252&amp;topid=160551' title='Developmental Disorders Psychiatrists in Winchester, MA'>Developmental Disorders Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=295&amp;topid=160551' title='Eclectic Psychiatrists in Winchester, MA'>Eclectic Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=198&amp;topid=160551' title='Emotional Disturbance Psychiatrists in Winchester, MA'>Emotional Disturbance Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=288&amp;topid=160551' title='Family Psychiatrists in Winchester, MA'>Family Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=311&amp;topid=160551' title='Family Systems Psychiatrists in Winchester, MA'>Family Systems Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=3&amp;topid=160551' title='Fears Psychiatrists in Winchester, MA'>Fears Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=14&amp;topid=160551' title='Grief Psychiatrists in Winchester, MA'>Grief Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=15&amp;topid=160551' title='Hair Pulling Psychiatrists in Winchester, MA'>Hair Pulling Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=297&amp;topid=160551' title='Humanistic Psychiatrists in Winchester, MA'>Humanistic Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=286&amp;topid=160551' title='Individuals Psychiatrists in Winchester, MA'>Individuals Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=12&amp;topid=160551' title='Infertility Psychiatrists in Winchester, MA'>Infertility Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=551&amp;topid=160551' title='Infidelity Psychiatrists in Winchester, MA'>Infidelity Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=202&amp;topid=160551' title='Internet Addiction Psychiatrists in Winchester, MA'>Internet Addiction Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=206&amp;topid=160551' title='Intracranial Injury Psychiatrists in Winchester, MA'>Intracranial Injury Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=184&amp;topid=160551' title='Learning Disabilities Psychiatrists in Winchester, MA'>Learning Disabilities Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=184&amp;topid=160551' title='Learning Disorders Psychiatrists in Winchester, MA'>Learning Disorders Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=13&amp;topid=160551' title='Life Coaching Psychiatrists in Winchester, MA'>Life Coaching Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=14&amp;topid=160551' title='Loss Psychiatrists in Winchester, MA'>Loss Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=168&amp;topid=160551' title='Manic Depression Psychiatrists in Winchester, MA'>Manic Depression Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=258&amp;topid=160551' title='Medication Management Psychiatrists in Winchester, MA'>Medication Management Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=201&amp;topid=160551' title='Mood Disorders Psychiatrists in Winchester, MA'>Mood Disorders Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=14&amp;topid=160551' title='Mourning Psychiatrists in Winchester, MA'>Mourning Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=255&amp;topid=160551' title='Obesity Psychiatrists in Winchester, MA'>Obesity Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=15&amp;topid=160551' title='Obsessive-Compulsive (OCD) Psychiatrists in Winchester, MA'>Obsessive-Compulsive (OCD) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=204&amp;topid=160551' title='Oppositional Defiance Psychiatrists in Winchester, MA'>Oppositional Defiance Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=461&amp;topid=160551' title='Out of Network Psychiatrists in Winchester, MA'>Out of Network Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=16&amp;topid=160551' title='Parenting Psychiatrists in Winchester, MA'>Parenting Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=3&amp;topid=160551' title='Phobia Psychiatrists in Winchester, MA'>Phobia Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=312&amp;topid=160551' title='Play Therapy Psychiatrists in Winchester, MA'>Play Therapy Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=201&amp;topid=160551' title='Post-Partum Psychiatrists in Winchester, MA'>Post-Partum Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=19&amp;topid=160551' title='Post-Traumatic Stress Psychiatrists in Winchester, MA'>Post-Traumatic Stress Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=330&amp;topid=160551' title='Preteens / Tweens (11 to 13) Psychiatrists in Winchester, MA'>Preteens / Tweens (11 to 13) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=299&amp;topid=160551' title='Psychodynamic Psychiatrists in Winchester, MA'>Psychodynamic Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=192&amp;topid=160551' title='School Issues Psychiatrists in Winchester, MA'>School Issues Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=201&amp;topid=160551' title='Seasonal Affective Psychiatrists in Winchester, MA'>Seasonal Affective Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=260&amp;topid=160551' title='Self Esteem Psychiatrists in Winchester, MA'>Self Esteem Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=15&amp;topid=160551' title='Skin Picking Psychiatrists in Winchester, MA'>Skin Picking Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=190&amp;topid=160551' title='Sleep or Insomnia Psychiatrists in Winchester, MA'>Sleep or Insomnia Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=177&amp;topid=160551' title='Testing and Evaluation Psychiatrists in Winchester, MA'>Testing and Evaluation Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=329&amp;topid=160551' title='Toddlers / Preschoolers (0 to 6) Psychiatrists in Winchester, MA'>Toddlers / Preschoolers (0 to 6) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=19&amp;topid=160551' title='Trauma and PTSD Psychiatrists in Winchester, MA'>Trauma and PTSD Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=206&amp;topid=160551' title='Traumatic Brain Injury Psychiatrists in Winchester, MA'>Traumatic Brain Injury Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=15&amp;topid=160551' title='Trichotillomania (TTM) Psychiatrists in Winchester, MA'>Trichotillomania (TTM) Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=470&amp;topid=160551' title='Tufts Insurance Psychiatrists in Winchester, MA'>Tufts Insurance Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=262&amp;topid=160551' title='Weight Loss Psychiatrists in Winchester, MA'>Weight Loss Psychiatrists in Winchester, MA</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?city=Winchester&amp;state=MA&amp;spec=575&amp;topid=160551' title='Women&#039;s Issues Psychiatrists in Winchester, MA'>Women&#039;s Issues Psychiatrists in Winchester, MA</a></li>
+                                                    <li>
+                        Homepage:
+                        <a href='http://www.ruxandracarpmd.com' title='Dr. Ruxandra Carp Homepage'
+                           target='_blank'>http://www.ruxandracarpmd.com</a>
+                    </li>
+                            </ul>
+        </div>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=6&amp;topid=160551' title='ADD Psychiatrists in 01890'>ADD Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=6&amp;topid=160551' title='ADHD Psychiatrists in 01890'>ADHD Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=192&amp;topid=160551' title='Academic Counseling Psychiatrists in 01890'>Academic Counseling Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=192&amp;topid=160551' title='Academic Underachievement Psychiatrists in 01890'>Academic Underachievement Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=326&amp;topid=160551' title='Adolescents / Teenagers (14 to 19) Psychiatrists in 01890'>Adolescents / Teenagers (14 to 19) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=327&amp;topid=160551' title='Adults Psychiatrists in 01890'>Adults Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=551&amp;topid=160551' title='Affairs Psychiatrists in 01890'>Affairs Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=166&amp;topid=160551' title='Anger Management Psychiatrists in 01890'>Anger Management Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=3&amp;topid=160551' title='Anxiety Psychiatrists in 01890'>Anxiety Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=251&amp;topid=160551' title='Asperger&#039;s Syndrome Psychiatrists in 01890'>Asperger&#039;s Syndrome Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=6&amp;topid=160551' title='Attention Deficit Psychiatrists in 01890'>Attention Deficit Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=167&amp;topid=160551' title='Autism Psychiatrists in 01890'>Autism Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=423&amp;topid=160551' title='BCBS Insurance Psychiatrists in 01890'>BCBS Insurance Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=195&amp;topid=160551' title='Behavioral Issues Psychiatrists in 01890'>Behavioral Issues Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=14&amp;topid=160551' title='Bereavement Psychiatrists in 01890'>Bereavement Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=551&amp;topid=160551' title='Betrayal Psychiatrists in 01890'>Betrayal Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=168&amp;topid=160551' title='Bipolar Disorder Psychiatrists in 01890'>Bipolar Disorder Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=423&amp;topid=160551' title='BlueCross and BlueShield Insurance Psychiatrists in 01890'>BlueCross and BlueShield Insurance Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=183&amp;topid=160551' title='Career Counseling Psychiatrists in 01890'>Career Counseling Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=551&amp;topid=160551' title='Cheating Psychiatrists in 01890'>Cheating Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=5&amp;topid=160551' title='Child or Adolescent Psychiatrists in 01890'>Child or Adolescent Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=325&amp;topid=160551' title='Children (6 to 10) Psychiatrists in 01890'>Children (6 to 10) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=503&amp;topid=160551' title='Codependency Psychiatrists in 01890'>Codependency Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=293&amp;topid=160551' title='Cognitive Behavioral (CBT) Psychiatrists in 01890'>Cognitive Behavioral (CBT) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=249&amp;topid=160551' title='Coping Skills Psychiatrists in 01890'>Coping Skills Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=2&amp;topid=160551' title='Depression Psychiatrists in 01890'>Depression Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=252&amp;topid=160551' title='Developmental Disorders Psychiatrists in 01890'>Developmental Disorders Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=295&amp;topid=160551' title='Eclectic Psychiatrists in 01890'>Eclectic Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=198&amp;topid=160551' title='Emotional Disturbance Psychiatrists in 01890'>Emotional Disturbance Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=288&amp;topid=160551' title='Family Psychiatrists in 01890'>Family Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=311&amp;topid=160551' title='Family Systems Psychiatrists in 01890'>Family Systems Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=3&amp;topid=160551' title='Fears Psychiatrists in 01890'>Fears Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=14&amp;topid=160551' title='Grief Psychiatrists in 01890'>Grief Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=15&amp;topid=160551' title='Hair Pulling Psychiatrists in 01890'>Hair Pulling Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=297&amp;topid=160551' title='Humanistic Psychiatrists in 01890'>Humanistic Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=286&amp;topid=160551' title='Individuals Psychiatrists in 01890'>Individuals Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=12&amp;topid=160551' title='Infertility Psychiatrists in 01890'>Infertility Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=551&amp;topid=160551' title='Infidelity Psychiatrists in 01890'>Infidelity Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=202&amp;topid=160551' title='Internet Addiction Psychiatrists in 01890'>Internet Addiction Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=206&amp;topid=160551' title='Intracranial Injury Psychiatrists in 01890'>Intracranial Injury Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=184&amp;topid=160551' title='Learning Disabilities Psychiatrists in 01890'>Learning Disabilities Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=184&amp;topid=160551' title='Learning Disorders Psychiatrists in 01890'>Learning Disorders Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=13&amp;topid=160551' title='Life Coaching Psychiatrists in 01890'>Life Coaching Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=14&amp;topid=160551' title='Loss Psychiatrists in 01890'>Loss Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=168&amp;topid=160551' title='Manic Depression Psychiatrists in 01890'>Manic Depression Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=258&amp;topid=160551' title='Medication Management Psychiatrists in 01890'>Medication Management Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=201&amp;topid=160551' title='Mood Disorders Psychiatrists in 01890'>Mood Disorders Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=14&amp;topid=160551' title='Mourning Psychiatrists in 01890'>Mourning Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=255&amp;topid=160551' title='Obesity Psychiatrists in 01890'>Obesity Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=15&amp;topid=160551' title='Obsessive-Compulsive (OCD) Psychiatrists in 01890'>Obsessive-Compulsive (OCD) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=204&amp;topid=160551' title='Oppositional Defiance Psychiatrists in 01890'>Oppositional Defiance Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=461&amp;topid=160551' title='Out of Network Psychiatrists in 01890'>Out of Network Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=16&amp;topid=160551' title='Parenting Psychiatrists in 01890'>Parenting Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=3&amp;topid=160551' title='Phobia Psychiatrists in 01890'>Phobia Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=312&amp;topid=160551' title='Play Therapy Psychiatrists in 01890'>Play Therapy Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=201&amp;topid=160551' title='Post-Partum Psychiatrists in 01890'>Post-Partum Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=19&amp;topid=160551' title='Post-Traumatic Stress Psychiatrists in 01890'>Post-Traumatic Stress Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=330&amp;topid=160551' title='Preteens / Tweens (11 to 13) Psychiatrists in 01890'>Preteens / Tweens (11 to 13) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=299&amp;topid=160551' title='Psychodynamic Psychiatrists in 01890'>Psychodynamic Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=192&amp;topid=160551' title='School Issues Psychiatrists in 01890'>School Issues Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=201&amp;topid=160551' title='Seasonal Affective Psychiatrists in 01890'>Seasonal Affective Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=260&amp;topid=160551' title='Self Esteem Psychiatrists in 01890'>Self Esteem Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=15&amp;topid=160551' title='Skin Picking Psychiatrists in 01890'>Skin Picking Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=190&amp;topid=160551' title='Sleep or Insomnia Psychiatrists in 01890'>Sleep or Insomnia Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=177&amp;topid=160551' title='Testing and Evaluation Psychiatrists in 01890'>Testing and Evaluation Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=329&amp;topid=160551' title='Toddlers / Preschoolers (0 to 6) Psychiatrists in 01890'>Toddlers / Preschoolers (0 to 6) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=19&amp;topid=160551' title='Trauma and PTSD Psychiatrists in 01890'>Trauma and PTSD Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=206&amp;topid=160551' title='Traumatic Brain Injury Psychiatrists in 01890'>Traumatic Brain Injury Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=15&amp;topid=160551' title='Trichotillomania (TTM) Psychiatrists in 01890'>Trichotillomania (TTM) Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=470&amp;topid=160551' title='Tufts Insurance Psychiatrists in 01890'>Tufts Insurance Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=262&amp;topid=160551' title='Weight Loss Psychiatrists in 01890'>Weight Loss Psychiatrists in 01890</a></li>
+                                    <li><a href='https://psychiatrists.psychologytoday.com/rms/prof_results.php?zipcode=01890&amp;spec=575&amp;topid=160551' title='Women&#039;s Issues Psychiatrists in 01890'>Women&#039;s Issues Psychiatrists in 01890</a></li>
+                            </ul>
+        </div>
+    </div>
+</section><div class="row">		<div class="promo-ribbon hidden-xs col-sm-12 hidden-md hidden-lg">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div>	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footerActions">
+		<div class="hidden-sm hidden-md hidden-lg text-xs-center">
+			<a href="https://member.psychologytoday.com/rms-sec/"
+			 class="footerLoginBtn btn btn-blue">Log In</a>
+
+			<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+			 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+		</div><div class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<a href="https://therapists.psychologytoday.com/"
+ id="footerLogoTd" class="footerLogo ui-sprite"
+ title="Psychology Today">Psychology Today</a>
+
+<a href="https://www.healthprofs.com/cam/"
+ id="footerLogoCam" class="footerLogo ui-sprite"
+ title="The Health Professionals Directory">HealthProfs.com</a>
+
+<div class="footerActions col-xs-12 hidden-sm hidden-md hidden-lg">
+	<a href="https://member.psychologytoday.com/rms-sec/"
+	 class="footerLoginBtn btn btn-blue">Log In</a>
+
+	<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+	 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+</div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-left text-xs-center"><ul id="footerNav">
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/about.html" class="footerNavItem first">About</a>
+</li>	<li><a href="https://therapists.psychologytoday.com/us/careers" class="footerNavItem first">Careers</a></li><li>
+    <a href="https://therapists.psychologytoday.com/rms/content/privacy.html" class="footerNavItem">Privacy</a>
+</li>
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/terms.html" class="footerNavItem">Terms</a>
+</li></ul><div id="footerCopyright">
+&copy; 2017 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a><span class="hidden-xs hidden-sm">,
+Psychology Today is &copy; 2017
+  <a href="https://www.psychologytoday.com">Sussex Publishers, LLC</a>
+</span></div></div>		</div>
+		<div class="promo-ribbon hidden-xs col-xs-12 hidden-sm col-md-6 col-lg-6 pull-left">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div></div>
+</div>
+</footer>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9980773" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+//]]>
+</script>
+<noscript>
+  <img alt=""
+  src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9980773&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<div style="font-size: 0px; margin-top: -1px">
+<!-- Google Code for Therapy Directory Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071677164;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "JZ0bCKqCmgMQ7P2B_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071677164/?value=0&amp;label=JZ0bCKqCmgMQ7P2B_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div><!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.async = true;
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src =
+["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&cg=0&cc=1&si=",
+escape(window.location.href), "&rp=", escape(document.referrer),
+"&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img
+src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>

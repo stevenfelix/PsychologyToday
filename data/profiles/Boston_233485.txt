@@ -1,0 +1,1766 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Julina Rundberg, Boston, MA 02116 | Psychology Today</title>
+<meta name="description" content="Julina Rundberg, Boston, MA 02116, (617) 420-7327, Each of us has the potential to thrive but encounters obstacles to living freely and fully.  These obstacles may be situational, environmental, emotional, or may be the consequence of habits acquired under stress.  Sometimes you may just feel alone or stuck, unable to live the life you imagine for yourself and unsure why this is.  I believe that you deserve enjoyment, love, and satisfaction from your life. A therapeutic relationship offers a safe context for discovering and understanding the sources of suffering that hold you back, and exploring new solutions together.">
+<meta name="robots" content="index,follow">
+<link rel='stylesheet' type='text/css' href='https://resources.psychologytoday.com/v3.26.2/css/directoryweb/psychologytoday.en-US.css'>
+<link rel="icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="shortcut icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v3.26.2/images/apple-touch-icon-TD.png">
+
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/fastclick.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/directoryweb-sx.ui.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.flag.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.gallery.js"></script>
+
+<script>
+window.addEventListener('load', function() {
+    FastClick.attach(document.body);
+}, false);
+</script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/bootstrap/bootstrap.min.js'></script><script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/contactShare.js'></script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/form.js'></script>
+<meta name="dcterms.modified" content="2016-Sep-22">
+<meta name="geo.region" content="US-MA">
+<link rel="canonical" href="https://therapists.psychologytoday.com/rms/name/Julina_Rundberg_MA_Boston_Massachusetts_233485">
+<meta name="dcterms.title" content="Julina Rundberg, Boston, MA 02116">
+<meta name="dcterms.creator" content="Psychology Today">
+<meta name="dcterms.coverage" content="Boston, MA 02116">
+<meta name="geo.placename" content="Boston, MA 02116">
+<script>
+  var dataLayer = [{'SxTrackingID' : 'UA-2018330-4'}];
+</script>
+<!-- Start Optimizely Code -->
+<script src="https://cdn.optimizely.com/js/6265930501.js"></script>
+<!-- End Optimizely Code -->
+</head>
+<body id='top'  class="prof-detail"  data-spid-raw="rms" data-spid-type="TD">
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<nav id="subBrandsXsm" class="xsm-subBrands-show hide">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+<div id="pageContainer">
+<div id="headerShadow"></div>
+<header id="headerWrapper" class="outerWrapper TD fixed-header">
+
+    <div class="pageInner">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+	        	<button class="btn btn-frost xsm-subBrands-hidden hidden-xs" id="subBrandsBtn"
+	onclick="$('html').toggleClass('subBrandsOpen');sx.showOverlay();">
+		<i class="icon icon-white icon-show_lines"></i>
+	</button>
+	<a class="xsm-subBrands-show hidden-sm hidden-md hidden-lg" id="subBrandsBtnXs">
+		<i class="icon icon-white icon-show_lines"></i>
+	</a>
+                <h1><a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_Brand" id="headerBrand" class="headerLogo brandFace"
+                    title="Psychology Today"><span id='headerLogo' class='ui-sprite ui-sprite-resp'>Psychology Today</span></a>
+                    <a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_SubBrand"
+  id="headerSubBrand"
+  class="headerLogo subBrandFace"
+  title="Therapists">
+  Therapists</a>
+  
+
+	            </h1>
+			    <nav id="subBrands" class="xsm-subBrands-hidden">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+                
+    <a href="https://therapists.psychologytoday.com/" title="Find a Therapist"
+     id="headerSearchIcon" class="hidden-sm hidden-md hidden-lg"
+    data-trigger='search-autosuggest' data-event-label='Search_HeaderButton'></a>
+    <div id="headerSearchBox" class="hidden-sm hidden-md hidden-lg" 
+     data-trigger='search-autosuggest' data-event-label='Search_SearchField'>
+        <input type="text" class="hidden-sm hidden-md hidden-lg"
+           placeholder="City/Zip or Name"
+            title="Search for Therapists near you.">
+    </div>
+           </div>
+           <div class="col-lg-4 col-md-4 col-sm-5  hidden-xs" id="headerActions" style="text-align: right;">
+<a href="https://member.psychologytoday.com/rms-sec/" class="btn btn btn-frost headerBtn">Log In</a>
+<a href="https://member.psychologytoday.com/therapist/?src=RMSLOG"
+  class="btn headerBtn btn-orange">Sign Up and Get Listed</a>
+
+</div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('#pageContainer').on(sx.transitionEndEvent, function(e) {
+
+        if (e.target.id != 'pageContainer') {
+            return;
+        }
+
+        if ($('#subBrandsXsm').hasClass('closing')) {
+            $('#headerWrapper').css({
+                'position' : 'fixed',
+                'top' : '0px'
+            });
+            $('#subBrandsXsm').removeClass('show');
+            $('#subBrandsXsm').addClass('hide');
+            $('#subBrandXsm').removeClass('closing');
+            $('#pageContainer').removeClass('overlay');
+
+            var scrollPosition = Math.abs(parseInt($('body').css('top'),10));
+            $('body').css({
+                position: 'static',
+                overflow: 'auto'
+            });
+            $('body').scrollTop(scrollPosition);
+        } else {
+            $('#subBrandXsm').removeClass('opening');
+        } 
+    });
+
+    $('#subBrandsBtnXs').on('click', function(e) {
+        e.preventDefault();
+        if ($('html').hasClass('subBrandsOpenXsm')) {
+            $('#subBrandsXsm').removeClass('opening');
+            $('#subBrandsXsm').addClass('closing');
+            $('html').removeClass('subBrandsOpenXsm');
+            $('#pageContainer').off('click.menuDismissal');
+        } else {
+            $('#pageContainer').on('click.menuDismissal', function(e) {
+                e.preventDefault();
+                if ($('html').hasClass('subBrandsOpenXsm') ) {
+                    if ($('#pageContainer').hasClass('overlay')) {
+                        $('#subBrandsXsm').removeClass('opening');
+                        $('#subBrandsXsm').addClass('closing');
+                        $('html').removeClass('subBrandsOpenXsm');
+                        $('#pageContainer').removeClass('overlay');
+                        $('#pageContainer').off('click.menuDismissal');
+                        $('#pageContainer *').css({ 'pointer-events' : 'auto' });
+                    } else {
+                       $('#pageContainer').addClass('overlay');
+                    }
+                } 
+            });
+            $('#pageContainer *').css({ 'pointer-events' : 'none' });
+            $('#subBrandsXsm').addClass('show');
+            $('#subBrandsXsm').addClass('opening');
+            $('#subBrandsXsm').removeClass('closing');
+            $('#headerWrapper').css({
+                'position' : 'absolute',
+                'top' : $(window).scrollTop() + 'px'
+            });
+            $('body').css({
+                position: 'fixed',
+                overflow: 'hidden',
+                width: $('body').width(),
+                top: '-' + $('body').scrollTop() + 'px'
+            })
+            $('html').addClass('subBrandsOpenXsm');
+        }
+    });     
+});
+</script>
+
+<div id="main" class="no-min-height">    <div class ="breadcrumb-nav profile-breadcrumb">
+    <div class="pageInner">
+        <div class="contextual">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <div class="contextual breadcrumb">
+                        <a href="https://therapists.psychologytoday.com/rms/prof_results.php?sid=1487040810.1224_19885&city=Boston&state=MA&rec_next=1&tr=BackResults"
+                           data-event-label='ProfileNav_BackToSearchLink'>
+                            <i class="icon icon-chevron-left back"></i>Back To Results</a>
+                        <a href="https://therapists.psychologytoday.com/rms/"
+                           data-event-label='ProfileNav_NewSearchLink' class="hidden-xs">
+                            <i class="icon icon-search search"></i>New Search</a>
+                    </div>
+                </div>
+                                    <div class="col-sm-6 col-med-6  col-lg-6">
+                        <div class="contextual-right breadcrumb">
+                                                        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=318862&sid=1487040810.1224_19885&city=Boston&county=Suffolk&state=MA&rec_next=1&ref=17&tr=PrevProf"
+                               data-event-label='ProfileNav_prevProfLink' class="" title="Sarah Fram">
+                                <i class="icon icon-chevron-left  back hidden-xs"></i>Previous</a>
+                                                                                    <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=114707&sid=1487040810.1224_19885&city=Boston&county=Suffolk&state=MA&rec_next=1&ref=19&tr=NextProf"
+                               data-event-label='ProfileNav_nextProfLink' class="profile-next"
+                               title="Ruth Rowbotham">Next<i class="icon icon-chevron-right next hidden-xs"></i></a>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id='profileContainer' class="pageInner profile"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="233485"
+     data-prof-name="Julina Rundberg"
+     data-phone="(617) 420-7327"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485"
+     data-profile-image="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-650383-3_120x150.jpg?pu=1466096946"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div id="profHdr" class="row">
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg profile-title-container">
+                            <h1 itemprop="name">
+                    Julina Rundberg</h1>
+                <div class="profile-title">
+                    <h2>
+                                                                                                                                            <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="15" 
+>MA</span></span>
+                                            </h2>
+                </div>
+                                    </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 photo-column no-padding-right">
+                            <span title="Julina Rundberg, MA in Boston"
+                      id="profilePhoto"
+                      data-target="#modalPhotoContact" data-toggle="modal">
+                    <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-650383-3_120x150.jpg?pu=1466096946" itemprop="image"
+                         alt="Julina Rundberg, MA in Boston" style="width:100%"
+                         data-event-label="Photo_ModalLink">
+                    <div class="photo-enlarge hidden-sm hidden-md hidden-lg">
+                        <div class="btns">
+                            <i class="icon icon-enlarge"></i>
+                        </div>
+                    </div>
+                </span>
+                        <div class="hidden-xs profile-buttons">
+                                        <a
+        href="tel:6174207327"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 420-7327</a>
+    <button
+        title="Send email to Julina Rundberg"
+        class="btn btn-block btn-orange"
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+        >Email Me</button>
+<button
+        title="Recommend Julina Rundberg to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/233485/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Julina Rundberg">Website</a>
+                            </div>
+                    </div>
+
+        <div class="profile-middle profile-flag col-xs-8 col-sm-10 col-md-10 col-lg-10">
+            <div class="row">
+                <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+                                            <h1 itemprop="name">
+                            Julina Rundberg</h1>
+                        <div class="profile-title">
+                            <h2>
+                                                                                                                                                                                    <span class="nowrap"><span data-ui-type="glossary" data-glossary-id="15" 
+>MA</span></span>
+                                                            </h2>
+                        </div>
+                                    </div>
+                <div class="hidden-xs col-sm-6 col-md-5 col-lg-5 text-right">
+                                                                        <div class="profile-phone">
+                                <i class="icon icon-earphone icon-white profile-phone-icon"></i>
+                                <span itemprop="telephone"><a href="tel:6174207327"
+                                                              data-event-label="Profile_PhoneLink">(617) 420-7327</a></span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="hidden-xs col-sm-10 col-md-10 col-lg-10">
+            <div class="profile-menu hidden-xs">
+    <ul>
+        <li>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&amp;p=1&amp;sid=1487040810.1224_19885&amp;city=Boston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+               class="active"               title="About">About</a>
+        </li>
+                    <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&amp;p=2&amp;sid=1487040810.1224_19885&amp;city=Boston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+                                      title="Photos">Photos</a>
+            </li>
+                            <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&amp;p=4&amp;sid=1487040810.1224_19885&amp;city=Boston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+                                      title="Network">Network</a>
+            </li>
+                            <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&amp;p=5&amp;sid=1487040810.1224_19885&amp;city=Boston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+                                      title="Groups">Groups</a>
+            </li>
+            </ul>
+    </div>        </div>
+        <div class="col-xs-8 hidden-sm hidden-md hidden-lg profile-buttons">
+                <a
+        href="tel:6174207327"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 420-7327</a>
+    <button
+        title="Send email to Julina Rundberg"
+        class="btn btn-block "
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+        >Email Me</button>
+<button
+        title="Recommend Julina Rundberg to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/233485/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Julina Rundberg">Website</a>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+            <div id="profile-content">
+                    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-7 col-lg-7">
+            <div class="hidden-sm hidden-md hidden-lg">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Back Bay Analytic Group, LLC<br>
+                
+                    <span itemprop="addressLocality">Boston</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02116</span><br>
+                    
+                            <a href='tel:6174207327'
+               data-event-label='Address1_PhoneLink'>(617) 420-7327</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Julina Rundberg"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                    >Email Me
+            </button>
+                                    <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02114.html" class="textNoLink"
+                               title="Therapists in 02114 (Davis Square, West End)">02114 (Davis Square, West End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/233485/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Julina Rundberg">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Boston Graduate School of Psychoanalysis<br>
+                                            <span itemprop='streetAddress'>
+                    1581 Beacon Street
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Brookline</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02446</span><br>
+                    
+                            <a href='tel:6172773910'
+               data-event-label='Address2_PhoneLink'>(617) 277-3910</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="42.3391142"
+                    data-map-lon="-71.1331033"
+                    data-map-over-enable=""
+                    data-address-rank-2="1581 Beacon Street, Brookline, Massachusetts, 02446">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <div class="profile-statement">
+                    <hr class="hidden-sm hidden-md hidden-lg">
+                    <div class="section profile-personalstatement">
+                    <div class="statementPara">
+            Each of us has the potential to thrive but encounters obstacles to living freely and fully.  These obstacles may be situational, environmental, emotional, or may be the consequence of habits acquired under stress.  Sometimes you may just feel alone or stuck, unable to live the life you imagine for yourself and unsure why this is.  I believe that you deserve enjoyment, love, and satisfaction from your life. A therapeutic relationship offers a safe context for discovering and understanding the sources of suffering that hold you back, and exploring new solutions together.
+        </div>
+    
+                    <div class="statementPara">
+            I am psychoanalytically trained and believe that the freedom to say everything that comes to mind is transformative.  I am motivated to approach therapy creatively and according to your unique personality.
+        </div>
+    
+                    <div class="statementPara">
+            Julina Rundberg is a member in good standing of the Society for Modern Psychoanalysts, the National Association for the Advancement of Psychoanalysis, and is a student member of the APA&#039;s Division 39 (psychoanalysis).
+        </div>
+    </div>                </div>
+                <div class="profile-gallery">
+    <div class="gallery1" data-ui-type="gallery">
+        <div class="gallery-title">
+            Julina Rundberg's Photo Gallery
+        </div>
+        <div class="photo-large">
+                            <div class="gallery-pinterestBtn" style="" data-photo_id="735560">
+                                        <a data-pin-config="none"
+                       href="//pinterest.com/pin/create/button/?url=https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&amp;sid=1487040810.1224_19885&amp;city=Boston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1&amp;phid=735560&amp;media=https%3A%2F%2Fcdn2.sussexdirectories.com%2Frms%2Frms_photos%2Fsized%2F85%2F34%2F233485-735560-1_1500x1500.jpg%3Fpu%3D1474554404&amp;description=Julina+Rundberg-"
+                       data-pin-do="buttonPin">
+                        <img src="//assets.pinterest.com/images/pidgets/pin_it_button.png" alt="Pin it">
+                    </a>
+                </div>
+                    </div>
+        <div class="photo-caption"></div>
+        <ul class="thumbnails">
+                                                                                                                            <li class="sliderItem">
+                    <a href="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-735560-1_500x500.jpg?pu=1474554404"
+                       title="" class="thumbnail active"
+                       data-gallery-original="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-735560-1_1500x1500.jpg?pu=1474554404"
+                       data-photo_id="735560">
+                        <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-735560-1_100x100.jpg?pu=1474554404" alt=""
+                             class="thumbnail-img active">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</div>                        <div class="profile-consultation">
+    Call or <a href='#' data-event-label='FreeConsult_EmailLink' data-toggle='modal' data-target='#modalContactForm' data-element-target='#profileContainer' data-action-url='https://therapists.psychologytoday.com/rms/profile/233485/contact' rel='nofollow'>Email</a> Julina Rundberg for a <strong>free phone consultation</strong> now - <a href='tel:6174207327' data-event-label='FreeConsult_PhoneLink'><strong>(617) 420-7327</strong></a>
+</div>                            <div class="profile-qualifications">
+<h2>Qualifications</h2>
+<ul>
+    
+            <li>
+            <strong>School:</strong>
+            Boston Graduate School of Psychoanalysis</li>
+                        </ul>
+</div>                                        <hr>
+                <div class="profile-finances">
+    <h2>Finances</h2>
+    <ul>
+                    <li>
+                <strong>Avg Cost (per session):</strong> $50 - $200
+            </li>
+                            <li>
+                <strong>Sliding Scale:</strong> Yes
+            </li>
+                                            <li>
+                <strong>Accepted Payment Methods: </strong>
+                                    Cash,                                     Check                            </li>
+            </ul>
+
+                                </div>                                        <hr>
+                <div class="profile-additional-credentials">
+    <h2>Additional Credentials</h2>
+    <ul>
+                                                                                        <li><strong>Membership:</strong> Society for Modern Psychoanalysts/Masters in Psychoanalysis</li>
+                <li><strong>Member Since:</strong> 2010</li>
+                                                                                                    <li><strong>Membership:</strong> NAAP/Candidate Member</li>
+                <li><strong>Member Since:</strong> 2016</li>
+                    
+    </ul>
+    </div>                                        <hr>
+<h2>Julina Rundberg's Groups</h2>
+    <div class="group-small">
+        <h2>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&gid=69434&sid=1487040810.1224_19885&city=Boston&county=Suffolk&state=MA&rec_next=1">Difficult Life Stage: Dating</a>
+        </h2>
+
+        <div class="group-description">
+            <p>Affordable therapy in a convenient, supportive, and confidential group setting.  Gain confidence with others through the ups and downs of meeting people (in person?Tinder/Cupid/Match), communicating (calling/ email/ texting/ sexting/ facetime), navigating relationships, looking for chemistry/compatibility, and figuring out what you want in a partner and how to get it.</p>
+        </div>
+        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485&gid=69434&sid=1487040810.1224_19885&city=Boston&county=Suffolk&state=MA&rec_next=1">More about this group</a>
+    </div>
+            <hr class='hidden-xs'>
+                        </div>
+        <div class="col-xs-12 col-sm-4 col-md-5 col-lg-5">
+            <div class="hidden-xs">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Back Bay Analytic Group, LLC<br>
+                
+                    <span itemprop="addressLocality">Boston</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02116</span><br>
+                    
+                            <a href='tel:6174207327'
+               data-event-label='Address1_PhoneLink'>(617) 420-7327</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Julina Rundberg"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                    >Email Me
+            </button>
+                                    <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02114.html" class="textNoLink"
+                               title="Therapists in 02114 (Davis Square, West End)">02114 (Davis Square, West End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/233485/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Julina Rundberg">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="workLocation" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Boston Graduate School of Psychoanalysis<br>
+                                            <span itemprop='streetAddress'>
+                    1581 Beacon Street
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Brookline</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02446</span><br>
+                    
+                            <a href='tel:6172773910'
+               data-event-label='Address2_PhoneLink'>(617) 277-3910</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="42.3391142"
+                    data-map-lon="-71.1331033"
+                    data-map-over-enable=""
+                    data-address-rank-2="1581 Beacon Street, Brookline, Massachusetts, 02446">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <hr>
+<div class="spec-list">
+            <h2>Specialties</h2>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="specialties-list">
+                                            <li class='highlight'>Relationship Issues</li>
+                                            <li class='highlight'>Parenting</li>
+                                            <li class='highlight'>Child or Adolescent</li>
+                                    </ul>
+            </div>
+        </div>
+    
+                        
+                                
+                                                <h3 class="spec-subcat">Issues</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Adoption</li>
+                                                                        
+                                                        <li>Anxiety</li>
+                                                                        
+                                                        <li>Coping Skills</li>
+                                                                        
+                                                        <li>Depression</li>
+                                                                        
+                                                        <li>Divorce</li>
+                                                                        
+                                                        <li>Emotional Disturbance</li>
+                                                                        
+                                                        <li>Grief</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Infertility</li>
+                                                                        
+                                                        <li>Peer Relationships</li>
+                                                                        
+                                                        <li>School Issues</li>
+                                                                        
+                                                        <li>Self Esteem</li>
+                                                                        
+                                                        <li>Spirituality</li>
+                                                                        
+                                                        <li>Trauma and PTSD</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Mental Health</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Dissociative Disorders</li>
+                                                                        
+                                                        <li>Mood Disorders</li>
+                                                                        
+                                                        <li>Personality Disorders</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Psychosis</li>
+                                                                        
+                                                        <li>Thinking Disorders</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Client Focus</h2>
+                        
+                                                <div class="spec-subcat">
+                    <strong>Alternative Languages:</strong>
+                                <span>French, </span>
+                                                            
+                                            <span>Swedish</span>
+                                    </div>
+                                        </div>            
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Treatment Approach</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Orientation</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li><span data-ui-type="glossary" data-glossary-id="580" 
+>Attachment-based</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="76" 
+>Emotionally Focused</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="574" 
+>Narrative</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="22" 
+>Psychoanalytic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="23" 
+>Psychodynamic</span></li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Modality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Individuals</li>
+                                                                        
+                                                        <li>Couples</li>
+                                                                        
+                                                        <li>Group</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <div class='hidden-xs hidden-sm'>
+                    <hr>
+                    <h2>Professional Connections</h2>
+<div class="profile-network">
+    <div class="tabs">
+        <ul>
+            <li><a href="#tabs-connections" class="tab-active">Connections</a></li>
+                                </ul>
+        <div id="tabs-connections" class="tab-pane">
+                            <div class="connection" itemprop="knows" itemscope itemtype="http://schema.org/Person">
+    <div class="row">
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="connection-photo">
+                <img src="https://cdn4.sussexdirectories.com/rms/rms_photos/sized/43/51/295143-701112-1_80x100.jpg?pu=1473873008"
+  alt="Ms. Shirin Sajadi, MA" title="Ms. Shirin Sajadi, MA" itemprop="image">
+            </div>
+        </div>
+        <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9 col-tight-left">
+            <div class="connection-info">
+                <h4><span itemprop="name" class="connection-name">
+                <a href="http://therapists.psychologytoday.com/rms/295143.html">Ms. Shirin Sajadi, MA</a>
+            </span>
+                </h4>
+
+                <div class="connection-thrpst-type">
+                    Other
+                </div>
+                <div class="connection-type">
+                                                        </div>
+            </div>
+        </div>
+    </div>
+</div>                    </div>
+                    </div>
+</div>                </div>
+                        <div class='hidden-sm hidden-md hidden-lg'>
+                <hr>
+                <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02114.html" class="textNoLink"
+                               title="Therapists in 02114 (Davis Square, West End)">02114 (Davis Square, West End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="profile-bottom">
+        <div class="section profile-change_block">
+            <div class="last-modified">Last Modified: 22 Sep 2016</div>
+        </div>
+    </div>
+                <div class="modal" id="modalMap" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Julina Rundberg
+            <div class="modal-subtitle">
+                            <span class="nowrap">MA</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div id="map-canvas" class="modal-map"></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div id="map-addresses"></div>
+       </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div id="contactBar" class="fixed-header"
+     itemscope itemtype="http://schema.org/Person"
+     data-profid="233485"
+     data-prof-name="Julina Rundberg"
+     data-phone="(617) 420-7327"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485"
+     data-profile-image="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-650383-3_120x150.jpg?pu=1466096946"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=233485"
+     data-new-clients="1"
+     data-use-company-name="">
+    <div class="pageInner hideContactBar">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div id="contactBarPhoto" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="contact-photo">
+                                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-650383-3_120x150.jpg?pu=1466096946" itemprop="image"
+                                     alt="Julina Rundberg, MA in Boston">
+                            </div>
+                                                                            <div class="contact-info" >
+                                                    <h1 itemprop="name" class="contact-name">
+                                Julina Rundberg</h1>
+
+                            <div class="profile-title contact-title">
+                                <h2>
+                                                                                                                                                                                                        <span class="nowrap">MA</span>
+                                                                    </h2>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+ 
+                    <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs"> 
+                    <div class="contact-button"> 
+                                                    <div class="contact-phone">
+                                <a href="tel:6174207327"
+                                   class="tr-contactbar-phone" data-event-label="ContactBarLg_PhoneLink">
+                                    <i class="icon icon-earphone icon-white contactbar-phone-icon"></i> (617) 420-7327</a>
+                            </div>
+                                                                            or
+                                                                            <div class="contact-email">
+                                <a href="#"
+                                   rel="nofollow"
+                                   title="Send email to Julina Rundberg"
+                                   data-event-label="ContactBarLg_EmailLink"
+                                   data-toggle="modal"
+                                   data-target="#modalContactForm"
+                                   data-element-target="#contactBar"
+                                   data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                                   >Email</a>
+                            </div>
+                                                </div>
+                    </div>
+                </div>
+
+                </div>
+
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="contact-button-xs">
+                                                                                                                        <div class="col-xs-6 col-tight-right">
+                                                                                                <div class="contact-email-xs">
+                                        <a href="#"
+                                           rel="nofollow"
+                                           title="Send email to Julina Rundberg"
+                                           class="btn btn-block "
+                                           data-event-label="ContactBarXs_EmailLink"
+                                           data-toggle="modal"
+                                           data-target="#modalContactForm"
+                                           data-element-target="#contactBar"
+                                           data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                                           >Email Me</a>
+                                    </div>
+                                                                                            </div>
+                            <div class="col-xs-6 col-tight-left">
+                                                                                                    <div class="contact-phone-xs">
+                                        <a href="tel:6174207327"
+                                           data-event-label="ContactBarXs_PhoneLink"
+                                           class="btn btn-block btn-orange tr-contactbar-phone">
+                                            (617) 420-7327</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#contactBar').detach().appendTo('#headerShadow');
+            setContactBarPosition();
+            $('#contactBar').show();
+            contactBar();
+
+            window.addEventListener('scroll', function () {
+                contactBar();
+            });
+
+            $(window).on('resize', function () {
+                setContactBarPosition();
+                contactBar();
+            });
+
+        });
+        function contactBar() {
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+               var height = $('#profHdr').height() + 115;
+                if (window.pageYOffset > height) {
+                        showContactBar();
+                    } else if (window.pageYOffset <= height) {
+                        hideContactBar();
+                    }
+            } else {
+                var height = $('#profHdr').height() + 40;
+                if (window.pageYOffset > height) {
+                    showContactBar();
+                } else if (window.pageYOffset <= height) {
+                    hideContactBar();
+                }
+            }
+        }
+        function setContactBarPosition() {
+            var offset = $('#contactBar').outerHeight() - $('#headerShadow').outerHeight();
+            $('#contactBar').css({
+                "top": '-' + offset + 'px'
+            });
+        }
+        function showContactBar() {
+            var offset = $('#contactBar').outerHeight();
+            $('#headerShadow').css({
+                "top": offset + 'px'
+            });
+        }
+        function hideContactBar() {
+            $('#headerShadow').css({
+                "top": '0px'
+            });
+        }
+    </script>
+            <div class="modal" id="modalPhotoContact" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Julina Rundberg
+            <div class="modal-subtitle">
+                            <span class="nowrap">MA</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="col-xs-12">
+            <div class="modal-contact-photo">
+                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/85/34/233485-650383-3_320x400.jpg?pu=1466096946" itemprop="image"
+                     alt="Julina Rundberg, MA in Boston">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="hidden-sm hidden-md hidden-lg modal-photo-contact-info">
+
+            
+                            <div class="col-xs-6 col-tight-right">
+                    <div class="modal-contact-email">
+                        <button title="Send email to Julina Rundberg"
+                                class="btn btn-block "
+                                data-event-label="PhotoModal_EmailLink"
+                                data-toggle="modal"
+                                data-target="#modalContactForm"
+                                data-element-target="#profileContainer"
+                                data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                                >Email Me</button>
+                    </div>
+                </div>
+                                        <div class=" col-xs-6 col-tight-left">
+                    <div class="modal-contact-phone">
+                        <a href="tel:6174207327"
+                           class="btn btn-block btn-orange"
+                           data-event-label="PhotoModal_PhoneLink">
+                            (617) 420-7327</a>
+                    </div>
+                </div>
+                    </div>
+        <div class="hidden-xs">
+            <div class="modal-photo-contact-info">
+                                    <div class="contact-phone">
+                        <a href="tel:6174207327"
+                           class="tr-photoModal-phone" data-event-label="PhotoModalLg_PhoneLink">
+                            <i class="icon icon-earphone icon-white modal-photo-phone"></i> (617) 420-7327
+                        </a>
+                    </div>
+                                 or 
+                                    <div class="contact-email">
+                        <a href="#"
+                           data-event-label="PhotoModalLg_EmailLink"
+                           data-toggle="modal"
+                           data-target="#modalContactForm"
+                           data-element-target="#profileContainer"
+                           data-action-url="https://therapists.psychologytoday.com/rms/profile/233485/contact"
+                           >Email</a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div class="modal floating-label-form-container contact-modal" id="modalShareForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">    <h1>Share <span></span>'s Profile</h1>
+</div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-md-12">
+            <form id="profile-share" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="shareFormName" class="control-label">Your Name</label>
+                    <input type="text" class="form-control" id="shareFormName" name="your-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormEmail" class="control-label">Your Email</label>
+                    <input type="text" class="form-control" id="shareFormEmail" name="your-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendName" class="control-label">Friend&#039;s Name</label>
+                    <input type="text" class="form-control" id="shareFormFriendName" name="friend-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendEmail" class="control-label">Friend&#039;s Email</label>
+                    <input type="text" class="form-control" id="shareFormFriendEmail" name="friend-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormBody" class="control-label"
+                           data-floating-label="Message (80 words max)">
+                        Message</label>
+                    <textarea class="form-control" id="shareFormBody" name="message"></textarea>
+                </div>
+                <div id="profile-share-captcha" class="form-group form-captcha"></div>
+                <button type="submit"
+                        class="btn btn-orange btn-large btn-block submit-hide">Send Email
+                </button>
+            </form>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalContactForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1 class="result-xs">Email <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="emailFormName">Your Name</label>
+                    <input type="text" class="form-control" id="emailFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="emailFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="emailFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="emailFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="emailFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactemail_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Don't be shy. Our therapists are here to help you and are pleased to hear from you.</p>
+
+<p>Feel free to ask for what you want... an appointment, a consultation or simply a response to a question. Keep it short, 200
+words or less, this is just an initial contact.</p>
+
+<p>Remember to double check your return email address or your phone number if you prefer to be called.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.<p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalVideoRequestForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1>Request a Video Call with <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact-video" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="videoFormName">Your Name</label>
+                    <input type="text" class="form-control" id="videoFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="videoFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="videoFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="videoFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="videoFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-video-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactvideo_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Send this email to request a video session with this therapist.</p>
+
+<p>The therapist may first call or email you back to schedule a time and provide details about how to connect.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.</p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+</div>
+<script type="text/javascript"
+        src="//maps.googleapis.com/maps/api/js?key=AIzaSyD0vXldAbHFWHvHbWzKT_W0CIyI35PACSI&amp;sensor=false"></script>
+<script type="text/javascript">
+    dataLayer.push({'defaultEventCategory': 'ProfilePage'});
+
+    $('#modalMap').on('shown.bs.modal', function (e) {
+        initializeMap(e);
+    });
+
+    function initializeMap(e) {
+        var count = 0;
+        var markers = [];
+        var markerABC = 'A';
+        var coords;
+        var geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(44.8819, -93.2217);
+        var mapOptions = {
+            center: latlng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+
+        var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+        $('#map-addresses').html('');
+        var addrs = [
+            $('[data-target="#modalMap"]', $('.address-rank-1:first')),
+            $('[data-target="#modalMap"]', $('.address-rank-2:first'))
+        ];
+
+        $(addrs).each(function () {
+            var lat = $(this).attr('data-map-lat');
+            var lon = $(this).attr('data-map-lon');
+
+            over_enable = parseInt($(this).attr('data-map-over-enable'));
+            address = $(this).attr('data-' + $(this).attr('data-map-address'));
+            var markerABC = 'A';
+
+            var addrHtml = $(this).parents('.address').clone().appendTo('#map-addresses');
+            $('.address-buttons', addrHtml).remove();
+
+            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+
+            if (over_enable) {
+                coords = new google.maps.LatLng(lat, lon);
+                map.setCenter(coords);
+                marker = new google.maps.Marker({
+                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                    position: coords,
+                    animation: google.maps.Animation.DROP,
+                    map: map
+                });
+
+                markers.push(marker);
+                setMap(markers, map);
+            } else {
+                codeAddress(address, function (coords) {
+                    map.setCenter(coords);
+                    marker = new google.maps.Marker({
+                        icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                        position: coords,
+                        animation: google.maps.Animation.DROP,
+                        map: map
+                    });
+
+                    markers.push(marker);
+                    setMap(markers, map);
+                });
+            }
+            count++;
+        });
+    }
+
+    function codeAddress(address, callback) {
+        var geocoder = new google.maps.Geocoder();
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    callback(results[0].geometry.location);
+                }
+            });
+        }
+    }
+
+    function setMap(markers, map) {
+        zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function (event) {
+
+            if (this.getZoom() > 9) {
+                if (markers.length == 1) {
+                    // Change max/min zoom here
+                    this.setZoom(15);
+                }
+            }
+            google.maps.event.removeListener(zoomChangeBoundsListener);
+        });
+
+        var bounds = new google.maps.LatLngBounds();
+        $.each(markers, function (index, marker) {
+            marker.setMap(map);
+            bounds.extend(marker.getPosition());
+        });
+        map.fitBounds(bounds);
+    }
+
+    var isForbiddenHost = "";
+    var noEmailMessage = "<h1>Sorry!</h1> <p>[NAME] would like to hear from you but prefers to be contacted by phone. [PHONE_TEXT]";
+    var notAcceptingNewClientMessage = "[NAME] is not currently accepting new clients.";
+    var personMessageLabel = "Message";
+    var personMessageFloatingLabel = "How can I help you? (200 words max)";
+    var companyMessageLabel = "Message";
+    var companyMessageFloatingLabel = "How can we help you? (200 words max)";
+    var ajaxErrorMessage = 'There was a problem sending your email. Please try again later.';
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchas&render=explicit" async defer></script>
+&nbsp;
+<!-- detail END: Search Only: 0.085 Sec., Total: 0.154 Sec. -->
+<br>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/modal/modal.js'></script>
+<div id='searchModal' class='modal search-modal' data-directory-url='https://therapists.psychologytoday.com/rms/prof_results.php'><div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-body scrollable">
+                    <div id='autosuggestContainer' class='autosuggest-container'
+         data-placeholder="City, Zip or Name"
+         data-endpoint="https://therapists.psychologytoday.com/rms/search/suggest">
+        <div class='autosuggest-header'>
+            <div class='autosuggest-input'>
+                <i class='icon icon-chevron-left hidden-sm hidden-md hidden-lg' data-dismiss='modal'></i>
+                <input type="text" id='autosuggestSearchInput' class="search-autosuggest"
+                       data-label='Search_SearchField'
+                       autosuggest='off' autocorrect='off' autocapitalize='off' tabindex=0>
+                <input type="hidden" id='autosuggestHiddenInput'>
+                <button id='autosuggestSearchButton' class="btn btn-blue btn-search"
+                        title="Search for Therapists near you.">
+                    <i class="icon icon-search icon-white"></i>
+                </button>
+            </div>
+            <div class='autosuggest-message'></div>
+        </div>
+
+        <div id='searchSuggestions' class='autosuggest-sections'>
+            <div id='locationSuggestions' class='autosuggest-section' data-section='locations'></div>
+            <div id='nameSuggestions' class='autosuggest-section' data-section='names'></div>
+        </div>
+    </div>
+
+    <script src='https://resources.psychologytoday.com/v3.26.2/js/search/autosuggest.js' charset='UTF-8'></script>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+</div></div>
+<footer id="pageFooter" class="outerWrapper">
+    <div class="pageInner"><section id='metaSearches' class='hidden-xs collapsible'>
+    <h3>Searches containing Julina Rundberg</h3>
+    <div class='row collapsible-content'>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=192&amp;topid=233485' title='Academic Counseling Therapists in Boston, MA'>Academic Counseling Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=192&amp;topid=233485' title='Academic Underachievement Therapists in Boston, MA'>Academic Underachievement Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=180&amp;topid=233485' title='Adoption Therapists in Boston, MA'>Adoption Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=20&amp;topid=233485' title='Amnesia Therapists in Boston, MA'>Amnesia Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=3&amp;topid=233485' title='Anxiety Therapists in Boston, MA'>Anxiety Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=496&amp;topid=233485' title='Attachment-based Therapists in Boston, MA'>Attachment-based Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=14&amp;topid=233485' title='Bereavement Therapists in Boston, MA'>Bereavement Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=5&amp;topid=233485' title='Child or Adolescent Therapists in Boston, MA'>Child or Adolescent Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=249&amp;topid=233485' title='Coping Skills Therapists in Boston, MA'>Coping Skills Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=287&amp;topid=233485' title='Couples Therapists in Boston, MA'>Couples Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=2&amp;topid=233485' title='Depression Therapists in Boston, MA'>Depression Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=20&amp;topid=233485' title='Dissociative Disorders Therapists in Boston, MA'>Dissociative Disorders Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=26&amp;topid=233485' title='Divorce Therapists in Boston, MA'>Divorce Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=198&amp;topid=233485' title='Emotional Disturbance Therapists in Boston, MA'>Emotional Disturbance Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=491&amp;topid=233485' title='Emotionally Focused Therapists in Boston, MA'>Emotionally Focused Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=3&amp;topid=233485' title='Fears Therapists in Boston, MA'>Fears Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=344&amp;topid=233485' title='French Therapists in Boston, MA'>French Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=14&amp;topid=233485' title='Grief Therapists in Boston, MA'>Grief Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=289&amp;topid=233485' title='Group Therapists in Boston, MA'>Group Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=286&amp;topid=233485' title='Individuals Therapists in Boston, MA'>Individuals Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=12&amp;topid=233485' title='Infertility Therapists in Boston, MA'>Infertility Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=14&amp;topid=233485' title='Loss Therapists in Boston, MA'>Loss Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=201&amp;topid=233485' title='Mood Disorders Therapists in Boston, MA'>Mood Disorders Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=14&amp;topid=233485' title='Mourning Therapists in Boston, MA'>Mourning Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=20&amp;topid=233485' title='Multiple Personality Therapists in Boston, MA'>Multiple Personality Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=22&amp;topid=233485' title='Narcissistic Therapists in Boston, MA'>Narcissistic Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=490&amp;topid=233485' title='Narrative Therapists in Boston, MA'>Narrative Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=22&amp;topid=233485' title='Paranoid Therapists in Boston, MA'>Paranoid Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=16&amp;topid=233485' title='Parenting Therapists in Boston, MA'>Parenting Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=228&amp;topid=233485' title='Peer Relationships Therapists in Boston, MA'>Peer Relationships Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=22&amp;topid=233485' title='Personality Disorders Therapists in Boston, MA'>Personality Disorders Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=3&amp;topid=233485' title='Phobia Therapists in Boston, MA'>Phobia Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=201&amp;topid=233485' title='Post-Partum Therapists in Boston, MA'>Post-Partum Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=19&amp;topid=233485' title='Post-Traumatic Stress Therapists in Boston, MA'>Post-Traumatic Stress Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=298&amp;topid=233485' title='Psychoanalytic Therapists in Boston, MA'>Psychoanalytic Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=299&amp;topid=233485' title='Psychodynamic Therapists in Boston, MA'>Psychodynamic Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=23&amp;topid=233485' title='Psychosis Therapists in Boston, MA'>Psychosis Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=1&amp;topid=233485' title='Relationship Issues Therapists in Boston, MA'>Relationship Issues Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=23&amp;topid=233485' title='Schizophrenia Therapists in Boston, MA'>Schizophrenia Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=192&amp;topid=233485' title='School Issues Therapists in Boston, MA'>School Issues Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=201&amp;topid=233485' title='Seasonal Affective Therapists in Boston, MA'>Seasonal Affective Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=260&amp;topid=233485' title='Self Esteem Therapists in Boston, MA'>Self Esteem Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=18&amp;topid=233485' title='Spirituality Therapists in Boston, MA'>Spirituality Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=358&amp;topid=233485' title='Swedish Therapists in Boston, MA'>Swedish Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=24&amp;topid=233485' title='Thinking Disorders Therapists in Boston, MA'>Thinking Disorders Therapists in Boston, MA</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?city=Boston&amp;state=MA&amp;spec=19&amp;topid=233485' title='Trauma and PTSD Therapists in Boston, MA'>Trauma and PTSD Therapists in Boston, MA</a></li>
+                                                    <li>
+                        Homepage:
+                        <a href='http://www.backbayanalytic.com' title='Ms. Julina Rundberg Homepage'
+                           target='_blank'>http://www.backbayanalytic.com</a>
+                    </li>
+                            </ul>
+        </div>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=192&amp;topid=233485' title='Academic Counseling Therapists in 02116'>Academic Counseling Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=192&amp;topid=233485' title='Academic Underachievement Therapists in 02116'>Academic Underachievement Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=180&amp;topid=233485' title='Adoption Therapists in 02116'>Adoption Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=20&amp;topid=233485' title='Amnesia Therapists in 02116'>Amnesia Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=3&amp;topid=233485' title='Anxiety Therapists in 02116'>Anxiety Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=496&amp;topid=233485' title='Attachment-based Therapists in 02116'>Attachment-based Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=14&amp;topid=233485' title='Bereavement Therapists in 02116'>Bereavement Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=5&amp;topid=233485' title='Child or Adolescent Therapists in 02116'>Child or Adolescent Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=249&amp;topid=233485' title='Coping Skills Therapists in 02116'>Coping Skills Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=287&amp;topid=233485' title='Couples Therapists in 02116'>Couples Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=2&amp;topid=233485' title='Depression Therapists in 02116'>Depression Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=20&amp;topid=233485' title='Dissociative Disorders Therapists in 02116'>Dissociative Disorders Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=26&amp;topid=233485' title='Divorce Therapists in 02116'>Divorce Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=198&amp;topid=233485' title='Emotional Disturbance Therapists in 02116'>Emotional Disturbance Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=491&amp;topid=233485' title='Emotionally Focused Therapists in 02116'>Emotionally Focused Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=3&amp;topid=233485' title='Fears Therapists in 02116'>Fears Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=344&amp;topid=233485' title='French Therapists in 02116'>French Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=14&amp;topid=233485' title='Grief Therapists in 02116'>Grief Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=289&amp;topid=233485' title='Group Therapists in 02116'>Group Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=286&amp;topid=233485' title='Individuals Therapists in 02116'>Individuals Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=12&amp;topid=233485' title='Infertility Therapists in 02116'>Infertility Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=14&amp;topid=233485' title='Loss Therapists in 02116'>Loss Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=201&amp;topid=233485' title='Mood Disorders Therapists in 02116'>Mood Disorders Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=14&amp;topid=233485' title='Mourning Therapists in 02116'>Mourning Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=20&amp;topid=233485' title='Multiple Personality Therapists in 02116'>Multiple Personality Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=22&amp;topid=233485' title='Narcissistic Therapists in 02116'>Narcissistic Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=490&amp;topid=233485' title='Narrative Therapists in 02116'>Narrative Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=22&amp;topid=233485' title='Paranoid Therapists in 02116'>Paranoid Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=16&amp;topid=233485' title='Parenting Therapists in 02116'>Parenting Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=228&amp;topid=233485' title='Peer Relationships Therapists in 02116'>Peer Relationships Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=22&amp;topid=233485' title='Personality Disorders Therapists in 02116'>Personality Disorders Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=3&amp;topid=233485' title='Phobia Therapists in 02116'>Phobia Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=201&amp;topid=233485' title='Post-Partum Therapists in 02116'>Post-Partum Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=19&amp;topid=233485' title='Post-Traumatic Stress Therapists in 02116'>Post-Traumatic Stress Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=298&amp;topid=233485' title='Psychoanalytic Therapists in 02116'>Psychoanalytic Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=299&amp;topid=233485' title='Psychodynamic Therapists in 02116'>Psychodynamic Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=23&amp;topid=233485' title='Psychosis Therapists in 02116'>Psychosis Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=1&amp;topid=233485' title='Relationship Issues Therapists in 02116'>Relationship Issues Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=23&amp;topid=233485' title='Schizophrenia Therapists in 02116'>Schizophrenia Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=192&amp;topid=233485' title='School Issues Therapists in 02116'>School Issues Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=201&amp;topid=233485' title='Seasonal Affective Therapists in 02116'>Seasonal Affective Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=260&amp;topid=233485' title='Self Esteem Therapists in 02116'>Self Esteem Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=18&amp;topid=233485' title='Spirituality Therapists in 02116'>Spirituality Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=358&amp;topid=233485' title='Swedish Therapists in 02116'>Swedish Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=24&amp;topid=233485' title='Thinking Disorders Therapists in 02116'>Thinking Disorders Therapists in 02116</a></li>
+                                    <li><a href='https://therapists.psychologytoday.com/rms/prof_results.php?zipcode=02116&amp;spec=19&amp;topid=233485' title='Trauma and PTSD Therapists in 02116'>Trauma and PTSD Therapists in 02116</a></li>
+                            </ul>
+        </div>
+    </div>
+</section><div class="row">		<div class="promo-ribbon hidden-xs col-sm-12 hidden-md hidden-lg">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div>	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footerActions">
+		<div class="hidden-sm hidden-md hidden-lg text-xs-center">
+			<a href="https://member.psychologytoday.com/rms-sec/"
+			 class="footerLoginBtn btn btn-blue">Log In</a>
+
+			<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+			 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+		</div><div class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<a href="https://therapists.psychologytoday.com/"
+ id="footerLogoTd" class="footerLogo ui-sprite"
+ title="Psychology Today">Psychology Today</a>
+
+<a href="https://www.healthprofs.com/cam/"
+ id="footerLogoCam" class="footerLogo ui-sprite"
+ title="The Health Professionals Directory">HealthProfs.com</a>
+
+<div class="footerActions col-xs-12 hidden-sm hidden-md hidden-lg">
+	<a href="https://member.psychologytoday.com/rms-sec/"
+	 class="footerLoginBtn btn btn-blue">Log In</a>
+
+	<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+	 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+</div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-left text-xs-center"><ul id="footerNav">
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/about.html" class="footerNavItem first">About</a>
+</li>	<li><a href="https://therapists.psychologytoday.com/us/careers" class="footerNavItem first">Careers</a></li><li>
+    <a href="https://therapists.psychologytoday.com/rms/content/privacy.html" class="footerNavItem">Privacy</a>
+</li>
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/terms.html" class="footerNavItem">Terms</a>
+</li></ul><div id="footerCopyright">
+&copy; 2017 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a><span class="hidden-xs hidden-sm">,
+Psychology Today is &copy; 2017
+  <a href="https://www.psychologytoday.com">Sussex Publishers, LLC</a>
+</span></div></div>		</div>
+		<div class="promo-ribbon hidden-xs col-xs-12 hidden-sm col-md-6 col-lg-6 pull-left">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div></div>
+</div>
+</footer>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9980773" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+//]]>
+</script>
+<noscript>
+  <img alt=""
+  src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9980773&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<div style="font-size: 0px; margin-top: -1px">
+<!-- Google Code for Therapy Directory Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071677164;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "JZ0bCKqCmgMQ7P2B_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071677164/?value=0&amp;label=JZ0bCKqCmgMQ7P2B_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div><!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.async = true;
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src =
+["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&cg=0&cc=1&si=",
+escape(window.location.href), "&rp=", escape(document.referrer),
+"&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img
+src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>

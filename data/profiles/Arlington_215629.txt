@@ -1,0 +1,2036 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Ellenhorn, Treatment Facility, Arlington, MA 02474 | Psychology Today</title>
+<meta name="description" content="Ellenhorn, Treatment Facility, Arlington, MA 02474, (617) 936-7330, Ellenhorn is the most comprehensive and integrative private community-based mental health program in the country. Geared to individuals 18 years and older, our approach combines robust psychiatric services with intensive psychosocial care, focusing equally on reducing the psychosocial damage caused by stigma, loss of social identity and institutionalization, as on treating psychiatric illness and co-occurring disorders. Using the best-practice &quot;gold standard&quot; community-based treatment model, Program for Assertive Community Treatment (PACT), our multidisciplinary teams of professionals - which include psychiatrists and a broad spectrum of other experts - provide rehabilitation and treatment resources to clients living, for the most part, in apartments in the community. A small number of clients receive services at our staff-supervised home called &quot;The Brackett House&quot;.">
+<meta name="robots" content="index,follow">
+<link rel='stylesheet' type='text/css' href='https://resources.psychologytoday.com/v3.26.2/css/directoryweb/psychologytoday.en-US.css'>
+<link rel="icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="shortcut icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v3.26.2/images/apple-touch-icon-TD.png">
+
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/fastclick.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/directoryweb-sx.ui.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.flag.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.gallery.js"></script>
+
+<script>
+window.addEventListener('load', function() {
+    FastClick.attach(document.body);
+}, false);
+</script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/bootstrap/bootstrap.min.js'></script><script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/contactShare.js'></script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/form.js'></script>
+<meta name="dcterms.modified" content="2017-Jan-04">
+<meta name="geo.region" content="US-MA">
+<link rel="canonical" href="https://treatment.psychologytoday.com/rms/name/Ellenhorn_Arlington_Massachusetts_215629">
+<meta name="dcterms.title" content="Ellenhorn, Treatment Facility, Arlington, MA 02474">
+<meta name="dcterms.creator" content="Psychology Today">
+<meta name="dcterms.coverage" content="Arlington, MA 02474">
+<meta name="geo.placename" content="Arlington, MA 02474">
+<script>
+  var dataLayer = [{'SxTrackingID' : 'UA-2018330-4'}];
+</script>
+<!-- Start Optimizely Code -->
+<script src="https://cdn.optimizely.com/js/6265930501.js"></script>
+<!-- End Optimizely Code -->
+</head>
+<body id='top'  class="prof-detail"  data-spid-raw="rms" data-spid-type="TD">
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<nav id="subBrandsXsm" class="xsm-subBrands-show hide">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+<div id="pageContainer">
+<div id="headerShadow"></div>
+<header id="headerWrapper" class="outerWrapper TD fixed-header">
+
+    <div class="pageInner">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+	        	<button class="btn btn-frost xsm-subBrands-hidden hidden-xs" id="subBrandsBtn"
+	onclick="$('html').toggleClass('subBrandsOpen');sx.showOverlay();">
+		<i class="icon icon-white icon-show_lines"></i>
+	</button>
+	<a class="xsm-subBrands-show hidden-sm hidden-md hidden-lg" id="subBrandsBtnXs">
+		<i class="icon icon-white icon-show_lines"></i>
+	</a>
+                <h1><a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_Brand" id="headerBrand" class="headerLogo brandFace"
+                    title="Psychology Today"><span id='headerLogo' class='ui-sprite ui-sprite-resp'>Psychology Today</span></a>
+                    <a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_SubBrand"
+  id="headerSubBrand"
+  class="headerLogo subBrandFace"
+  title="Therapists">
+  Therapists</a>
+  
+
+	            </h1>
+			    <nav id="subBrands" class="xsm-subBrands-hidden">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+                
+    <a href="https://therapists.psychologytoday.com/" title="Find a Therapist"
+     id="headerSearchIcon" class="hidden-sm hidden-md hidden-lg"
+    data-trigger='search-autosuggest' data-event-label='Search_HeaderButton'></a>
+    <div id="headerSearchBox" class="hidden-sm hidden-md hidden-lg" 
+     data-trigger='search-autosuggest' data-event-label='Search_SearchField'>
+        <input type="text" class="hidden-sm hidden-md hidden-lg"
+           placeholder="City/Zip or Name"
+            title="Search for Therapists near you.">
+    </div>
+           </div>
+           <div class="col-lg-4 col-md-4 col-sm-5  hidden-xs" id="headerActions" style="text-align: right;">
+<a href="https://member.psychologytoday.com/rms-sec/" class="btn btn btn-frost headerBtn">Log In</a>
+<a href="https://member.psychologytoday.com/therapist/?src=RMSLOG"
+  class="btn headerBtn btn-orange">Sign Up and Get Listed</a>
+
+</div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('#pageContainer').on(sx.transitionEndEvent, function(e) {
+
+        if (e.target.id != 'pageContainer') {
+            return;
+        }
+
+        if ($('#subBrandsXsm').hasClass('closing')) {
+            $('#headerWrapper').css({
+                'position' : 'fixed',
+                'top' : '0px'
+            });
+            $('#subBrandsXsm').removeClass('show');
+            $('#subBrandsXsm').addClass('hide');
+            $('#subBrandXsm').removeClass('closing');
+            $('#pageContainer').removeClass('overlay');
+
+            var scrollPosition = Math.abs(parseInt($('body').css('top'),10));
+            $('body').css({
+                position: 'static',
+                overflow: 'auto'
+            });
+            $('body').scrollTop(scrollPosition);
+        } else {
+            $('#subBrandXsm').removeClass('opening');
+        } 
+    });
+
+    $('#subBrandsBtnXs').on('click', function(e) {
+        e.preventDefault();
+        if ($('html').hasClass('subBrandsOpenXsm')) {
+            $('#subBrandsXsm').removeClass('opening');
+            $('#subBrandsXsm').addClass('closing');
+            $('html').removeClass('subBrandsOpenXsm');
+            $('#pageContainer').off('click.menuDismissal');
+        } else {
+            $('#pageContainer').on('click.menuDismissal', function(e) {
+                e.preventDefault();
+                if ($('html').hasClass('subBrandsOpenXsm') ) {
+                    if ($('#pageContainer').hasClass('overlay')) {
+                        $('#subBrandsXsm').removeClass('opening');
+                        $('#subBrandsXsm').addClass('closing');
+                        $('html').removeClass('subBrandsOpenXsm');
+                        $('#pageContainer').removeClass('overlay');
+                        $('#pageContainer').off('click.menuDismissal');
+                        $('#pageContainer *').css({ 'pointer-events' : 'auto' });
+                    } else {
+                       $('#pageContainer').addClass('overlay');
+                    }
+                } 
+            });
+            $('#pageContainer *').css({ 'pointer-events' : 'none' });
+            $('#subBrandsXsm').addClass('show');
+            $('#subBrandsXsm').addClass('opening');
+            $('#subBrandsXsm').removeClass('closing');
+            $('#headerWrapper').css({
+                'position' : 'absolute',
+                'top' : $(window).scrollTop() + 'px'
+            });
+            $('body').css({
+                position: 'fixed',
+                overflow: 'hidden',
+                width: $('body').width(),
+                top: '-' + $('body').scrollTop() + 'px'
+            })
+            $('html').addClass('subBrandsOpenXsm');
+        }
+    });     
+});
+</script>
+
+<div id="main" class="no-min-height">    <div class ="breadcrumb-nav profile-breadcrumb">
+    <div class="pageInner">
+        <div class="contextual">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <div class="contextual breadcrumb">
+                        <a href="https://therapists.psychologytoday.com/rms/prof_results.php?sid=1487101205.2343_17558&city=Arlington&state=MA&rec_next=1&tr=BackResults"
+                           data-event-label='ProfileNav_BackToSearchLink'>
+                            <i class="icon icon-chevron-left back"></i>Back To Results</a>
+                        <a href="https://therapists.psychologytoday.com/rms/"
+                           data-event-label='ProfileNav_NewSearchLink' class="hidden-xs">
+                            <i class="icon icon-search search"></i>New Search</a>
+                    </div>
+                </div>
+                                    <div class="col-sm-6 col-med-6  col-lg-6">
+                        <div class="contextual-right breadcrumb">
+                                                        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=51204&sid=1487101205.2343_17558&city=Arlington&state=MA&rec_next=1&ref=106&tr=PrevProf"
+                               data-event-label='ProfileNav_prevProfLink' class="" title="Michelle McGrath">
+                                <i class="icon icon-chevron-left  back hidden-xs"></i>Previous</a>
+                                                                                    <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=82373&sid=1487101205.2343_17558&city=Arlington&state=MA&rec_next=1&ref=108&tr=NextProf"
+                               data-event-label='ProfileNav_nextProfLink' class="profile-next"
+                               title="Heather Daley">Next<i class="icon icon-chevron-right next hidden-xs"></i></a>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id='profileContainer' class="pageInner profile"
+     itemscope itemtype="http://schema.org/Organization"
+     data-profid="215629"
+     data-prof-name="Ellenhorn"
+     data-phone="(617) 936-7330"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629"
+     data-profile-image="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/29/56/215629-816130-2_120x150.jpg?pu=1483542668"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629"
+     data-new-clients="1"
+     data-use-company-name="1">
+    <div id="profHdr" class="row">
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg profile-title-container">
+                            <h1 itemprop="name">
+                    Ellenhorn</h1>
+                <div class="profile-title">
+                    <h2>
+                                                                                                                                            <span class="nowrap">Treatment Facility</span>
+                                            </h2>
+                </div>
+                                    <div class="profile-title-verified hidden-sm hidden-md hidden-lg">
+                        <span data-target="#modalVerified" data-toggle="modal">
+                                <i class="icon icon-ok"></i>Verified by <span>Psychology Today</span>
+                        </span>
+                    </div>
+                                    </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 photo-column no-padding-right">
+                            <span title="Ellenhorn, Treatment Facility in Arlington"
+                      id="profilePhoto"
+                      data-target="#modalPhotoContact" data-toggle="modal">
+                    <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/29/56/215629-816130-2_120x150.jpg?pu=1483542668" itemprop="image"
+                         alt="Ellenhorn, Treatment Facility in Arlington" style="width:100%"
+                         data-event-label="Photo_ModalLink">
+                    <div class="photo-enlarge hidden-sm hidden-md hidden-lg">
+                        <div class="btns">
+                            <i class="icon icon-enlarge"></i>
+                        </div>
+                    </div>
+                </span>
+                        <div class="hidden-xs profile-buttons">
+                                        <a
+        href="tel:6179367330"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 936-7330</a>
+    <button
+        title="Send email to Ellenhorn"
+        class="btn btn-block btn-orange"
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+        >Email Us</button>
+<button
+        title="Recommend Ellenhorn to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/215629/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Ellenhorn">Website</a>
+                            </div>
+                    </div>
+
+        <div class="profile-middle profile-flag col-xs-8 col-sm-10 col-md-10 col-lg-10">
+            <div class="row">
+                <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+                                            <h1 itemprop="name">
+                            Ellenhorn</h1>
+                        <div class="profile-title">
+                            <h2>
+                                                                                                                                                                                    <span class="nowrap">Treatment Facility</span>
+                                                            </h2>
+                        </div>
+                                    </div>
+                <div class="hidden-xs col-sm-6 col-md-5 col-lg-5 text-right">
+                                                                        <div class="profile-phone">
+                                <i class="icon icon-earphone icon-white profile-phone-icon"></i>
+                                <span itemprop="telephone"><a href="tel:6179367330"
+                                                              data-event-label="Profile_PhoneLink">(617) 936-7330</a></span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="hidden-xs col-sm-10 col-md-10 col-lg-10">
+            <div class="profile-menu hidden-xs">
+    <ul>
+        <li>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629&amp;p=1&amp;sid=1487101205.2343_17558&amp;city=Arlington&amp;state=MA&amp;rec_next=1"
+               class="active"               title="About">About</a>
+        </li>
+                    <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629&amp;p=2&amp;sid=1487101205.2343_17558&amp;city=Arlington&amp;state=MA&amp;rec_next=1"
+                                      title="Photos">Photos</a>
+            </li>
+                            </ul>
+            <div class="profile-verified">
+            <div class="verified-wrapper">
+                <div class="verified" data-target="#modalVerified" data-toggle="modal"
+                     data-event-label="Profile_Verified">
+                    <div class="verified-link">
+                        Verified by <span>Psychology Today</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        </div>
+        <div class="col-xs-8 hidden-sm hidden-md hidden-lg profile-buttons">
+                <a
+        href="tel:6179367330"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 936-7330</a>
+    <button
+        title="Send email to Ellenhorn"
+        class="btn btn-block "
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+        >Email Us</button>
+<button
+        title="Recommend Ellenhorn to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/share"
+        >Send to Friend</button>
+    <a href="https://out.psychologytoday.com/rms/profile/215629/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Ellenhorn">Website</a>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+            <div id="profile-content">
+                    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-7 col-lg-7">
+            <div class="hidden-sm hidden-md hidden-lg">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Ellenhorn<br>
+                                            <span itemprop='streetAddress'>
+                    406 Massachusetts Avenue
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Arlington</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02474</span><br>
+                    
+                    <br>Call Dr. Ross Ellenhorn<br>
+                            <a href='tel:6179367330'
+               data-event-label='Address1_PhoneLink'>(617) 936-7330</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Ellenhorn"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                    >Email Us
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.4134422"
+                    data-map-lon="-71.1502386"
+                    data-map-over-enable=""
+                    data-address-rank-1="406 Massachusetts Avenue, Arlington, Massachusetts, 02474">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington+Heights.html" class="textNoLink" title="Therapists in Arlington Heights, MA">Arlington Heights, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/IL/Chicago.html" class="textNoLink" title="Therapists in Chicago, IL">Chicago, IL</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/CA/Los+Angeles.html" class="textNoLink" title="Therapists in Los Angeles, CA">Los Angeles, CA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/NY/New+York.html" class="textNoLink" title="Therapists in New York, NY">New York, NY</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/PA/Philadelphia.html" class="textNoLink" title="Therapists in Philadelphia, PA">Philadelphia, PA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/DC/Washington.html" class="textNoLink" title="Therapists in Washington, DC">Washington, DC</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/IL/Cook.html" class="textNoLink"
+                               title="Therapists in Cook County, IL">Cook</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/DC/District+Of+Columbia.html" class="textNoLink"
+                               title="Therapists in District Of Columbia County, DC">District Of Columbia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/CA/Los+Angeles.html" class="textNoLink"
+                               title="Therapists in Los Angeles County, CA">Los Angeles</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/NY/New+York.html" class="textNoLink"
+                               title="Therapists in New York County, NY">New York</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/PA/Philadelphia.html" class="textNoLink"
+                               title="Therapists in Philadelphia County, PA">Philadelphia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02475.html" class="textNoLink"
+                               title="Therapists in 02475">02475</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10002.html" class="textNoLink"
+                               title="Therapists in 10002 (Bowery, Lower East Side, Two Bridges)">10002 (Bowery, Lower East Side, Two Bridges)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10016.html" class="textNoLink"
+                               title="Therapists in 10016 (Kips Bay, Murray Hill)">10016 (Kips Bay, Murray Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/19102.html" class="textNoLink"
+                               title="Therapists in 19102 (Chinatown)">19102 (Chinatown)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/20001.html" class="textNoLink"
+                               title="Therapists in 20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)">20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/60601.html" class="textNoLink"
+                               title="Therapists in 60601 (Near Eastside)">60601 (Near Eastside)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/90001.html" class="textNoLink"
+                               title="Therapists in 90001 (South Los Angeles)">90001 (South Los Angeles)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/215629/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Ellenhorn">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    New York PACT Program<br>
+                                            <span itemprop='streetAddress'>
+                    303 Fifth Avenue
+                </span><br>
+            
+                            Suite 1407<br>
+                    
+                    <span itemprop="addressLocality">New York</span>,
+            <span itemprop="addressRegion">New&nbsp;York</span>
+                            <span itemprop='postalcode'>10016</span><br>
+                    
+                            <a href='tel:6468688100'
+               data-event-label='Address2_PhoneLink'>(646) 868-8100</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="40.7464958"
+                    data-map-lon="-73.9854677"
+                    data-map-over-enable=""
+                    data-address-rank-2="303 Fifth Avenue, New York, New York, 10016">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <div class="profile-statement">
+                    <hr class="hidden-sm hidden-md hidden-lg">
+                    <div class="section profile-personalstatement">
+                        <h3>Our Program Model</h3>
+                <div class="statementPara">
+            Ellenhorn is the most comprehensive and integrative private community-based mental health program in the country. Geared to individuals 18 years and older, our approach combines robust psychiatric services with intensive psychosocial care, focusing equally on reducing the psychosocial damage caused by stigma, loss of social identity and institutionalization, as on treating psychiatric illness and co-occurring disorders. Using the best-practice &quot;gold standard&quot; community-based treatment model, Program for Assertive Community Treatment (PACT), our multidisciplinary teams of professionals - which include psychiatrists and a broad spectrum of other experts - provide rehabilitation and treatment resources to clients living, for the most part, in apartments in the community. A small number of clients receive services at our staff-supervised home called &quot;The Brackett House&quot;.
+        </div>
+    
+                        <h3>Our Beliefs</h3>
+                <div class="statementPara">
+            Our clients come with a wide range of psychiatric issues, but all have a common and serious complaint: the loss of their dreams. Their lives interrupted by their illness, they feel as if life itself has failed them, or that they have failed at life. Accordingly, the recovery of a sense of hope along with forward momentum in one&#039;s life, are central parts of our work with each client. Our job is to provide top-quality clinical care, with a focus on the psychosocial goals of regaining a sense of mastery and a return to the pursuit of life dreams.   We seek to re-empower our clients, helping them regain a sense of voice and control in their lives. This empowerment begins immediately, through their relationship with us. As our partner, each client helps set the course in his or her recovery.  We welcome the chance to talk with you about whether Ellenhorn can help. (800) 515-9972. Or email us at: info@ellenhorn.com
+        </div>
+    
+                        <h3>Rehabilitation &amp; Recovery</h3>
+                <div class="statementPara">
+            As a psychiatric and psychosocial program, we are as focused on ameliorating the ravages of stigma, loss of social role and institutionalization, as we are focused on treating psychiatric illnesses. Autonomy and mastery are coupled with symptom reduction as primary goals for clients. Focused on individual empowerment, we treat our clients as autonomous agents in their lives, and thus deserving of an individualized outlook. We empower our clients by appreciating their unique struggles and strengths. This individualized approach is the very counter-definition of institutional care. We do not provide care in bulk. We contour our care to the individual needs of our clients.  We often say at Ellenhorn that our clients come with a wide-range of psychiatric issues, but they all suffer from one serious complaint: losing their dreams. Their lives interrupted by their illness, they feel like life itself has failed them, or that they, themselves have failed at life. Accordingly, hope, the struggle over hope, and the means to recover a sense of hope are central parts of our work. It is our job to dream of possibilities with our clients, to seek out and find these opportunities, and, in the end, to help our clients achieve their greatest potential.
+        </div>
+    </div>                </div>
+                        <div class="profile-consultation">
+    Call or <a href='#' data-event-label='FreeConsult_EmailLink' data-toggle='modal' data-target='#modalContactForm' data-element-target='#profileContainer' data-action-url='https://therapists.psychologytoday.com/rms/profile/215629/contact' rel='nofollow'>Email</a> Ellenhorn for a <strong>free consultation</strong> now - <a href='tel:6179367330' data-event-label='FreeConsult_PhoneLink'><strong>(617) 936-7330</strong></a>
+</div>                            <div class="profile-qualifications">
+<h2>Qualifications</h2>
+<ul>
+            <li>
+            <strong>Years in Practice:</strong>
+            9 Years
+        </li>
+    
+                    <li>
+            <strong>License No. and State:</strong>
+            107298 Massachusetts
+        </li>
+                                </ul>
+</div>                                        <hr>
+                <div class="profile-finances">
+    <h2>Finances</h2>
+    <ul>
+                                                    <li>
+                <strong>Accepted Payment Methods: </strong>
+                                    ACH Bank transfer,                                     American Express,                                     Cash,                                     Check,                                     Discover,                                     Mastercard,                                     Visa,                                     Wire                            </li>
+            </ul>
+
+                                </div>                                            </div>
+        <div class="col-xs-12 col-sm-4 col-md-5 col-lg-5">
+            <div class="hidden-xs">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Ellenhorn<br>
+                                            <span itemprop='streetAddress'>
+                    406 Massachusetts Avenue
+                </span><br>
+            
+                    
+                    <span itemprop="addressLocality">Arlington</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02474</span><br>
+                    
+                    <br>Call Dr. Ross Ellenhorn<br>
+                            <a href='tel:6179367330'
+               data-event-label='Address1_PhoneLink'>(617) 936-7330</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Ellenhorn"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                    >Email Us
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.4134422"
+                    data-map-lon="-71.1502386"
+                    data-map-over-enable=""
+                    data-address-rank-1="406 Massachusetts Avenue, Arlington, Massachusetts, 02474">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington+Heights.html" class="textNoLink" title="Therapists in Arlington Heights, MA">Arlington Heights, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/IL/Chicago.html" class="textNoLink" title="Therapists in Chicago, IL">Chicago, IL</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/CA/Los+Angeles.html" class="textNoLink" title="Therapists in Los Angeles, CA">Los Angeles, CA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/NY/New+York.html" class="textNoLink" title="Therapists in New York, NY">New York, NY</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/PA/Philadelphia.html" class="textNoLink" title="Therapists in Philadelphia, PA">Philadelphia, PA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/DC/Washington.html" class="textNoLink" title="Therapists in Washington, DC">Washington, DC</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/IL/Cook.html" class="textNoLink"
+                               title="Therapists in Cook County, IL">Cook</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/DC/District+Of+Columbia.html" class="textNoLink"
+                               title="Therapists in District Of Columbia County, DC">District Of Columbia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/CA/Los+Angeles.html" class="textNoLink"
+                               title="Therapists in Los Angeles County, CA">Los Angeles</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/NY/New+York.html" class="textNoLink"
+                               title="Therapists in New York County, NY">New York</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/PA/Philadelphia.html" class="textNoLink"
+                               title="Therapists in Philadelphia County, PA">Philadelphia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02475.html" class="textNoLink"
+                               title="Therapists in 02475">02475</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10002.html" class="textNoLink"
+                               title="Therapists in 10002 (Bowery, Lower East Side, Two Bridges)">10002 (Bowery, Lower East Side, Two Bridges)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10016.html" class="textNoLink"
+                               title="Therapists in 10016 (Kips Bay, Murray Hill)">10016 (Kips Bay, Murray Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/19102.html" class="textNoLink"
+                               title="Therapists in 19102 (Chinatown)">19102 (Chinatown)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/20001.html" class="textNoLink"
+                               title="Therapists in 20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)">20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/60601.html" class="textNoLink"
+                               title="Therapists in 60601 (Near Eastside)">60601 (Near Eastside)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/90001.html" class="textNoLink"
+                               title="Therapists in 90001 (South Los Angeles)">90001 (South Los Angeles)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/215629/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Ellenhorn">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    New York PACT Program<br>
+                                            <span itemprop='streetAddress'>
+                    303 Fifth Avenue
+                </span><br>
+            
+                            Suite 1407<br>
+                    
+                    <span itemprop="addressLocality">New York</span>,
+            <span itemprop="addressRegion">New&nbsp;York</span>
+                            <span itemprop='postalcode'>10016</span><br>
+                    
+                            <a href='tel:6468688100'
+               data-event-label='Address2_PhoneLink'>(646) 868-8100</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="40.7464958"
+                    data-map-lon="-73.9854677"
+                    data-map-over-enable=""
+                    data-address-rank-2="303 Fifth Avenue, New York, New York, 10016">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <hr>
+<div class="spec-list">
+            <h2>Specialties</h2>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="specialties-list">
+                                            <li class='highlight'>Psychosis</li>
+                                            <li class='highlight'>Dual Diagnosis</li>
+                                            <li class='highlight'>Mood Disorders</li>
+                                    </ul>
+            </div>
+        </div>
+    
+                        
+                                
+                                                <h3 class="spec-subcat">Issues</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Alcohol Abuse</li>
+                                                                        
+                                                        <li>Anxiety</li>
+                                                                        
+                                                        <li>Behavioral Issues</li>
+                                                                        
+                                                        <li>Bipolar Disorder</li>
+                                                                        
+                                                        <li>Borderline Personality</li>
+                                                                        
+                                                        <li>Career Counseling</li>
+                                                                        
+                                                        <li>Depression</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Eating Disorders</li>
+                                                                        
+                                                        <li>Family Conflict</li>
+                                                                        
+                                                        <li>Obsessive-Compulsive (OCD)</li>
+                                                                        
+                                                        <li>Peer Relationships</li>
+                                                                        
+                                                        <li>Relationship Issues</li>
+                                                                        
+                                                        <li>Substance Abuse</li>
+                                                                        
+                                                        <li>Suicidal Ideation</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Mental Health</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Personality Disorders</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Thinking Disorders</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Client Focus</h2>
+                        
+                                                <h3 class="spec-subcat">Age</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Adults</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>            
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Programs and Services</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Programs</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Adult Residential</li>
+                                                                        
+                                                        <li>Dual Diagnosis</li>
+                                                                        
+                                                        <li>Psychiatric Residential</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="427" 
+>Small Residential Programs</span></li>
+                                                                        
+                                                        <li>Transitional Independent Living Programs</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Out / Inpatient</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Intensive Outpatient Program</li>
+                                                                        
+                                                        <li>Long Term (>30 Days) Residential</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                    <h2>Treatment Approach</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Orientation</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li><span data-ui-type="glossary" data-glossary-id="580" 
+>Attachment-based</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="18" 
+>Coaching</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="50" 
+>Cognitive Behavioral (CBT)</span></li>
+                                                                        
+                                                        <li>Community Integrated Treatment</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="513" 
+>Dialectical (DBT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="51" 
+>Eclectic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="76" 
+>Emotionally Focused</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="81" 
+>Existential</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="583" 
+>Expressive Arts</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="82" 
+>Family Systems</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="585" 
+>Integrative</span></li>
+                                                                        
+                                                        <li>Intensive Case Management</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="74" 
+>Interpersonal</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="97" 
+>Mindfulness-based (MBCT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="575" 
+>Motivational Interviewing</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="574" 
+>Narrative</span></li>
+                                                                        
+                                                        <li>Open Dialogue--contact us for details</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="23" 
+>Psychodynamic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="98" 
+>Relational</span></li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Modality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Individuals</li>
+                                                                        
+                                                        <li>Family</li>
+                                                                        
+                                                        <li>Group</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                    <div class='hidden-sm hidden-md hidden-lg'>
+                <hr>
+                <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington.html" class="textNoLink" title="Therapists in Arlington, MA">Arlington, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Arlington+Heights.html" class="textNoLink" title="Therapists in Arlington Heights, MA">Arlington Heights, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/IL/Chicago.html" class="textNoLink" title="Therapists in Chicago, IL">Chicago, IL</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/CA/Los+Angeles.html" class="textNoLink" title="Therapists in Los Angeles, CA">Los Angeles, CA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/NY/New+York.html" class="textNoLink" title="Therapists in New York, NY">New York, NY</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/PA/Philadelphia.html" class="textNoLink" title="Therapists in Philadelphia, PA">Philadelphia, PA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/DC/Washington.html" class="textNoLink" title="Therapists in Washington, DC">Washington, DC</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/IL/Cook.html" class="textNoLink"
+                               title="Therapists in Cook County, IL">Cook</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/DC/District+Of+Columbia.html" class="textNoLink"
+                               title="Therapists in District Of Columbia County, DC">District Of Columbia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/CA/Los+Angeles.html" class="textNoLink"
+                               title="Therapists in Los Angeles County, CA">Los Angeles</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/NY/New+York.html" class="textNoLink"
+                               title="Therapists in New York County, NY">New York</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/PA/Philadelphia.html" class="textNoLink"
+                               title="Therapists in Philadelphia County, PA">Philadelphia</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02108.html" class="textNoLink"
+                               title="Therapists in 02108 (Beacon Hill)">02108 (Beacon Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02474.html" class="textNoLink"
+                               title="Therapists in 02474">02474</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02475.html" class="textNoLink"
+                               title="Therapists in 02475">02475</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10002.html" class="textNoLink"
+                               title="Therapists in 10002 (Bowery, Lower East Side, Two Bridges)">10002 (Bowery, Lower East Side, Two Bridges)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/10016.html" class="textNoLink"
+                               title="Therapists in 10016 (Kips Bay, Murray Hill)">10016 (Kips Bay, Murray Hill)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/19102.html" class="textNoLink"
+                               title="Therapists in 19102 (Chinatown)">19102 (Chinatown)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/20001.html" class="textNoLink"
+                               title="Therapists in 20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)">20001 (Chinatown, Le Droit Park, Logan Circle, Mount Vernon Square, Penn Quarter, Shaw)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/60601.html" class="textNoLink"
+                               title="Therapists in 60601 (Near Eastside)">60601 (Near Eastside)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/90001.html" class="textNoLink"
+                               title="Therapists in 90001 (South Los Angeles)">90001 (South Los Angeles)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="profile-bottom">
+        <div class="section profile-change_block">
+            <div class="last-modified">Last Modified: 04 Jan 2017</div>
+        </div>
+    </div>
+            <div class="modal" id="modalVerified" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <span class="title">Ellenhorn has been Verified by Psychology Today</span>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="profile-verified_content">
+                <p>The information in Psychology Today is provided exclusively by participating therapists. When you see this seal, it means Psychology Today has verified the following:</p>
+                <div>
+                    <ul class="profile-list">
+                                                    <li>The name and contact details of the professional
+                            </li>
+                                                    <li>That the professional's license, if applicable, is valid within the state in which he or she practices
+                            </li>
+                                                    <li>That the professional is not subject to any license strictures preventing practice
+                            </li>
+                                            </ul>
+                </div>
+                
+                <p>Psychology Today verifies the information at the time a therapist is initially listed in the directory and then upon expiration of the professional's credentials.</p>
+<p>If you find any of the information in Psychology Today directory to be inaccurate in any way, please tell us by emailing: therapist@psychologytoday.com</p>
+                <div class="verified-disclaimer">
+                    <p>You assume full responsibility for the communications with
+    any therapist you contact through Psychology Today directory. Psychology Today shall in no event be
+    liable to you or to anyone for any decision made or action taken by you in the reliance on
+    information provided in Psychology Today.
+</p>
+<p>
+    Psychology Today directory is not intended as a tool for verifying the credentials,
+    qualifications, or abilities of any therapists it lists. Inclusion in
+    Psychology Today does not imply recommendation or endorsement nor does omission from
+    Psychology Today imply Psychology Today disapproval. Psychology Today does not warrant or represent that
+    Psychology Today directory or any part thereof is accurate or complete. Psychology Today disclaims all warranties,
+    either express or implied, including but not limited to the implied warranties of merchantability
+    and fitness for particular purpose.
+</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+                <div class="modal" id="modalMap" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Ellenhorn
+            <div class="modal-subtitle">
+                            <span class="nowrap">Treatment Facility</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div id="map-canvas" class="modal-map"></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div id="map-addresses"></div>
+       </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div id="contactBar" class="fixed-header"
+     itemscope itemtype="http://schema.org/Organization"
+     data-profid="215629"
+     data-prof-name="Ellenhorn"
+     data-phone="(617) 936-7330"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629"
+     data-profile-image="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/29/56/215629-816130-2_120x150.jpg?pu=1483542668"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=215629"
+     data-new-clients="1"
+     data-use-company-name="1">
+    <div class="pageInner hideContactBar">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div id="contactBarPhoto" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="contact-photo">
+                                <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/29/56/215629-816130-2_120x150.jpg?pu=1483542668" itemprop="image"
+                                     alt="Ellenhorn, Treatment Facility in Arlington">
+                            </div>
+                                                                            <div class="contact-info" >
+                                                    <h1 itemprop="name" class="contact-name">
+                                Ellenhorn</h1>
+
+                            <div class="profile-title contact-title">
+                                <h2>
+                                                                                                                                                                                                        <span class="nowrap">Treatment Facility</span>
+                                                                    </h2>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+ 
+                    <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs"> 
+                    <div class="contact-button"> 
+                                                    <div class="contact-phone">
+                                <a href="tel:6179367330"
+                                   class="tr-contactbar-phone" data-event-label="ContactBarLg_PhoneLink">
+                                    <i class="icon icon-earphone icon-white contactbar-phone-icon"></i> (617) 936-7330</a>
+                            </div>
+                                                                            or
+                                                                            <div class="contact-email">
+                                <a href="#"
+                                   rel="nofollow"
+                                   title="Send email to Ellenhorn"
+                                   data-event-label="ContactBarLg_EmailLink"
+                                   data-toggle="modal"
+                                   data-target="#modalContactForm"
+                                   data-element-target="#contactBar"
+                                   data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                                   >Email</a>
+                            </div>
+                                                </div>
+                    </div>
+                </div>
+
+                </div>
+
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="contact-button-xs">
+                                                                                                                        <div class="col-xs-6 col-tight-right">
+                                                                                                <div class="contact-email-xs">
+                                        <a href="#"
+                                           rel="nofollow"
+                                           title="Send email to Ellenhorn"
+                                           class="btn btn-block "
+                                           data-event-label="ContactBarXs_EmailLink"
+                                           data-toggle="modal"
+                                           data-target="#modalContactForm"
+                                           data-element-target="#contactBar"
+                                           data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                                           >Email Us</a>
+                                    </div>
+                                                                                            </div>
+                            <div class="col-xs-6 col-tight-left">
+                                                                                                    <div class="contact-phone-xs">
+                                        <a href="tel:6179367330"
+                                           data-event-label="ContactBarXs_PhoneLink"
+                                           class="btn btn-block btn-orange tr-contactbar-phone">
+                                            (617) 936-7330</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#contactBar').detach().appendTo('#headerShadow');
+            setContactBarPosition();
+            $('#contactBar').show();
+            contactBar();
+
+            window.addEventListener('scroll', function () {
+                contactBar();
+            });
+
+            $(window).on('resize', function () {
+                setContactBarPosition();
+                contactBar();
+            });
+
+        });
+        function contactBar() {
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+               var height = $('#profHdr').height() + 115;
+                if (window.pageYOffset > height) {
+                        showContactBar();
+                    } else if (window.pageYOffset <= height) {
+                        hideContactBar();
+                    }
+            } else {
+                var height = $('#profHdr').height() + 40;
+                if (window.pageYOffset > height) {
+                    showContactBar();
+                } else if (window.pageYOffset <= height) {
+                    hideContactBar();
+                }
+            }
+        }
+        function setContactBarPosition() {
+            var offset = $('#contactBar').outerHeight() - $('#headerShadow').outerHeight();
+            $('#contactBar').css({
+                "top": '-' + offset + 'px'
+            });
+        }
+        function showContactBar() {
+            var offset = $('#contactBar').outerHeight();
+            $('#headerShadow').css({
+                "top": offset + 'px'
+            });
+        }
+        function hideContactBar() {
+            $('#headerShadow').css({
+                "top": '0px'
+            });
+        }
+    </script>
+            <div class="modal" id="modalPhotoContact" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Ellenhorn
+            <div class="modal-subtitle">
+                            <span class="nowrap">Treatment Facility</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="col-xs-12">
+            <div class="modal-contact-photo">
+                <img src="https://cdn0.sussexdirectories.com/rms/rms_photos/sized/29/56/215629-816130-2_320x400.jpg?pu=1483542668" itemprop="image"
+                     alt="Ellenhorn, Treatment Facility in Arlington">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="hidden-sm hidden-md hidden-lg modal-photo-contact-info">
+
+            
+                            <div class="col-xs-6 col-tight-right">
+                    <div class="modal-contact-email">
+                        <button title="Send email to Ellenhorn"
+                                class="btn btn-block "
+                                data-event-label="PhotoModal_EmailLink"
+                                data-toggle="modal"
+                                data-target="#modalContactForm"
+                                data-element-target="#profileContainer"
+                                data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                                >Email Us</button>
+                    </div>
+                </div>
+                                        <div class=" col-xs-6 col-tight-left">
+                    <div class="modal-contact-phone">
+                        <a href="tel:6179367330"
+                           class="btn btn-block btn-orange"
+                           data-event-label="PhotoModal_PhoneLink">
+                            (617) 936-7330</a>
+                    </div>
+                </div>
+                    </div>
+        <div class="hidden-xs">
+            <div class="modal-photo-contact-info">
+                                    <div class="contact-phone">
+                        <a href="tel:6179367330"
+                           class="tr-photoModal-phone" data-event-label="PhotoModalLg_PhoneLink">
+                            <i class="icon icon-earphone icon-white modal-photo-phone"></i> (617) 936-7330
+                        </a>
+                    </div>
+                                 or 
+                                    <div class="contact-email">
+                        <a href="#"
+                           data-event-label="PhotoModalLg_EmailLink"
+                           data-toggle="modal"
+                           data-target="#modalContactForm"
+                           data-element-target="#profileContainer"
+                           data-action-url="https://therapists.psychologytoday.com/rms/profile/215629/contact"
+                           >Email</a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div class="modal floating-label-form-container contact-modal" id="modalShareForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">    <h1>Share <span></span>'s Profile</h1>
+</div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-md-12">
+            <form id="profile-share" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="shareFormName" class="control-label">Your Name</label>
+                    <input type="text" class="form-control" id="shareFormName" name="your-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormEmail" class="control-label">Your Email</label>
+                    <input type="text" class="form-control" id="shareFormEmail" name="your-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendName" class="control-label">Friend&#039;s Name</label>
+                    <input type="text" class="form-control" id="shareFormFriendName" name="friend-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendEmail" class="control-label">Friend&#039;s Email</label>
+                    <input type="text" class="form-control" id="shareFormFriendEmail" name="friend-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormBody" class="control-label"
+                           data-floating-label="Message (80 words max)">
+                        Message</label>
+                    <textarea class="form-control" id="shareFormBody" name="message"></textarea>
+                </div>
+                <div id="profile-share-captcha" class="form-group form-captcha"></div>
+                <button type="submit"
+                        class="btn btn-orange btn-large btn-block submit-hide">Send Email
+                </button>
+            </form>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalContactForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1 class="result-xs">Email <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="emailFormName">Your Name</label>
+                    <input type="text" class="form-control" id="emailFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="emailFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="emailFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="emailFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="emailFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactemail_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Don't be shy. Our therapists are here to help you and are pleased to hear from you.</p>
+
+<p>Feel free to ask for what you want... an appointment, a consultation or simply a response to a question. Keep it short, 200
+words or less, this is just an initial contact.</p>
+
+<p>Remember to double check your return email address or your phone number if you prefer to be called.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.<p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalVideoRequestForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1>Request a Video Call with <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact-video" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="videoFormName">Your Name</label>
+                    <input type="text" class="form-control" id="videoFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="videoFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="videoFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="videoFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="videoFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-video-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactvideo_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Send this email to request a video session with this therapist.</p>
+
+<p>The therapist may first call or email you back to schedule a time and provide details about how to connect.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.</p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+</div>
+<script type="text/javascript"
+        src="//maps.googleapis.com/maps/api/js?key=AIzaSyD0vXldAbHFWHvHbWzKT_W0CIyI35PACSI&amp;sensor=false"></script>
+<script type="text/javascript">
+    dataLayer.push({'defaultEventCategory': 'ProfilePage'});
+
+    $('#modalMap').on('shown.bs.modal', function (e) {
+        initializeMap(e);
+    });
+
+    function initializeMap(e) {
+        var count = 0;
+        var markers = [];
+        var markerABC = 'A';
+        var coords;
+        var geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(44.8819, -93.2217);
+        var mapOptions = {
+            center: latlng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+
+        var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+        $('#map-addresses').html('');
+        var addrs = [
+            $('[data-target="#modalMap"]', $('.address-rank-1:first')),
+            $('[data-target="#modalMap"]', $('.address-rank-2:first'))
+        ];
+
+        $(addrs).each(function () {
+            var lat = $(this).attr('data-map-lat');
+            var lon = $(this).attr('data-map-lon');
+
+            over_enable = parseInt($(this).attr('data-map-over-enable'));
+            address = $(this).attr('data-' + $(this).attr('data-map-address'));
+            var markerABC = 'A';
+
+            var addrHtml = $(this).parents('.address').clone().appendTo('#map-addresses');
+            $('.address-buttons', addrHtml).remove();
+
+            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+
+            if (over_enable) {
+                coords = new google.maps.LatLng(lat, lon);
+                map.setCenter(coords);
+                marker = new google.maps.Marker({
+                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                    position: coords,
+                    animation: google.maps.Animation.DROP,
+                    map: map
+                });
+
+                markers.push(marker);
+                setMap(markers, map);
+            } else {
+                codeAddress(address, function (coords) {
+                    map.setCenter(coords);
+                    marker = new google.maps.Marker({
+                        icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                        position: coords,
+                        animation: google.maps.Animation.DROP,
+                        map: map
+                    });
+
+                    markers.push(marker);
+                    setMap(markers, map);
+                });
+            }
+            count++;
+        });
+    }
+
+    function codeAddress(address, callback) {
+        var geocoder = new google.maps.Geocoder();
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    callback(results[0].geometry.location);
+                }
+            });
+        }
+    }
+
+    function setMap(markers, map) {
+        zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function (event) {
+
+            if (this.getZoom() > 9) {
+                if (markers.length == 1) {
+                    // Change max/min zoom here
+                    this.setZoom(15);
+                }
+            }
+            google.maps.event.removeListener(zoomChangeBoundsListener);
+        });
+
+        var bounds = new google.maps.LatLngBounds();
+        $.each(markers, function (index, marker) {
+            marker.setMap(map);
+            bounds.extend(marker.getPosition());
+        });
+        map.fitBounds(bounds);
+    }
+
+    var isForbiddenHost = "";
+    var noEmailMessage = "<h1>Sorry!</h1> <p>[NAME] would like to hear from you but prefers to be contacted by phone. [PHONE_TEXT]";
+    var notAcceptingNewClientMessage = "[NAME] is not currently accepting new clients.";
+    var personMessageLabel = "Message";
+    var personMessageFloatingLabel = "How can I help you? (200 words max)";
+    var companyMessageLabel = "Message";
+    var companyMessageFloatingLabel = "How can we help you? (200 words max)";
+    var ajaxErrorMessage = 'There was a problem sending your email. Please try again later.';
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchas&render=explicit" async defer></script>
+&nbsp;
+<!-- detail END: Search Only: 0.082 Sec., Total: 0.170 Sec. -->
+<br>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/modal/modal.js'></script>
+<div id='searchModal' class='modal search-modal' data-directory-url='https://therapists.psychologytoday.com/rms/prof_results.php'><div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-body scrollable">
+                    <div id='autosuggestContainer' class='autosuggest-container'
+         data-placeholder="City, Zip or Name"
+         data-endpoint="https://therapists.psychologytoday.com/rms/search/suggest">
+        <div class='autosuggest-header'>
+            <div class='autosuggest-input'>
+                <i class='icon icon-chevron-left hidden-sm hidden-md hidden-lg' data-dismiss='modal'></i>
+                <input type="text" id='autosuggestSearchInput' class="search-autosuggest"
+                       data-label='Search_SearchField'
+                       autosuggest='off' autocorrect='off' autocapitalize='off' tabindex=0>
+                <input type="hidden" id='autosuggestHiddenInput'>
+                <button id='autosuggestSearchButton' class="btn btn-blue btn-search"
+                        title="Search for Therapists near you.">
+                    <i class="icon icon-search icon-white"></i>
+                </button>
+            </div>
+            <div class='autosuggest-message'></div>
+        </div>
+
+        <div id='searchSuggestions' class='autosuggest-sections'>
+            <div id='locationSuggestions' class='autosuggest-section' data-section='locations'></div>
+            <div id='nameSuggestions' class='autosuggest-section' data-section='names'></div>
+        </div>
+    </div>
+
+    <script src='https://resources.psychologytoday.com/v3.26.2/js/search/autosuggest.js' charset='UTF-8'></script>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+</div></div>
+<footer id="pageFooter" class="outerWrapper">
+    <div class="pageInner"><section id='metaSearches' class='hidden-xs collapsible'>
+    <h3>Searches containing Ellenhorn</h3>
+    <div class='row collapsible-content'>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=214&amp;topid=215629' title='Adult Residential Treatment Centers in Arlington, MA'>Adult Residential Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=327&amp;topid=215629' title='Adults Treatment Centers in Arlington, MA'>Adults Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=248&amp;topid=215629' title='Alcohol Abuse Treatment Centers in Arlington, MA'>Alcohol Abuse Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=9&amp;topid=215629' title='Anorexia Treatment Centers in Arlington, MA'>Anorexia Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=3&amp;topid=215629' title='Anxiety Treatment Centers in Arlington, MA'>Anxiety Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=496&amp;topid=215629' title='Attachment-based Treatment Centers in Arlington, MA'>Attachment-based Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=196&amp;topid=215629' title='BPD Treatment Centers in Arlington, MA'>BPD Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=195&amp;topid=215629' title='Behavioral Issues Treatment Centers in Arlington, MA'>Behavioral Issues Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=168&amp;topid=215629' title='Bipolar Disorder Treatment Centers in Arlington, MA'>Bipolar Disorder Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=196&amp;topid=215629' title='Borderline Personality Treatment Centers in Arlington, MA'>Borderline Personality Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=9&amp;topid=215629' title='Bulimia Treatment Centers in Arlington, MA'>Bulimia Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=183&amp;topid=215629' title='Career Counseling Treatment Centers in Arlington, MA'>Career Counseling Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=221&amp;topid=215629' title='Co-Occurring Disorders Treatment Centers in Arlington, MA'>Co-Occurring Disorders Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=294&amp;topid=215629' title='Coaching Treatment Centers in Arlington, MA'>Coaching Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=293&amp;topid=215629' title='Cognitive Behavioral (CBT) Treatment Centers in Arlington, MA'>Cognitive Behavioral (CBT) Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=2&amp;topid=215629' title='Depression Treatment Centers in Arlington, MA'>Depression Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=488&amp;topid=215629' title='Dialectical (DBT) Treatment Centers in Arlington, MA'>Dialectical (DBT) Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=221&amp;topid=215629' title='Dual Diagnosis Treatment Centers in Arlington, MA'>Dual Diagnosis Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=9&amp;topid=215629' title='Eating Disorders Treatment Centers in Arlington, MA'>Eating Disorders Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=295&amp;topid=215629' title='Eclectic Treatment Centers in Arlington, MA'>Eclectic Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=491&amp;topid=215629' title='Emotionally Focused Treatment Centers in Arlington, MA'>Emotionally Focused Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=310&amp;topid=215629' title='Existential Treatment Centers in Arlington, MA'>Existential Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=499&amp;topid=215629' title='Expressive Arts Treatment Centers in Arlington, MA'>Expressive Arts Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=200&amp;topid=215629' title='Family Conflict Treatment Centers in Arlington, MA'>Family Conflict Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=311&amp;topid=215629' title='Family Systems Treatment Centers in Arlington, MA'>Family Systems Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=288&amp;topid=215629' title='Family Treatment Centers in Arlington, MA'>Family Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=3&amp;topid=215629' title='Fears Treatment Centers in Arlington, MA'>Fears Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=289&amp;topid=215629' title='Group Treatment Centers in Arlington, MA'>Group Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=15&amp;topid=215629' title='Hair Pulling Treatment Centers in Arlington, MA'>Hair Pulling Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=223&amp;topid=215629' title='IOP Treatment Centers in Arlington, MA'>IOP Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=286&amp;topid=215629' title='Individuals Treatment Centers in Arlington, MA'>Individuals Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=498&amp;topid=215629' title='Integrative Treatment Centers in Arlington, MA'>Integrative Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=223&amp;topid=215629' title='Intensive Outpatient Program Treatment Centers in Arlington, MA'>Intensive Outpatient Program Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=306&amp;topid=215629' title='Interpersonal Treatment Centers in Arlington, MA'>Interpersonal Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=211&amp;topid=215629' title='Long Term (&gt;30 Days) Residential Treatment Centers in Arlington, MA'>Long Term (&gt;30 Days) Residential Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=168&amp;topid=215629' title='Manic Depression Treatment Centers in Arlington, MA'>Manic Depression Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=307&amp;topid=215629' title='Mindfulness-based (MBCT) Treatment Centers in Arlington, MA'>Mindfulness-based (MBCT) Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=201&amp;topid=215629' title='Mood Disorders Treatment Centers in Arlington, MA'>Mood Disorders Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=492&amp;topid=215629' title='Motivational Interviewing Treatment Centers in Arlington, MA'>Motivational Interviewing Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=22&amp;topid=215629' title='Narcissistic Treatment Centers in Arlington, MA'>Narcissistic Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=490&amp;topid=215629' title='Narrative Treatment Centers in Arlington, MA'>Narrative Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=15&amp;topid=215629' title='Obsessive-Compulsive (OCD) Treatment Centers in Arlington, MA'>Obsessive-Compulsive (OCD) Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=22&amp;topid=215629' title='Paranoid Treatment Centers in Arlington, MA'>Paranoid Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=228&amp;topid=215629' title='Peer Relationships Treatment Centers in Arlington, MA'>Peer Relationships Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=22&amp;topid=215629' title='Personality Disorders Treatment Centers in Arlington, MA'>Personality Disorders Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=3&amp;topid=215629' title='Phobia Treatment Centers in Arlington, MA'>Phobia Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=201&amp;topid=215629' title='Post-Partum Treatment Centers in Arlington, MA'>Post-Partum Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=230&amp;topid=215629' title='Psychiatric Residential Treatment Centers in Arlington, MA'>Psychiatric Residential Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=299&amp;topid=215629' title='Psychodynamic Treatment Centers in Arlington, MA'>Psychodynamic Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=23&amp;topid=215629' title='Psychosis Treatment Centers in Arlington, MA'>Psychosis Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=308&amp;topid=215629' title='Relational Treatment Centers in Arlington, MA'>Relational Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=1&amp;topid=215629' title='Relationship Issues Treatment Centers in Arlington, MA'>Relationship Issues Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=23&amp;topid=215629' title='Schizophrenia Treatment Centers in Arlington, MA'>Schizophrenia Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=201&amp;topid=215629' title='Seasonal Affective Treatment Centers in Arlington, MA'>Seasonal Affective Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=15&amp;topid=215629' title='Skin Picking Treatment Centers in Arlington, MA'>Skin Picking Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=235&amp;topid=215629' title='Small Residential Programs Treatment Centers in Arlington, MA'>Small Residential Programs Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=182&amp;topid=215629' title='Substance Abuse Treatment Centers in Arlington, MA'>Substance Abuse Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=205&amp;topid=215629' title='Suicidal Ideation Treatment Centers in Arlington, MA'>Suicidal Ideation Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=24&amp;topid=215629' title='Thinking Disorders Treatment Centers in Arlington, MA'>Thinking Disorders Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=243&amp;topid=215629' title='Transitional Independent Living Programs Treatment Centers in Arlington, MA'>Transitional Independent Living Programs Treatment Centers in Arlington, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Arlington&amp;state=MA&amp;spec=15&amp;topid=215629' title='Trichotillomania (TTM) Treatment Centers in Arlington, MA'>Trichotillomania (TTM) Treatment Centers in Arlington, MA</a></li>
+                                            </ul>
+        </div>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=214&amp;topid=215629' title='Adult Residential Treatment Centers in 02474'>Adult Residential Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=327&amp;topid=215629' title='Adults Treatment Centers in 02474'>Adults Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=248&amp;topid=215629' title='Alcohol Abuse Treatment Centers in 02474'>Alcohol Abuse Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=9&amp;topid=215629' title='Anorexia Treatment Centers in 02474'>Anorexia Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=3&amp;topid=215629' title='Anxiety Treatment Centers in 02474'>Anxiety Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=496&amp;topid=215629' title='Attachment-based Treatment Centers in 02474'>Attachment-based Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=196&amp;topid=215629' title='BPD Treatment Centers in 02474'>BPD Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=195&amp;topid=215629' title='Behavioral Issues Treatment Centers in 02474'>Behavioral Issues Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=168&amp;topid=215629' title='Bipolar Disorder Treatment Centers in 02474'>Bipolar Disorder Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=196&amp;topid=215629' title='Borderline Personality Treatment Centers in 02474'>Borderline Personality Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=9&amp;topid=215629' title='Bulimia Treatment Centers in 02474'>Bulimia Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=183&amp;topid=215629' title='Career Counseling Treatment Centers in 02474'>Career Counseling Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=221&amp;topid=215629' title='Co-Occurring Disorders Treatment Centers in 02474'>Co-Occurring Disorders Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=294&amp;topid=215629' title='Coaching Treatment Centers in 02474'>Coaching Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=293&amp;topid=215629' title='Cognitive Behavioral (CBT) Treatment Centers in 02474'>Cognitive Behavioral (CBT) Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=2&amp;topid=215629' title='Depression Treatment Centers in 02474'>Depression Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=488&amp;topid=215629' title='Dialectical (DBT) Treatment Centers in 02474'>Dialectical (DBT) Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=221&amp;topid=215629' title='Dual Diagnosis Treatment Centers in 02474'>Dual Diagnosis Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=9&amp;topid=215629' title='Eating Disorders Treatment Centers in 02474'>Eating Disorders Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=295&amp;topid=215629' title='Eclectic Treatment Centers in 02474'>Eclectic Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=491&amp;topid=215629' title='Emotionally Focused Treatment Centers in 02474'>Emotionally Focused Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=310&amp;topid=215629' title='Existential Treatment Centers in 02474'>Existential Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=499&amp;topid=215629' title='Expressive Arts Treatment Centers in 02474'>Expressive Arts Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=200&amp;topid=215629' title='Family Conflict Treatment Centers in 02474'>Family Conflict Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=311&amp;topid=215629' title='Family Systems Treatment Centers in 02474'>Family Systems Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=288&amp;topid=215629' title='Family Treatment Centers in 02474'>Family Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=3&amp;topid=215629' title='Fears Treatment Centers in 02474'>Fears Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=289&amp;topid=215629' title='Group Treatment Centers in 02474'>Group Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=15&amp;topid=215629' title='Hair Pulling Treatment Centers in 02474'>Hair Pulling Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=223&amp;topid=215629' title='IOP Treatment Centers in 02474'>IOP Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=286&amp;topid=215629' title='Individuals Treatment Centers in 02474'>Individuals Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=498&amp;topid=215629' title='Integrative Treatment Centers in 02474'>Integrative Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=223&amp;topid=215629' title='Intensive Outpatient Program Treatment Centers in 02474'>Intensive Outpatient Program Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=306&amp;topid=215629' title='Interpersonal Treatment Centers in 02474'>Interpersonal Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=211&amp;topid=215629' title='Long Term (&gt;30 Days) Residential Treatment Centers in 02474'>Long Term (&gt;30 Days) Residential Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=168&amp;topid=215629' title='Manic Depression Treatment Centers in 02474'>Manic Depression Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=307&amp;topid=215629' title='Mindfulness-based (MBCT) Treatment Centers in 02474'>Mindfulness-based (MBCT) Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=201&amp;topid=215629' title='Mood Disorders Treatment Centers in 02474'>Mood Disorders Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=492&amp;topid=215629' title='Motivational Interviewing Treatment Centers in 02474'>Motivational Interviewing Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=22&amp;topid=215629' title='Narcissistic Treatment Centers in 02474'>Narcissistic Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=490&amp;topid=215629' title='Narrative Treatment Centers in 02474'>Narrative Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=15&amp;topid=215629' title='Obsessive-Compulsive (OCD) Treatment Centers in 02474'>Obsessive-Compulsive (OCD) Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=22&amp;topid=215629' title='Paranoid Treatment Centers in 02474'>Paranoid Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=228&amp;topid=215629' title='Peer Relationships Treatment Centers in 02474'>Peer Relationships Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=22&amp;topid=215629' title='Personality Disorders Treatment Centers in 02474'>Personality Disorders Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=3&amp;topid=215629' title='Phobia Treatment Centers in 02474'>Phobia Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=201&amp;topid=215629' title='Post-Partum Treatment Centers in 02474'>Post-Partum Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=230&amp;topid=215629' title='Psychiatric Residential Treatment Centers in 02474'>Psychiatric Residential Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=299&amp;topid=215629' title='Psychodynamic Treatment Centers in 02474'>Psychodynamic Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=23&amp;topid=215629' title='Psychosis Treatment Centers in 02474'>Psychosis Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=308&amp;topid=215629' title='Relational Treatment Centers in 02474'>Relational Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=1&amp;topid=215629' title='Relationship Issues Treatment Centers in 02474'>Relationship Issues Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=23&amp;topid=215629' title='Schizophrenia Treatment Centers in 02474'>Schizophrenia Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=201&amp;topid=215629' title='Seasonal Affective Treatment Centers in 02474'>Seasonal Affective Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=15&amp;topid=215629' title='Skin Picking Treatment Centers in 02474'>Skin Picking Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=235&amp;topid=215629' title='Small Residential Programs Treatment Centers in 02474'>Small Residential Programs Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=182&amp;topid=215629' title='Substance Abuse Treatment Centers in 02474'>Substance Abuse Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=205&amp;topid=215629' title='Suicidal Ideation Treatment Centers in 02474'>Suicidal Ideation Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=24&amp;topid=215629' title='Thinking Disorders Treatment Centers in 02474'>Thinking Disorders Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=243&amp;topid=215629' title='Transitional Independent Living Programs Treatment Centers in 02474'>Transitional Independent Living Programs Treatment Centers in 02474</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02474&amp;spec=15&amp;topid=215629' title='Trichotillomania (TTM) Treatment Centers in 02474'>Trichotillomania (TTM) Treatment Centers in 02474</a></li>
+                            </ul>
+        </div>
+    </div>
+</section><div class="row">		<div class="promo-ribbon hidden-xs col-sm-12 hidden-md hidden-lg">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div>	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footerActions">
+		<div class="hidden-sm hidden-md hidden-lg text-xs-center">
+			<a href="https://member.psychologytoday.com/rms-sec/"
+			 class="footerLoginBtn btn btn-blue">Log In</a>
+
+			<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+			 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+		</div><div class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<a href="https://therapists.psychologytoday.com/"
+ id="footerLogoTd" class="footerLogo ui-sprite"
+ title="Psychology Today">Psychology Today</a>
+
+<a href="https://www.healthprofs.com/cam/"
+ id="footerLogoCam" class="footerLogo ui-sprite"
+ title="The Health Professionals Directory">HealthProfs.com</a>
+
+<div class="footerActions col-xs-12 hidden-sm hidden-md hidden-lg">
+	<a href="https://member.psychologytoday.com/rms-sec/"
+	 class="footerLoginBtn btn btn-blue">Log In</a>
+
+	<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+	 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+</div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-left text-xs-center"><ul id="footerNav">
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/about.html" class="footerNavItem first">About</a>
+</li>	<li><a href="https://therapists.psychologytoday.com/us/careers" class="footerNavItem first">Careers</a></li><li>
+    <a href="https://therapists.psychologytoday.com/rms/content/privacy.html" class="footerNavItem">Privacy</a>
+</li>
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/terms.html" class="footerNavItem">Terms</a>
+</li></ul><div id="footerCopyright">
+&copy; 2017 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a><span class="hidden-xs hidden-sm">,
+Psychology Today is &copy; 2017
+  <a href="https://www.psychologytoday.com">Sussex Publishers, LLC</a>
+</span></div></div>		</div>
+		<div class="promo-ribbon hidden-xs col-xs-12 hidden-sm col-md-6 col-lg-6 pull-left">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div></div>
+</div>
+</footer>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9980773" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+//]]>
+</script>
+<noscript>
+  <img alt=""
+  src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9980773&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<div style="font-size: 0px; margin-top: -1px">
+<!-- Google Code for Therapy Directory Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071677164;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "JZ0bCKqCmgMQ7P2B_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071677164/?value=0&amp;label=JZ0bCKqCmgMQ7P2B_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div><!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.async = true;
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src =
+["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&cg=0&cc=1&si=",
+escape(window.location.href), "&rp=", escape(document.referrer),
+"&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img
+src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>

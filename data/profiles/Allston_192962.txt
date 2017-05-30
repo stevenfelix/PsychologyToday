@@ -1,0 +1,2362 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Life Changes Group, Treatment Facility, Cambridge, MA 02139 | Psychology Today</title>
+<meta name="description" content="Life Changes Group, Treatment Facility, Cambridge, MA 02139, (617) 229-7445, Life Changes Group is an integrative therapy, psychopharmacology, and consulting practice dedicated to providing the highest quality of psychological care for children, adolescents, adults, and seniors. Our friendly and experienced team of doctors offers the best, most evidence-based practices in the treatment of psychiatric illness, neurocognitive assessment, educational testing, and school consultation. Our clinicians focus on the integration of treatment, education, collaboration, and partnership to help individuals, couples, and families reach their goals and improve the quality of their lives. Our main focus is Cognitive Behavioral Therapy, and we are one of the few practices in the Boston/Cambridge area to offer specific, guided, and collaborative CBT support for clients of all ages and backgrounds. If you have suffered from a anxiety or depression, and have found the typical psychotherapy approach ineffective, our clinicians offer specific strategies to reduce your symptoms. We pride ourselves on using collaborative, research-supported models for returning clients to their normal levels of functioning, including cognitive reframing, stress-reduction (e.g., diaphragmatic breathing, meditation, progressive muscle relaxation), guided exposure, and biofeedback for understanding your body&#039;s response to stress. We combine compassionate listening and active intervention to produce lasting, life-changing results.">
+<meta name="robots" content="index,follow">
+<link rel='stylesheet' type='text/css' href='https://resources.psychologytoday.com/v3.26.2/css/directoryweb/psychologytoday.en-US.css'>
+<link rel="icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="shortcut icon" href="https://resources.psychologytoday.com/v3.26.2/images/favicon-TD.ico" type="image/x-icon" >
+<link rel="apple-touch-icon" href="https://resources.psychologytoday.com/v3.26.2/images/apple-touch-icon-TD.png">
+
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/fastclick.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/directoryweb-sx.ui.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.flag.js"></script>
+<script type="text/javascript" src="https://resources.psychologytoday.com/v3.26.2/js/jquery/sx.gallery.js"></script>
+
+<script>
+window.addEventListener('load', function() {
+    FastClick.attach(document.body);
+}, false);
+</script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/bootstrap/bootstrap.min.js'></script><script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/contactShare.js'></script>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/profile/form.js'></script>
+<meta name="dcterms.modified" content="2016-Jul-26">
+<meta name="geo.region" content="US-MA">
+<link rel="canonical" href="https://treatment.psychologytoday.com/rms/name/Life+Changes+Group_Cambridge_Massachusetts_192962">
+<meta name="dcterms.title" content="Life Changes Group, Treatment Facility, Cambridge, MA 02139">
+<meta name="dcterms.creator" content="Psychology Today">
+<meta name="dcterms.coverage" content="Cambridge, MA 02139">
+<meta name="geo.placename" content="Cambridge, MA 02139">
+<script>
+  var dataLayer = [{'SxTrackingID' : 'UA-2018330-4'}];
+</script>
+<!-- Start Optimizely Code -->
+<script src="https://cdn.optimizely.com/js/6265930501.js"></script>
+<!-- End Optimizely Code -->
+</head>
+<body id='top'  class="prof-detail"  data-spid-raw="rms" data-spid-type="TD">
+<!-- Start Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGTKPG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGTKPG');</script>
+<!-- End Google Tag Manager -->
+<nav id="subBrandsXsm" class="xsm-subBrands-show hide">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+<div id="pageContainer">
+<div id="headerShadow"></div>
+<header id="headerWrapper" class="outerWrapper TD fixed-header">
+
+    <div class="pageInner">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-7 col-xs-12">
+	        	<button class="btn btn-frost xsm-subBrands-hidden hidden-xs" id="subBrandsBtn"
+	onclick="$('html').toggleClass('subBrandsOpen');sx.showOverlay();">
+		<i class="icon icon-white icon-show_lines"></i>
+	</button>
+	<a class="xsm-subBrands-show hidden-sm hidden-md hidden-lg" id="subBrandsBtnXs">
+		<i class="icon icon-white icon-show_lines"></i>
+	</a>
+                <h1><a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_Brand" id="headerBrand" class="headerLogo brandFace"
+                    title="Psychology Today"><span id='headerLogo' class='ui-sprite ui-sprite-resp'>Psychology Today</span></a>
+                    <a href="https://therapists.psychologytoday.com/rms/?tr=Hdr_SubBrand"
+  id="headerSubBrand"
+  class="headerLogo subBrandFace"
+  title="Therapists">
+  Therapists</a>
+  
+
+	            </h1>
+			    <nav id="subBrands" class="xsm-subBrands-hidden">
+	<ul>		<li><a href="https://therapists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Therapists">Therapists</a></li><li><a href="https://groups.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Support Groups">Support Groups</a></li><li><a href="https://treatment.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Treatment Centers">Treatment Centers</a></li><li><a href="https://psychiatrists.psychologytoday.com/rms/?tr=Header_Menu2" 
+ title="Find Psychiatrists">Psychiatrists</a></li>	<li><br><a href="https://member.psychologytoday.com/rms-sec/">Log In</a></li>
+	<li><a href="https://member.psychologytoday.com/therapist/?src=RMSLOG">Sign Up</a></li>
+	</ul>
+</nav>
+                
+    <a href="https://therapists.psychologytoday.com/" title="Find a Therapist"
+     id="headerSearchIcon" class="hidden-sm hidden-md hidden-lg"
+    data-trigger='search-autosuggest' data-event-label='Search_HeaderButton'></a>
+    <div id="headerSearchBox" class="hidden-sm hidden-md hidden-lg" 
+     data-trigger='search-autosuggest' data-event-label='Search_SearchField'>
+        <input type="text" class="hidden-sm hidden-md hidden-lg"
+           placeholder="City/Zip or Name"
+            title="Search for Therapists near you.">
+    </div>
+           </div>
+           <div class="col-lg-4 col-md-4 col-sm-5  hidden-xs" id="headerActions" style="text-align: right;">
+<a href="https://member.psychologytoday.com/rms-sec/" class="btn btn btn-frost headerBtn">Log In</a>
+<a href="https://member.psychologytoday.com/therapist/?src=RMSLOG"
+  class="btn headerBtn btn-orange">Sign Up and Get Listed</a>
+
+</div>
+        </div>
+    </div>
+</header>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+    $('#pageContainer').on(sx.transitionEndEvent, function(e) {
+
+        if (e.target.id != 'pageContainer') {
+            return;
+        }
+
+        if ($('#subBrandsXsm').hasClass('closing')) {
+            $('#headerWrapper').css({
+                'position' : 'fixed',
+                'top' : '0px'
+            });
+            $('#subBrandsXsm').removeClass('show');
+            $('#subBrandsXsm').addClass('hide');
+            $('#subBrandXsm').removeClass('closing');
+            $('#pageContainer').removeClass('overlay');
+
+            var scrollPosition = Math.abs(parseInt($('body').css('top'),10));
+            $('body').css({
+                position: 'static',
+                overflow: 'auto'
+            });
+            $('body').scrollTop(scrollPosition);
+        } else {
+            $('#subBrandXsm').removeClass('opening');
+        } 
+    });
+
+    $('#subBrandsBtnXs').on('click', function(e) {
+        e.preventDefault();
+        if ($('html').hasClass('subBrandsOpenXsm')) {
+            $('#subBrandsXsm').removeClass('opening');
+            $('#subBrandsXsm').addClass('closing');
+            $('html').removeClass('subBrandsOpenXsm');
+            $('#pageContainer').off('click.menuDismissal');
+        } else {
+            $('#pageContainer').on('click.menuDismissal', function(e) {
+                e.preventDefault();
+                if ($('html').hasClass('subBrandsOpenXsm') ) {
+                    if ($('#pageContainer').hasClass('overlay')) {
+                        $('#subBrandsXsm').removeClass('opening');
+                        $('#subBrandsXsm').addClass('closing');
+                        $('html').removeClass('subBrandsOpenXsm');
+                        $('#pageContainer').removeClass('overlay');
+                        $('#pageContainer').off('click.menuDismissal');
+                        $('#pageContainer *').css({ 'pointer-events' : 'auto' });
+                    } else {
+                       $('#pageContainer').addClass('overlay');
+                    }
+                } 
+            });
+            $('#pageContainer *').css({ 'pointer-events' : 'none' });
+            $('#subBrandsXsm').addClass('show');
+            $('#subBrandsXsm').addClass('opening');
+            $('#subBrandsXsm').removeClass('closing');
+            $('#headerWrapper').css({
+                'position' : 'absolute',
+                'top' : $(window).scrollTop() + 'px'
+            });
+            $('body').css({
+                position: 'fixed',
+                overflow: 'hidden',
+                width: $('body').width(),
+                top: '-' + $('body').scrollTop() + 'px'
+            })
+            $('html').addClass('subBrandsOpenXsm');
+        }
+    });     
+});
+</script>
+
+<div id="main" class="no-min-height">    <div class ="breadcrumb-nav profile-breadcrumb">
+    <div class="pageInner">
+        <div class="contextual">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    <div class="contextual breadcrumb">
+                        <a href="https://therapists.psychologytoday.com/rms/prof_results.php?sid=1487105107.7412_17423&city=Allston&state=MA&rec_next=1&tr=BackResults"
+                           data-event-label='ProfileNav_BackToSearchLink'>
+                            <i class="icon icon-chevron-left back"></i>Back To Results</a>
+                        <a href="https://therapists.psychologytoday.com/rms/"
+                           data-event-label='ProfileNav_NewSearchLink' class="hidden-xs">
+                            <i class="icon icon-search search"></i>New Search</a>
+                    </div>
+                </div>
+                                    <div class="col-sm-6 col-med-6  col-lg-6">
+                        <div class="contextual-right breadcrumb">
+                                                        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=153488&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1&ref=8&tr=PrevProf"
+                               data-event-label='ProfileNav_prevProfLink' class="" title="Joan White">
+                                <i class="icon icon-chevron-left  back hidden-xs"></i>Previous</a>
+                                                                                </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div id='profileContainer' class="pageInner profile"
+     itemscope itemtype="http://schema.org/Organization"
+     data-profid="192962"
+     data-prof-name="Life Changes Group"
+     data-phone="(617) 229-7445"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962"
+     data-profile-image="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/62/29/192962-276192-2_120x150.jpg?pu=1397746249"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962"
+     data-new-clients="1"
+     data-use-company-name="1">
+    <div id="profHdr" class="row">
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg profile-title-container">
+                            <h1 itemprop="name">
+                    Life Changes Group</h1>
+                <div class="profile-title">
+                    <h2>
+                                                                                                                                            <span class="nowrap">Treatment Facility</span>
+                                            </h2>
+                </div>
+                                    <div class="profile-title-verified hidden-sm hidden-md hidden-lg">
+                        <span data-target="#modalVerified" data-toggle="modal">
+                                <i class="icon icon-ok"></i>Verified by <span>Psychology Today</span>
+                        </span>
+                    </div>
+                                    </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-4 col-sm-2 col-md-2 col-lg-2 photo-column no-padding-right">
+                            <span title="Life Changes Group, PhD, Treatment Facility in Cambridge"
+                      id="profilePhoto"
+                      data-target="#modalPhotoContact" data-toggle="modal">
+                    <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/62/29/192962-276192-2_120x150.jpg?pu=1397746249" itemprop="image"
+                         alt="Life Changes Group, PhD, Treatment Facility in Cambridge" style="width:100%"
+                         data-event-label="Photo_ModalLink">
+                    <div class="photo-enlarge hidden-sm hidden-md hidden-lg">
+                        <div class="btns">
+                            <i class="icon icon-enlarge"></i>
+                        </div>
+                    </div>
+                </span>
+                        <div class="hidden-xs profile-buttons">
+                                        <a
+        href="tel:6172297445"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 229-7445</a>
+    <button
+        title="Send email to Life Changes Group"
+        class="btn btn-block btn-orange"
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+        >Email Us</button>
+<button
+        title="Recommend Life Changes Group to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/share"
+        >Send to Friend</button>
+    <button
+       title="Set up video call with Life Changes Group"
+       class="btn btn-block"
+       data-event-label="Profile_VideoButton"
+       data-toggle="modal"
+       data-target="#modalVideoRequestForm"
+       data-element-target="#profileContainer"
+       data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact-video"
+       ><span class="hidden-sm">Set Up </span>Video Call</button>
+    <a href="https://out.psychologytoday.com/rms/profile/192962/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Life Changes Group">Website</a>
+                            </div>
+                    </div>
+
+        <div class="profile-middle profile-flag col-xs-8 col-sm-10 col-md-10 col-lg-10">
+            <div class="row">
+                <div class="hidden-xs col-sm-6 col-md-7 col-lg-7">
+                                            <h1 itemprop="name">
+                            Life Changes Group</h1>
+                        <div class="profile-title">
+                            <h2>
+                                                                                                                                                                                    <span class="nowrap">Treatment Facility</span>
+                                                            </h2>
+                        </div>
+                                    </div>
+                <div class="hidden-xs col-sm-6 col-md-5 col-lg-5 text-right">
+                                                                        <div class="profile-phone">
+                                <i class="icon icon-earphone icon-white profile-phone-icon"></i>
+                                <span itemprop="telephone"><a href="tel:6172297445"
+                                                              data-event-label="Profile_PhoneLink">(617) 229-7445</a></span>
+                            </div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="hidden-xs col-sm-10 col-md-10 col-lg-10">
+            <div class="profile-menu hidden-xs">
+    <ul>
+        <li>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&amp;p=1&amp;sid=1487105107.7412_17423&amp;city=Allston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+               class="active"               title="About">About</a>
+        </li>
+                                    <li>
+                <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&amp;p=5&amp;sid=1487105107.7412_17423&amp;city=Allston&amp;county=Suffolk&amp;state=MA&amp;rec_next=1"
+                                      title="Groups">Groups</a>
+            </li>
+            </ul>
+            <div class="profile-verified">
+            <div class="verified-wrapper">
+                <div class="verified" data-target="#modalVerified" data-toggle="modal"
+                     data-event-label="Profile_Verified">
+                    <div class="verified-link">
+                        Verified by <span>Psychology Today</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>        </div>
+        <div class="col-xs-8 hidden-sm hidden-md hidden-lg profile-buttons">
+                <a
+        href="tel:6172297445"
+        class="btn btn-block btn-orange hidden-sm hidden-md hidden-lg tr-profile-phone"
+        data-event-label="Profile_PhoneLink">(617) 229-7445</a>
+    <button
+        title="Send email to Life Changes Group"
+        class="btn btn-block "
+        data-event-label="Profile_EmailButton"
+        data-toggle="modal"
+        data-target="#modalContactForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+        >Email Us</button>
+<button
+        title="Recommend Life Changes Group to a friend"
+        class="btn btn-block"
+        data-event-label="Profile_ShareButton"
+        data-toggle="modal"
+        data-target="#modalShareForm"
+        data-element-target="#profileContainer"
+        data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/share"
+        >Send to Friend</button>
+    <button
+       title="Set up video call with Life Changes Group"
+       class="btn btn-block"
+       data-event-label="Profile_VideoButton"
+       data-toggle="modal"
+       data-target="#modalVideoRequestForm"
+       data-element-target="#profileContainer"
+       data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact-video"
+       ><span class="hidden-sm">Set Up </span>Video Call</button>
+    <a href="https://out.psychologytoday.com/rms/profile/192962/website-redirect"
+       class="btn btn-block hidden-xs"
+       data-event-label="website"
+       target="_blank" title="Visit website of Life Changes Group">Website</a>
+        </div>
+        <div class="col-xs-12 col-sm-10 col-md-10 col-lg-10">
+
+            <div id="profile-content">
+                    <div class="row">
+        <div class="col-xs-12 col-sm-8 col-md-7 col-lg-7">
+            <div class="hidden-sm hidden-md hidden-lg">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Life Changes Group<br>
+                                            <span itemprop='streetAddress'>
+                    875 Massachusetts Avenue
+                </span><br>
+            
+                            Suite #43 And #84<br>
+                    
+                    <span itemprop="addressLocality">Cambridge</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02139</span><br>
+                    
+                    <br>Call Intake Coordinator: Jonathan Goldberg Phd<br>
+                            <a href='tel:6172297445'
+               data-event-label='Address1_PhoneLink'>(617) 229-7445</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Life Changes Group"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                    >Email Us
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.3679418"
+                    data-map-lon="-71.1073597"
+                    data-map-over-enable=""
+                    data-address-rank-1="875 Massachusetts Avenue, Cambridge, Massachusetts, 02139">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Allston.html" class="textNoLink" title="Therapists in Allston, MA">Allston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Somerville.html" class="textNoLink" title="Therapists in Somerville, MA">Somerville, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02118.html" class="textNoLink"
+                               title="Therapists in 02118 (South End)">02118 (South End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02134.html" class="textNoLink"
+                               title="Therapists in 02134">02134</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02139.html" class="textNoLink"
+                               title="Therapists in 02139 (Cambridgeport, Central Square, Kendall Square, MIT)">02139 (Cambridgeport, Central Square, Kendall Square, MIT)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02140.html" class="textNoLink"
+                               title="Therapists in 02140 (Porter Square)">02140 (Porter Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02141.html" class="textNoLink"
+                               title="Therapists in 02141">02141</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02142.html" class="textNoLink"
+                               title="Therapists in 02142">02142</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02143.html" class="textNoLink"
+                               title="Therapists in 02143">02143</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02215.html" class="textNoLink"
+                               title="Therapists in 02215 (Fenway, Kenmore Square)">02215 (Fenway, Kenmore Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/192962/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Life Changes Group">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Life Changes Group<br>
+                                            <span itemprop='streetAddress'>
+                    1330 Beacon Street
+                </span><br>
+            
+                            Suite #202<br>
+                    
+                    <span itemprop="addressLocality">Brookline</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02446</span><br>
+                    
+                            <a href='tel:6172297445'
+               data-event-label='Address2_PhoneLink'>(617) 229-7445</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="42.3421907"
+                    data-map-lon="-71.1220027"
+                    data-map-over-enable=""
+                    data-address-rank-2="1330 Beacon Street, Brookline, Massachusetts, 02446">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <div class="profile-statement">
+                    <hr class="hidden-sm hidden-md hidden-lg">
+                    <div class="section profile-personalstatement">
+                        <h3>Cognitive Behavioral Therapy Specialists</h3>
+                <div class="statementPara">
+            Life Changes Group is an integrative therapy, psychopharmacology, and consulting practice dedicated to providing the highest quality of psychological care for children, adolescents, adults, and seniors. Our friendly and experienced team of doctors offers the best, most evidence-based practices in the treatment of psychiatric illness, neurocognitive assessment, educational testing, and school consultation. Our clinicians focus on the integration of treatment, education, collaboration, and partnership to help individuals, couples, and families reach their goals and improve the quality of their lives. Our main focus is Cognitive Behavioral Therapy, and we are one of the few practices in the Boston/Cambridge area to offer specific, guided, and collaborative CBT support for clients of all ages and backgrounds. If you have suffered from a anxiety or depression, and have found the typical psychotherapy approach ineffective, our clinicians offer specific strategies to reduce your symptoms. We pride ourselves on using collaborative, research-supported models for returning clients to their normal levels of functioning, including cognitive reframing, stress-reduction (e.g., diaphragmatic breathing, meditation, progressive muscle relaxation), guided exposure, and biofeedback for understanding your body&#039;s response to stress. We combine compassionate listening and active intervention to produce lasting, life-changing results.
+        </div>
+    
+                        <h3>Our Philosophy</h3>
+                <div class="statementPara">
+            At Life Changes Group we recognize that finding appropriate behavioral healthcare can be a daunting task. Many of you have already spent hours or days searching online, calling insurance companies, meeting with general practitioners, or asking friends if they &quot;know of anyone&quot; who can help you make the changes you desire. Seeking behavioral healthcare is challenging enough without these additional hurdles. Our goal at Life Changes Group is to simplify the process of looking for appropriate treatment and accelerate the process of getting appropriate treatment. We appreciate that many of our clients are at a crossroads in their lives, already feeling vulnerable, confused, and unsure whether change is possible. The shared philosophy of our clinicians is that change is possible, and through education, collaboration, and thoughtful treatment goals everyone is capable of finding that change. We develop an individualized and structured recovery plan for each client, focused on the biological, social, and emotional foundations of the specific problem, including: 1) Comprehensive intake and assessment 2) Collaborative goal-setting and measurable objectives 3) Psychoeducation and literature review 4) Symptom-focused treatment and weekly monitoring 5) Collaboration with other health professionals 6) Family education and support 7) Relapse prevention
+        </div>
+    
+                        <h3>Who We Are</h3>
+                <div class="statementPara">
+            Life Changes Group recruits the best and the brightest clinicians from around the country to provide consultation, assessment, and psychiatric services to our clients. All of our clinicians have been carefully selected based upon our mission to provide the highest quality healthcare without exception. All of our staff have been trained at APA-approved doctoral programs and are actively involved in teaching, research, and publication.  Many of our clinicians have faculty appointments or are otherwise affiliated with respected hospitals and institutions in the greater-Boston area, including: Harvard Medical School, Massachusetts General Hospital, and University of Massachusetts Medical School. Our doctors provide comprehensive services to address the emotional needs of individuals, couples, families, and blended families. We are LGBT-sensitive and work with many clients whom have found traditional psychotherapy approaches an unwanted judgment of their personal decisions and lifestyle. In addition to focused behavioral therapy, we also offer medication management, neurocognitive testing, and group psychotherapy so that clients are not forced to &quot;shop&quot; for different services elsewhere, but can feel comfortable in knowing that all of their treatment providers are working in tandem to support their emotional needs. We are client-driven and client-focused.
+        </div>
+    </div>                </div>
+                        <div class="profile-consultation">
+    Call or <a href='#' data-event-label='FreeConsult_EmailLink' data-toggle='modal' data-target='#modalContactForm' data-element-target='#profileContainer' data-action-url='https://therapists.psychologytoday.com/rms/profile/192962/contact' rel='nofollow'>Email</a> Life Changes Group for a <strong>free phone consultation</strong> now - <a href='tel:6172297445' data-event-label='FreeConsult_PhoneLink'><strong>(617) 229-7445</strong></a>
+</div>                            <div class="profile-qualifications">
+<h2>Qualifications</h2>
+<ul>
+            <li>
+            <strong>Years in Practice:</strong>
+            3 Years
+        </li>
+    
+                    <li>
+            <strong>License No. and State:</strong>
+            8500 Massachusetts
+        </li>
+                                </ul>
+</div>                                        <hr>
+                <div class="profile-finances">
+    <h2>Finances</h2>
+    <ul>
+                            <li>
+                <strong>Sliding Scale:</strong> Yes
+            </li>
+                                    <li>
+                <strong>Accepts Insurance:</strong> Yes
+            </li>
+                            <li>
+                <strong>Accepted Payment Methods: </strong>
+                                    ACH Bank transfer,                                     American Express,                                     Cash,                                     Check,                                     Discover,                                     Mastercard,                                     Paypal,                                     Visa,                                     Wire                            </li>
+            </ul>
+
+                        <br><strong>Accepted Insurance Plans</strong>
+            <div class="spec-list">
+                                                                                                            <div class="row">
+                                                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-tight-right">
+                    <ul>
+                    
+                    <li>Aetna</li>
+                    
+                                                                            
+                    <li>BlueCross and BlueShield</li>
+                    
+                                                                            
+                    <li>Cigna</li>
+                    
+                                                                            
+                    <li>Empire BlueCross</li>
+                    
+                                                                            
+                    <li>Great-West Life</li>
+                    
+                                                                            
+                    <li>Harvard Pilgrim</li>
+                    
+                                                                            
+                    <li>Kaiser</li>
+                    
+                                                                            
+                    <li>Most PPO plans</li>
+                                        </ul>
+                    </div>
+                    
+                                                                                                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-tight-right">
+                    <ul>
+                    
+                    <li>Multiplan</li>
+                    
+                                                                            
+                    <li>Network Health</li>
+                    
+                                                                            
+                    <li>PHCS</li>
+                    
+                                                                            
+                    <li>PacifiCare</li>
+                    
+                                                                            
+                    <li>PreferredOne</li>
+                    
+                                                                            
+                    <li>ValueOptions</li>
+                    
+                                                                            
+                    <li>Out of Network</li>
+                                        </ul>
+                    </div>
+                    
+                                            </div>
+                                                </div>
+                                    <div class="profile-verify-ins">
+            Verify your health insurance coverage when you
+                            <a href="#"
+                   rel="nofollow"
+                   data-event-label="VerifyInsurance_EmailLink"
+                   data-toggle="modal"
+                   data-target="#modalContactForm"
+                   data-element-target="#profileContainer"
+                   data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                   >arrange your first visit</a>.
+                    </div>
+    </div>                                                    <hr>
+<h2>Life Changes Group's Groups</h2>
+    <div class="group-small">
+        <h2>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52077&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">CBT for Social Anxiety</a>
+        </h2>
+
+        <div class="group-description">
+            <p>This group is for individuals who experience excessive nervousness and discomfort in social situations. Examples include public speaking, dating, small talk, or being the center of attention. The goals of this group are to help clients stop avoiding these situations and to decrease the interference of social anxiety with quality of life. Our primary objectives are to:  Understand the diagnosis of social anxiety disorder, Explore characteristic triggers, Identify ineffective beliefs about oneself and social events, Develop coping strategies for managing the physical sensations, Introduce thoughtful exposure exercises, Offer a framework for increased engagement and return to healthy social living</p>
+        </div>
+        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52077&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">More about this group</a>
+    </div>
+            <hr>
+        <div class="group-small">
+        <h2>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52078&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">Intimacy and Relationships for Gay Men</a>
+        </h2>
+
+        <div class="group-description">
+            <p>In this group, members will engage with others in a supportive environment to explore their feelings, behaviors, and thoughts around intimacy and relationships. The overall goals of this group are to enhance member&#039;s capacity for intimacy as well as increasing mood and improving quality of life. Together, members will explore:  masculinity, self-esteem and it&#039;s role in the development of intimacy, dating and sexual needs, communication skills, building and maintaining social support system</p>
+        </div>
+        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52078&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">More about this group</a>
+    </div>
+            <hr>
+        <div class="group-small">
+        <h2>
+            <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52076&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">CBT Anxiety Group</a>
+        </h2>
+
+        <div class="group-description">
+            <p>Individuals with an anxiety disorder suffer from excessive worry and fear, as well as uncomfortable physical sensations, such as a racing heart, trouble breathing, or the feeling of being suffocated. Situations that would ordinarily seem routine end up feeling unmanageable and require extensive effort or energy. It often feels as though the only choice is to avoid anything that could increase anxiety, however, this avoidance can become a problem in itself and lead to the sacrifice of meaningful scholastic, professional, and romantic goals.  The main components of our group include: Psychoeducation,  Self-monitoring of symptoms, Cognitive restructuring, and Exposure</p>
+        </div>
+        <a href="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962&gid=52076&sid=1487105107.7412_17423&city=Allston&county=Suffolk&state=MA&rec_next=1">More about this group</a>
+    </div>
+            <hr class='hidden-xs'>
+                        </div>
+        <div class="col-xs-12 col-sm-4 col-md-5 col-lg-5">
+            <div class="hidden-xs">
+                <div class="profile-address">
+            <hr class="hidden-sm hidden-md hidden-lg">
+        <h2>Location</h2>
+        <div class="address address-rank-1"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Life Changes Group<br>
+                                            <span itemprop='streetAddress'>
+                    875 Massachusetts Avenue
+                </span><br>
+            
+                            Suite #43 And #84<br>
+                    
+                    <span itemprop="addressLocality">Cambridge</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02139</span><br>
+                    
+                    <br>Call Intake Coordinator: Jonathan Goldberg Phd<br>
+                            <a href='tel:6172297445'
+               data-event-label='Address1_PhoneLink'>(617) 229-7445</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                            <button
+                    title="Send email to Life Changes Group"
+                    class="btn btn-mini"
+                    data-event-label="Address_EmailLink"
+                    data-toggle="modal"
+                    data-target="#modalContactForm"
+                    data-element-target="#profileContainer"
+                    data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                    >Email Us
+            </button>
+                            <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address_MapButton"
+                    data-map-address="address-rank-1"
+                    data-map-lat="42.3679418"
+                    data-map-lon="-71.1073597"
+                    data-map-over-enable=""
+                    data-address-rank-1="875 Massachusetts Avenue, Cambridge, Massachusetts, 02139">Show Map
+            </button>
+                            <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Allston.html" class="textNoLink" title="Therapists in Allston, MA">Allston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Somerville.html" class="textNoLink" title="Therapists in Somerville, MA">Somerville, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02118.html" class="textNoLink"
+                               title="Therapists in 02118 (South End)">02118 (South End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02134.html" class="textNoLink"
+                               title="Therapists in 02134">02134</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02139.html" class="textNoLink"
+                               title="Therapists in 02139 (Cambridgeport, Central Square, Kendall Square, MIT)">02139 (Cambridgeport, Central Square, Kendall Square, MIT)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02140.html" class="textNoLink"
+                               title="Therapists in 02140 (Porter Square)">02140 (Porter Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02141.html" class="textNoLink"
+                               title="Therapists in 02141">02141</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02142.html" class="textNoLink"
+                               title="Therapists in 02142">02142</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02143.html" class="textNoLink"
+                               title="Therapists in 02143">02143</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02215.html" class="textNoLink"
+                               title="Therapists in 02215 (Fenway, Kenmore Square)">02215 (Fenway, Kenmore Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>                            <a href="https://out.psychologytoday.com/rms/profile/192962/website-redirect"
+               class="btn btn-mini hidden-sm hidden-md hidden-lg"
+               data-event-label="website"
+               target="_blank" title="Visit website of Life Changes Group">Website</a><br>
+            </div>
+</div>                    <hr>
+            <h2>Additional Location</h2>
+            <div class="address address-rank-2"
+     itemprop="location" itemscope=""
+     itemtype="http://schema.org/Place">
+
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                    Life Changes Group<br>
+                                            <span itemprop='streetAddress'>
+                    1330 Beacon Street
+                </span><br>
+            
+                            Suite #202<br>
+                    
+                    <span itemprop="addressLocality">Brookline</span>,
+            <span itemprop="addressRegion">Massachusetts</span>
+                            <span itemprop='postalcode'>02446</span><br>
+                    
+                            <a href='tel:6172297445'
+               data-event-label='Address2_PhoneLink'>(617) 229-7445</a>
+            <br>
+        
+    </div>
+
+    <div class='address-buttons'>
+                                    <button type="button" class="btn btn-mini" data-toggle="modal" data-target="#modalMap"
+                    data-event-label="Address2_MapButton"
+                    data-map-address="address-rank-2"
+                    data-map-lat="42.3421907"
+                    data-map-lon="-71.1220027"
+                    data-map-over-enable=""
+                    data-address-rank-2="1330 Beacon Street, Brookline, Massachusetts, 02446">Show Map
+            </button>
+                            </div>
+</div>            </div>
+            </div>
+                            <hr>
+<div class="spec-list">
+            <h2>Specialties</h2>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul class="specialties-list">
+                                            <li class='highlight'>Anxiety</li>
+                                            <li class='highlight'>Depression</li>
+                                            <li class='highlight'>Testing and Evaluation</li>
+                                    </ul>
+            </div>
+        </div>
+    
+                        
+                                
+                                                <h3 class="spec-subcat">Issues</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>ADHD</li>
+                                                                        
+                                                        <li>Addiction</li>
+                                                                        
+                                                        <li>Alcohol Abuse</li>
+                                                                        
+                                                        <li>Anger Management</li>
+                                                                        
+                                                        <li>Asperger's Syndrome</li>
+                                                                        
+                                                        <li>Autism</li>
+                                                                        
+                                                        <li>Behavioral Issues</li>
+                                                                        
+                                                        <li>Bipolar Disorder</li>
+                                                                        
+                                                        <li>Career Counseling</li>
+                                                                        
+                                                        <li>Child or Adolescent</li>
+                                                                        
+                                                        <li>Chronic Impulsivity</li>
+                                                                        
+                                                        <li>Chronic Pain</li>
+                                                                        
+                                                        <li>Coping Skills</li>
+                                                                        
+                                                        <li>Developmental Disorders</li>
+                                                                        
+                                                        <li>Divorce</li>
+                                                                        
+                                                        <li>Drug Abuse</li>
+                                                                        
+                                                        <li>Dual Diagnosis</li>
+                                                                        
+                                                        <li>Eating Disorders</li>
+                                                                        
+                                                        <li>Emotional Disturbance</li>
+                                                                        
+                                                        <li>Family Conflict</li>
+                                                                        
+                                                        <li>Gambling</li>
+                                                                        
+                                                        <li>Grief</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Infertility</li>
+                                                                        
+                                                        <li>Internet Addiction</li>
+                                                                        
+                                                        <li>LGBT issues</li>
+                                                                        
+                                                        <li>Learning Disabilities</li>
+                                                                        
+                                                        <li>Life Coaching</li>
+                                                                        
+                                                        <li>Medication Management</li>
+                                                                        
+                                                        <li>Obsessive-Compulsive (OCD)</li>
+                                                                        
+                                                        <li>Parenting</li>
+                                                                        
+                                                        <li>Peer Relationships</li>
+                                                                        
+                                                        <li>Relationship Issues</li>
+                                                                        
+                                                        <li>School Issues</li>
+                                                                        
+                                                        <li>Self Esteem</li>
+                                                                        
+                                                        <li>Sex Therapy</li>
+                                                                        
+                                                        <li>Sexual Abuse</li>
+                                                                        
+                                                        <li>Sexual Addiction</li>
+                                                                        
+                                                        <li>Sleep or Insomnia</li>
+                                                                        
+                                                        <li>Spirituality</li>
+                                                                        
+                                                        <li>Substance Abuse</li>
+                                                                        
+                                                        <li>Transgender</li>
+                                                                        
+                                                        <li>Trauma and PTSD</li>
+                                                                        
+                                                        <li>Video Game Addiction</li>
+                                                                        
+                                                        <li>Weight Loss</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Mental Health</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Elderly Persons Disorders</li>
+                                                                        
+                                                        <li>Impulse Control Disorders</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Mood Disorders</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Sexuality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Bisexual</li>
+                                                                        
+                                                        <li>Gay</li>
+                            </ul>
+                </div>
+                                                                        
+                                                        <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                <ul>
+                            <li>Lesbian</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                        <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Client Focus</h2>
+                        
+                                                <div class="spec-subcat">
+                    <strong>Ethnicity:</strong>
+                                <span>African-American, </span>
+                                                            
+                                            <span>Native American</span>
+                                    </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Age</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Toddlers / Preschoolers (0 to 6)</li>
+                                                                        
+                                                        <li>Children (6 to 10)</li>
+                                                                        
+                                                        <li>Preteens / Tweens (11 to 13)</li>
+                                                                        
+                                                        <li>Adolescents / Teenagers (14 to 19)</li>
+                                                                        
+                                                        <li>Adults</li>
+                                                                        
+                                                        <li>Elders (65+)</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Categories</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Gay Clients</li>
+                                                                        
+                                                        <li>HIV / AIDS Clients</li>
+                                                                        
+                                                        <li>Heterosexual Clients</li>
+                                                                        
+                                                        <li>Lesbian Clients</li>
+                                                                        
+                                                        <li>Transgender Clients</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>            
+                            <hr>
+<div class="spec-list">
+    
+                        
+                                    <h2>Programs and Services</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Programs</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Depression</li>
+                                                                        
+                                                        <li>Psychiatric Residential</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Out / Inpatient</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Outpatient</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Family Services / Amenities</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Wheelchair Access</li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                    <h2>Treatment Approach</h2>
+                        
+                                                <h3 class="spec-subcat">Treatment Orientation</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li><span data-ui-type="glossary" data-glossary-id="670" 
+>Acceptance and Commitment Therapy (ACT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="77" 
+>Biofeedback</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="50" 
+>Cognitive Behavioral (CBT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="51" 
+>Eclectic</span></li>
+                                                                        
+                                                        <li>Exposure and Response Prevention (ERP)</li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="54" 
+>Family / Marital</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="82" 
+>Family Systems</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="74" 
+>Interpersonal</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="97" 
+>Mindfulness-based (MBCT)</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="575" 
+>Motivational Interviewing</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="587" 
+>Neurofeedback</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="22" 
+>Psychoanalytic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="23" 
+>Psychodynamic</span></li>
+                                                                        
+                                                        <li><span data-ui-type="glossary" data-glossary-id="264" 
+>Psychological Testing and Evaluation</span></li>
+                            </ul>
+                </div>
+                                                </div>
+                                                        
+                                
+                                                <h3 class="spec-subcat">Modality</h3>
+                    <div class="row">
+                                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <ul>
+                            <li>Individuals</li>
+                                                                        
+                                                        <li>Couples</li>
+                                                                        
+                                                        <li>Group</li>
+                            </ul>
+                </div>
+                                                </div>
+                                        </div>                                    <div class='hidden-sm hidden-md hidden-lg'>
+                <hr>
+                <div class='profile-nearby'>
+    <h2>Nearby Areas</h2>
+    <strong>This location is easily accessible from:</strong>
+
+    <div class='row'>
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Cities:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Allston.html" class="textNoLink" title="Therapists in Allston, MA">Allston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Boston.html" class="textNoLink" title="Therapists in Boston, MA">Boston, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Brookline.html" class="textNoLink" title="Therapists in Brookline, MA">Brookline, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Cambridge.html" class="textNoLink" title="Therapists in Cambridge, MA">Cambridge, MA</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/state/MA/Somerville.html" class="textNoLink" title="Therapists in Somerville, MA">Somerville, MA</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h3>Counties:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Middlesex.html" class="textNoLink"
+                               title="Therapists in Middlesex County, MA">Middlesex</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Norfolk.html" class="textNoLink"
+                               title="Therapists in Norfolk County, MA">Norfolk</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/county/MA/Suffolk.html" class="textNoLink"
+                               title="Therapists in Suffolk County, MA">Suffolk</a>
+                        </li>
+                                    </ul>
+            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <h3>Zips:</h3>
+                <ul>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02116.html" class="textNoLink"
+                               title="Therapists in 02116 (Back Bay, Copley Square)">02116 (Back Bay, Copley Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02118.html" class="textNoLink"
+                               title="Therapists in 02118 (South End)">02118 (South End)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02134.html" class="textNoLink"
+                               title="Therapists in 02134">02134</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02138.html" class="textNoLink"
+                               title="Therapists in 02138 (Huron Village)">02138 (Huron Village)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02139.html" class="textNoLink"
+                               title="Therapists in 02139 (Cambridgeport, Central Square, Kendall Square, MIT)">02139 (Cambridgeport, Central Square, Kendall Square, MIT)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02140.html" class="textNoLink"
+                               title="Therapists in 02140 (Porter Square)">02140 (Porter Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02141.html" class="textNoLink"
+                               title="Therapists in 02141">02141</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02142.html" class="textNoLink"
+                               title="Therapists in 02142">02142</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02143.html" class="textNoLink"
+                               title="Therapists in 02143">02143</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02215.html" class="textNoLink"
+                               title="Therapists in 02215 (Fenway, Kenmore Square)">02215 (Fenway, Kenmore Square)</a>
+                        </li>
+                                            <li>
+                            <a href="https://therapists.psychologytoday.com/rms/zip/02446.html" class="textNoLink"
+                               title="Therapists in 02446 (Coolidge Corner)">02446 (Coolidge Corner)</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</div>            </div>
+        </div>
+    </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="profile-bottom">
+        <div class="section profile-change_block">
+            <div class="last-modified">Last Modified: 26 Jul 2016</div>
+        </div>
+    </div>
+            <div class="modal" id="modalVerified" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <span class="title">Life Changes Group has been Verified by Psychology Today</span>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="profile-verified_content">
+                <p>The information in Psychology Today is provided exclusively by participating therapists. When you see this seal, it means Psychology Today has verified the following:</p>
+                <div>
+                    <ul class="profile-list">
+                                                    <li>The name and contact details of the professional
+                            </li>
+                                                    <li>That the professional's license, if applicable, is valid within the state in which he or she practices
+                            </li>
+                                                    <li>That the professional is not subject to any license strictures preventing practice
+                            </li>
+                                            </ul>
+                </div>
+                
+                <p>Psychology Today verifies the information at the time a therapist is initially listed in the directory and then upon expiration of the professional's credentials.</p>
+<p>If you find any of the information in Psychology Today directory to be inaccurate in any way, please tell us by emailing: therapist@psychologytoday.com</p>
+                <div class="verified-disclaimer">
+                    <p>You assume full responsibility for the communications with
+    any therapist you contact through Psychology Today directory. Psychology Today shall in no event be
+    liable to you or to anyone for any decision made or action taken by you in the reliance on
+    information provided in Psychology Today.
+</p>
+<p>
+    Psychology Today directory is not intended as a tool for verifying the credentials,
+    qualifications, or abilities of any therapists it lists. Inclusion in
+    Psychology Today does not imply recommendation or endorsement nor does omission from
+    Psychology Today imply Psychology Today disapproval. Psychology Today does not warrant or represent that
+    Psychology Today directory or any part thereof is accurate or complete. Psychology Today disclaims all warranties,
+    either express or implied, including but not limited to the implied warranties of merchantability
+    and fitness for particular purpose.
+</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+                <div class="modal" id="modalMap" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Life Changes Group
+            <div class="modal-subtitle">
+                            <span class="nowrap">Treatment Facility</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-8">
+            <div id="map-canvas" class="modal-map"></div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <div id="map-addresses"></div>
+       </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div id="contactBar" class="fixed-header"
+     itemscope itemtype="http://schema.org/Organization"
+     data-profid="192962"
+     data-prof-name="Life Changes Group"
+     data-phone="(617) 229-7445"
+     data-email-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962"
+     data-profile-image="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/62/29/192962-276192-2_120x150.jpg?pu=1397746249"
+     data-profile-url="https://therapists.psychologytoday.com/rms/prof_detail.php?profid=192962"
+     data-new-clients="1"
+     data-use-company-name="1">
+    <div class="pageInner hideContactBar">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="row">
+                    <div id="contactBarPhoto" class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="contact-photo">
+                                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/62/29/192962-276192-2_120x150.jpg?pu=1397746249" itemprop="image"
+                                     alt="Life Changes Group, PhD, Treatment Facility in Cambridge">
+                            </div>
+                                                                            <div class="contact-info" >
+                                                    <h1 itemprop="name" class="contact-name">
+                                Life Changes Group</h1>
+
+                            <div class="profile-title contact-title">
+                                <h2>
+                                                                                                                                                                                                        <span class="nowrap">Treatment Facility</span>
+                                                                    </h2>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+ 
+                    <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs"> 
+                    <div class="contact-button"> 
+                                                    <div class="contact-phone">
+                                <a href="tel:6172297445"
+                                   class="tr-contactbar-phone" data-event-label="ContactBarLg_PhoneLink">
+                                    <i class="icon icon-earphone icon-white contactbar-phone-icon"></i> (617) 229-7445</a>
+                            </div>
+                                                                            or
+                                                                            <div class="contact-email">
+                                <a href="#"
+                                   rel="nofollow"
+                                   title="Send email to Life Changes Group"
+                                   data-event-label="ContactBarLg_EmailLink"
+                                   data-toggle="modal"
+                                   data-target="#modalContactForm"
+                                   data-element-target="#contactBar"
+                                   data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                                   >Email</a>
+                            </div>
+                                                </div>
+                    </div>
+                </div>
+
+                </div>
+
+                <div class="row hidden-sm hidden-md hidden-lg">
+                    <div class="contact-button-xs">
+                                                                                                                        <div class="col-xs-6 col-tight-right">
+                                                                                                <div class="contact-email-xs">
+                                        <a href="#"
+                                           rel="nofollow"
+                                           title="Send email to Life Changes Group"
+                                           class="btn btn-block "
+                                           data-event-label="ContactBarXs_EmailLink"
+                                           data-toggle="modal"
+                                           data-target="#modalContactForm"
+                                           data-element-target="#contactBar"
+                                           data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                                           >Email Us</a>
+                                    </div>
+                                                                                            </div>
+                            <div class="col-xs-6 col-tight-left">
+                                                                                                    <div class="contact-phone-xs">
+                                        <a href="tel:6172297445"
+                                           data-event-label="ContactBarXs_PhoneLink"
+                                           class="btn btn-block btn-orange tr-contactbar-phone">
+                                            (617) 229-7445</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(window).on('load', function () {
+            $('#contactBar').detach().appendTo('#headerShadow');
+            setContactBarPosition();
+            $('#contactBar').show();
+            contactBar();
+
+            window.addEventListener('scroll', function () {
+                contactBar();
+            });
+
+            $(window).on('resize', function () {
+                setContactBarPosition();
+                contactBar();
+            });
+
+        });
+        function contactBar() {
+            var windowWidth = $(window).width();
+            if (windowWidth > 768) {
+               var height = $('#profHdr').height() + 115;
+                if (window.pageYOffset > height) {
+                        showContactBar();
+                    } else if (window.pageYOffset <= height) {
+                        hideContactBar();
+                    }
+            } else {
+                var height = $('#profHdr').height() + 40;
+                if (window.pageYOffset > height) {
+                    showContactBar();
+                } else if (window.pageYOffset <= height) {
+                    hideContactBar();
+                }
+            }
+        }
+        function setContactBarPosition() {
+            var offset = $('#contactBar').outerHeight() - $('#headerShadow').outerHeight();
+            $('#contactBar').css({
+                "top": '-' + offset + 'px'
+            });
+        }
+        function showContactBar() {
+            var offset = $('#contactBar').outerHeight();
+            $('#headerShadow').css({
+                "top": offset + 'px'
+            });
+        }
+        function hideContactBar() {
+            $('#headerShadow').css({
+                "top": '0px'
+            });
+        }
+    </script>
+            <div class="modal" id="modalPhotoContact" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    Life Changes Group
+            <div class="modal-subtitle">
+                            <span class="nowrap">Treatment Facility</span>
+                    </div>
+                </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="col-xs-12">
+            <div class="modal-contact-photo">
+                <img src="https://cdn2.sussexdirectories.com/rms/rms_photos/sized/62/29/192962-276192-2_320x400.jpg?pu=1397746249" itemprop="image"
+                     alt="Life Changes Group, PhD, Treatment Facility in Cambridge">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="hidden-sm hidden-md hidden-lg modal-photo-contact-info">
+
+            
+                            <div class="col-xs-6 col-tight-right">
+                    <div class="modal-contact-email">
+                        <button title="Send email to Life Changes Group"
+                                class="btn btn-block "
+                                data-event-label="PhotoModal_EmailLink"
+                                data-toggle="modal"
+                                data-target="#modalContactForm"
+                                data-element-target="#profileContainer"
+                                data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                                >Email Us</button>
+                    </div>
+                </div>
+                                        <div class=" col-xs-6 col-tight-left">
+                    <div class="modal-contact-phone">
+                        <a href="tel:6172297445"
+                           class="btn btn-block btn-orange"
+                           data-event-label="PhotoModal_PhoneLink">
+                            (617) 229-7445</a>
+                    </div>
+                </div>
+                    </div>
+        <div class="hidden-xs">
+            <div class="modal-photo-contact-info">
+                                    <div class="contact-phone">
+                        <a href="tel:6172297445"
+                           class="tr-photoModal-phone" data-event-label="PhotoModalLg_PhoneLink">
+                            <i class="icon icon-earphone icon-white modal-photo-phone"></i> (617) 229-7445
+                        </a>
+                    </div>
+                                 or 
+                                    <div class="contact-email">
+                        <a href="#"
+                           data-event-label="PhotoModalLg_EmailLink"
+                           data-toggle="modal"
+                           data-target="#modalContactForm"
+                           data-element-target="#profileContainer"
+                           data-action-url="https://therapists.psychologytoday.com/rms/profile/192962/contact"
+                           >Email</a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+        </div>
+        <div class="modal floating-label-form-container contact-modal" id="modalShareForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">    <h1>Share <span></span>'s Profile</h1>
+</div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                    <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-md-12">
+            <form id="profile-share" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="shareFormName" class="control-label">Your Name</label>
+                    <input type="text" class="form-control" id="shareFormName" name="your-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormEmail" class="control-label">Your Email</label>
+                    <input type="text" class="form-control" id="shareFormEmail" name="your-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendName" class="control-label">Friend&#039;s Name</label>
+                    <input type="text" class="form-control" id="shareFormFriendName" name="friend-name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormFriendEmail" class="control-label">Friend&#039;s Email</label>
+                    <input type="text" class="form-control" id="shareFormFriendEmail" name="friend-email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="shareFormBody" class="control-label"
+                           data-floating-label="Message (80 words max)">
+                        Message</label>
+                    <textarea class="form-control" id="shareFormBody" name="message"></textarea>
+                </div>
+                <div id="profile-share-captcha" class="form-group form-captcha"></div>
+                <button type="submit"
+                        class="btn btn-orange btn-large btn-block submit-hide">Send Email
+                </button>
+            </form>
+        </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalContactForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1 class="result-xs">Email <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="emailFormName">Your Name</label>
+                    <input type="text" class="form-control" id="emailFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="emailFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="emailFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="emailFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="emailFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="emailFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactemail_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Don't be shy. Our therapists are here to help you and are pleased to hear from you.</p>
+
+<p>Feel free to ask for what you want... an appointment, a consultation or simply a response to a question. Keep it short, 200
+words or less, this is just an initial contact.</p>
+
+<p>Remember to double check your return email address or your phone number if you prefer to be called.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.<p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+    <div class="modal floating-label-form-container contact-modal" id="modalVideoRequestForm" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-header">
+            <div class="modal-title">
+                    <div class="title">            <h1>Request a Video Call with <span></span></h1>
+    </div>
+            </div>
+            <div class="modal-close" data-dismiss="modal"><div class="ui-sprite ui-close"></div></div>
+        </div>
+                <div class="modal-body scrollable">
+                                            <div class="row">
+        <div class="alerts col-md-12"></div>
+    </div>
+    <div class="row modal-content-init">
+        <div class="col-xs-12 col-sm-6">
+            <form id="profile-contact-video" method="post" class="floating-labels">
+                <input id="access-token" name="access-token" type="hidden" value="" />
+                <div class="form-group">
+                    <label for="videoFormName">Your Name</label>
+                    <input type="text" class="form-control" id="videoFormName" name="name" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormEmail">Your Email Address</label>
+                    <input type="text" class="form-control" id="videoFormEmail" name="email" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormPhoneNumber"
+                           data-floating-label="Your Phone">
+                        Your Phone</label>
+                    <input type="text" class="form-control" id="videoFormPhoneNumber" name="phone" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormSubject">Subject</label>
+                    <input type="text" class="form-control" id="videoFormSubject" name="subject" size="30" maxlength="50">
+                </div>
+                <div class="form-group">
+                    <label for="videoFormBody"
+                           data-floating-label="">
+                        Message</label>
+                    <textarea class="form-control contact-message" id="videoFormBody" name="body" limit-rows="true"></textarea>
+                </div>
+                <div id="profile-contact-video-captcha" class="form-group form-captcha"></div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                        <button type="submit"
+                                class="btn btn-orange btn-block btn-large submit-hide"
+                                data-event-label="Contactvideo_SubmitButton">Send Email
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+                            <p>Send this email to request a video session with this therapist.</p>
+
+<p>The therapist may first call or email you back to schedule a time and provide details about how to connect.</p>
+
+                    </div>
+    </div>
+    <br>
+    <div class="row modal-content-init">
+        <div class="contact-fine-print col-md-12">
+                            <p>Psychology Today does not read or retain your email. However, a copy will be sent to you for your records. Please be
+aware that email is not a secure means of communication and spam filters may prevent your email from reaching the
+therapist. The therapist should respond to you by email, although we recommend that you follow up with a phone call.
+If you prefer corresponding via phone, leave your contact number.</p>
+
+<p>Sending an email using this page does not guarantee that the recipient will receive, read or respond to your email.</p>
+
+<p>If this is an emergency do not use this form. Call 911 or your nearest hospital.</p>
+
+                    </div>
+    </div>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+    </div>
+</div>
+<script type="text/javascript"
+        src="//maps.googleapis.com/maps/api/js?key=AIzaSyD0vXldAbHFWHvHbWzKT_W0CIyI35PACSI&amp;sensor=false"></script>
+<script type="text/javascript">
+    dataLayer.push({'defaultEventCategory': 'ProfilePage'});
+
+    $('#modalMap').on('shown.bs.modal', function (e) {
+        initializeMap(e);
+    });
+
+    function initializeMap(e) {
+        var count = 0;
+        var markers = [];
+        var markerABC = 'A';
+        var coords;
+        var geocoder = new google.maps.Geocoder();
+        var latlng = new google.maps.LatLng(44.8819, -93.2217);
+        var mapOptions = {
+            center: latlng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+
+
+        var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
+        $('#map-addresses').html('');
+        var addrs = [
+            $('[data-target="#modalMap"]', $('.address-rank-1:first')),
+            $('[data-target="#modalMap"]', $('.address-rank-2:first'))
+        ];
+
+        $(addrs).each(function () {
+            var lat = $(this).attr('data-map-lat');
+            var lon = $(this).attr('data-map-lon');
+
+            over_enable = parseInt($(this).attr('data-map-over-enable'));
+            address = $(this).attr('data-' + $(this).attr('data-map-address'));
+            var markerABC = 'A';
+
+            var addrHtml = $(this).parents('.address').clone().appendTo('#map-addresses');
+            $('.address-buttons', addrHtml).remove();
+
+            markerABC = String.fromCharCode(markerABC.charCodeAt() + count);
+
+            if (over_enable) {
+                coords = new google.maps.LatLng(lat, lon);
+                map.setCenter(coords);
+                marker = new google.maps.Marker({
+                    icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                    position: coords,
+                    animation: google.maps.Animation.DROP,
+                    map: map
+                });
+
+                markers.push(marker);
+                setMap(markers, map);
+            } else {
+                codeAddress(address, function (coords) {
+                    map.setCenter(coords);
+                    marker = new google.maps.Marker({
+                        icon: '//www.google.com/mapfiles/marker' + markerABC + '.png',
+                        position: coords,
+                        animation: google.maps.Animation.DROP,
+                        map: map
+                    });
+
+                    markers.push(marker);
+                    setMap(markers, map);
+                });
+            }
+            count++;
+        });
+    }
+
+    function codeAddress(address, callback) {
+        var geocoder = new google.maps.Geocoder();
+        if (geocoder) {
+            geocoder.geocode({'address': address}, function (results, status) {
+                if (status == google.maps.GeocoderStatus.OK) {
+                    callback(results[0].geometry.location);
+                }
+            });
+        }
+    }
+
+    function setMap(markers, map) {
+        zoomChangeBoundsListener = google.maps.event.addListener(map, 'bounds_changed', function (event) {
+
+            if (this.getZoom() > 9) {
+                if (markers.length == 1) {
+                    // Change max/min zoom here
+                    this.setZoom(15);
+                }
+            }
+            google.maps.event.removeListener(zoomChangeBoundsListener);
+        });
+
+        var bounds = new google.maps.LatLngBounds();
+        $.each(markers, function (index, marker) {
+            marker.setMap(map);
+            bounds.extend(marker.getPosition());
+        });
+        map.fitBounds(bounds);
+    }
+
+    var isForbiddenHost = "";
+    var noEmailMessage = "<h1>Sorry!</h1> <p>[NAME] would like to hear from you but prefers to be contacted by phone. [PHONE_TEXT]";
+    var notAcceptingNewClientMessage = "[NAME] is not currently accepting new clients.";
+    var personMessageLabel = "Message";
+    var personMessageFloatingLabel = "How can I help you? (200 words max)";
+    var companyMessageLabel = "Message";
+    var companyMessageFloatingLabel = "How can we help you? (200 words max)";
+    var ajaxErrorMessage = 'There was a problem sending your email. Please try again later.';
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchas&render=explicit" async defer></script>
+&nbsp;
+<!-- detail END: Search Only: 0.080 Sec., Total: 0.166 Sec. -->
+<br>
+<script type='text/javascript' src='https://resources.psychologytoday.com/v3.26.2/js/modal/modal.js'></script>
+<div id='searchModal' class='modal search-modal' data-directory-url='https://therapists.psychologytoday.com/rms/prof_results.php'><div class="modal-dialog" role="document">
+    <div class="modal-content">
+                <div class="modal-body scrollable">
+                    <div id='autosuggestContainer' class='autosuggest-container'
+         data-placeholder="City, Zip or Name"
+         data-endpoint="https://therapists.psychologytoday.com/rms/search/suggest">
+        <div class='autosuggest-header'>
+            <div class='autosuggest-input'>
+                <i class='icon icon-chevron-left hidden-sm hidden-md hidden-lg' data-dismiss='modal'></i>
+                <input type="text" id='autosuggestSearchInput' class="search-autosuggest"
+                       data-label='Search_SearchField'
+                       autosuggest='off' autocorrect='off' autocapitalize='off' tabindex=0>
+                <input type="hidden" id='autosuggestHiddenInput'>
+                <button id='autosuggestSearchButton' class="btn btn-blue btn-search"
+                        title="Search for Therapists near you.">
+                    <i class="icon icon-search icon-white"></i>
+                </button>
+            </div>
+            <div class='autosuggest-message'></div>
+        </div>
+
+        <div id='searchSuggestions' class='autosuggest-sections'>
+            <div id='locationSuggestions' class='autosuggest-section' data-section='locations'></div>
+            <div id='nameSuggestions' class='autosuggest-section' data-section='names'></div>
+        </div>
+    </div>
+
+    <script src='https://resources.psychologytoday.com/v3.26.2/js/search/autosuggest.js' charset='UTF-8'></script>
+            <div class="scrollable-ios-hack"></div>
+        </div>
+        <div class="modal-footer"></div>
+    </div>
+</div>
+</div></div>
+<footer id="pageFooter" class="outerWrapper">
+    <div class="pageInner"><section id='metaSearches' class='hidden-xs collapsible'>
+    <h3>Searches containing Life Changes Group</h3>
+    <div class='row collapsible-content'>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=328&amp;topid=192962' title='65+ Treatment Centers in Cambridge, MA'>65+ Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=6&amp;topid=192962' title='ADD Treatment Centers in Cambridge, MA'>ADD Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=6&amp;topid=192962' title='ADHD Treatment Centers in Cambridge, MA'>ADHD Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=192&amp;topid=192962' title='Academic Counseling Treatment Centers in Cambridge, MA'>Academic Counseling Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=192&amp;topid=192962' title='Academic Underachievement Treatment Centers in Cambridge, MA'>Academic Underachievement Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=4&amp;topid=192962' title='Addiction Treatment Centers in Cambridge, MA'>Addiction Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=326&amp;topid=192962' title='Adolescents / Teenagers (14 to 19) Treatment Centers in Cambridge, MA'>Adolescents / Teenagers (14 to 19) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=327&amp;topid=192962' title='Adults Treatment Centers in Cambridge, MA'>Adults Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=415&amp;topid=192962' title='Aetna Insurance Treatment Centers in Cambridge, MA'>Aetna Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=334&amp;topid=192962' title='African-American Treatment Centers in Cambridge, MA'>African-American Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=248&amp;topid=192962' title='Alcohol Abuse Treatment Centers in Cambridge, MA'>Alcohol Abuse Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=166&amp;topid=192962' title='Anger Management Treatment Centers in Cambridge, MA'>Anger Management Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=9&amp;topid=192962' title='Anorexia Treatment Centers in Cambridge, MA'>Anorexia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=192962' title='Anxiety Treatment Centers in Cambridge, MA'>Anxiety Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=251&amp;topid=192962' title='Asperger&#039;s Syndrome Treatment Centers in Cambridge, MA'>Asperger&#039;s Syndrome Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=6&amp;topid=192962' title='Attention Deficit Treatment Centers in Cambridge, MA'>Attention Deficit Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=167&amp;topid=192962' title='Autism Treatment Centers in Cambridge, MA'>Autism Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=423&amp;topid=192962' title='BCBS Insurance Treatment Centers in Cambridge, MA'>BCBS Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=195&amp;topid=192962' title='Behavioral Issues Treatment Centers in Cambridge, MA'>Behavioral Issues Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=192962' title='Bereavement Treatment Centers in Cambridge, MA'>Bereavement Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=168&amp;topid=192962' title='Bipolar Disorder Treatment Centers in Cambridge, MA'>Bipolar Disorder Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=185&amp;topid=192962' title='Bisexual Treatment Centers in Cambridge, MA'>Bisexual Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=423&amp;topid=192962' title='BlueCross and BlueShield Insurance Treatment Centers in Cambridge, MA'>BlueCross and BlueShield Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=9&amp;topid=192962' title='Bulimia Treatment Centers in Cambridge, MA'>Bulimia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=183&amp;topid=192962' title='Career Counseling Treatment Centers in Cambridge, MA'>Career Counseling Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=5&amp;topid=192962' title='Child or Adolescent Treatment Centers in Cambridge, MA'>Child or Adolescent Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=325&amp;topid=192962' title='Children (6 to 10) Treatment Centers in Cambridge, MA'>Children (6 to 10) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=197&amp;topid=192962' title='Chronic Impulsivity Treatment Centers in Cambridge, MA'>Chronic Impulsivity Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=7&amp;topid=192962' title='Chronic Pain Treatment Centers in Cambridge, MA'>Chronic Pain Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=429&amp;topid=192962' title='Cigna Insurance Treatment Centers in Cambridge, MA'>Cigna Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=293&amp;topid=192962' title='Cognitive Behavioral (CBT) Treatment Centers in Cambridge, MA'>Cognitive Behavioral (CBT) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=249&amp;topid=192962' title='Coping Skills Treatment Centers in Cambridge, MA'>Coping Skills Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=287&amp;topid=192962' title='Couples Treatment Centers in Cambridge, MA'>Couples Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=10&amp;topid=192962' title='Dementia Treatment Centers in Cambridge, MA'>Dementia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=226&amp;topid=192962' title='Depression Treatment Centers in Cambridge, MA'>Depression Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=252&amp;topid=192962' title='Developmental Disorders Treatment Centers in Cambridge, MA'>Developmental Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=26&amp;topid=192962' title='Divorce Treatment Centers in Cambridge, MA'>Divorce Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=253&amp;topid=192962' title='Drug Abuse Treatment Centers in Cambridge, MA'>Drug Abuse Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=263&amp;topid=192962' title='Dual Diagnosis Treatment Centers in Cambridge, MA'>Dual Diagnosis Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=9&amp;topid=192962' title='Eating Disorders Treatment Centers in Cambridge, MA'>Eating Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=295&amp;topid=192962' title='Eclectic Treatment Centers in Cambridge, MA'>Eclectic Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=10&amp;topid=192962' title='Elderly Persons Disorders Treatment Centers in Cambridge, MA'>Elderly Persons Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=328&amp;topid=192962' title='Elders (65+) Treatment Centers in Cambridge, MA'>Elders (65+) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=198&amp;topid=192962' title='Emotional Disturbance Treatment Centers in Cambridge, MA'>Emotional Disturbance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=513&amp;topid=192962' title='Empire BlueCross Insurance Treatment Centers in Cambridge, MA'>Empire BlueCross Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=296&amp;topid=192962' title='Family / Marital Treatment Centers in Cambridge, MA'>Family / Marital Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=200&amp;topid=192962' title='Family Conflict Treatment Centers in Cambridge, MA'>Family Conflict Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=311&amp;topid=192962' title='Family Systems Treatment Centers in Cambridge, MA'>Family Systems Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=192962' title='Fears Treatment Centers in Cambridge, MA'>Fears Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=7&amp;topid=192962' title='Fibromyalgia Treatment Centers in Cambridge, MA'>Fibromyalgia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=187&amp;topid=192962' title='GID Treatment Centers in Cambridge, MA'>GID Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=254&amp;topid=192962' title='Gambling Treatment Centers in Cambridge, MA'>Gambling Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=268&amp;topid=192962' title='Gay Clients Treatment Centers in Cambridge, MA'>Gay Clients Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=172&amp;topid=192962' title='Gay Treatment Centers in Cambridge, MA'>Gay Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=187&amp;topid=192962' title='Gender Dysphoria Treatment Centers in Cambridge, MA'>Gender Dysphoria Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=187&amp;topid=192962' title='Gender Identity Disorder Treatment Centers in Cambridge, MA'>Gender Identity Disorder Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=10&amp;topid=192962' title='Geriatric Care Treatment Centers in Cambridge, MA'>Geriatric Care Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=437&amp;topid=192962' title='Great-West Life Insurance Treatment Centers in Cambridge, MA'>Great-West Life Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=192962' title='Grief Treatment Centers in Cambridge, MA'>Grief Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=289&amp;topid=192962' title='Group Treatment Centers in Cambridge, MA'>Group Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=266&amp;topid=192962' title='HIV / AIDS Clients Treatment Centers in Cambridge, MA'>HIV / AIDS Clients Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=15&amp;topid=192962' title='Hair Pulling Treatment Centers in Cambridge, MA'>Hair Pulling Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=439&amp;topid=192962' title='Harvard Pilgrim Health Care Insurance Treatment Centers in Cambridge, MA'>Harvard Pilgrim Health Care Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=439&amp;topid=192962' title='Harvard Pilgrim Insurance Treatment Centers in Cambridge, MA'>Harvard Pilgrim Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=272&amp;topid=192962' title='Heterosexual Clients Treatment Centers in Cambridge, MA'>Heterosexual Clients Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=21&amp;topid=192962' title='Impulse Control Disorders Treatment Centers in Cambridge, MA'>Impulse Control Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=286&amp;topid=192962' title='Individuals Treatment Centers in Cambridge, MA'>Individuals Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=12&amp;topid=192962' title='Infertility Treatment Centers in Cambridge, MA'>Infertility Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=202&amp;topid=192962' title='Internet Addiction Treatment Centers in Cambridge, MA'>Internet Addiction Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=306&amp;topid=192962' title='Interpersonal Treatment Centers in Cambridge, MA'>Interpersonal Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=448&amp;topid=192962' title='Kaiser Insurance Treatment Centers in Cambridge, MA'>Kaiser Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=21&amp;topid=192962' title='Kleptomania Treatment Centers in Cambridge, MA'>Kleptomania Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=172&amp;topid=192962' title='LGBTQ Treatment Centers in Cambridge, MA'>LGBTQ Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=184&amp;topid=192962' title='Learning Disabilities Treatment Centers in Cambridge, MA'>Learning Disabilities Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=184&amp;topid=192962' title='Learning Disorders Treatment Centers in Cambridge, MA'>Learning Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=269&amp;topid=192962' title='Lesbian Clients Treatment Centers in Cambridge, MA'>Lesbian Clients Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=186&amp;topid=192962' title='Lesbian Treatment Centers in Cambridge, MA'>Lesbian Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=13&amp;topid=192962' title='Life Coaching Treatment Centers in Cambridge, MA'>Life Coaching Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=192962' title='Loss Treatment Centers in Cambridge, MA'>Loss Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=168&amp;topid=192962' title='Manic Depression Treatment Centers in Cambridge, MA'>Manic Depression Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=258&amp;topid=192962' title='Medication Management Treatment Centers in Cambridge, MA'>Medication Management Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=307&amp;topid=192962' title='Mindfulness-based (MBCT) Treatment Centers in Cambridge, MA'>Mindfulness-based (MBCT) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=201&amp;topid=192962' title='Mood Disorders Treatment Centers in Cambridge, MA'>Mood Disorders Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=492&amp;topid=192962' title='Motivational Interviewing Treatment Centers in Cambridge, MA'>Motivational Interviewing Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=14&amp;topid=192962' title='Mourning Treatment Centers in Cambridge, MA'>Mourning Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=458&amp;topid=192962' title='Multiplan Insurance Treatment Centers in Cambridge, MA'>Multiplan Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=337&amp;topid=192962' title='Native American Treatment Centers in Cambridge, MA'>Native American Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=539&amp;topid=192962' title='Network Health Insurance Treatment Centers in Cambridge, MA'>Network Health Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=501&amp;topid=192962' title='Neurofeedback Treatment Centers in Cambridge, MA'>Neurofeedback Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=15&amp;topid=192962' title='Obsessive-Compulsive (OCD) Treatment Centers in Cambridge, MA'>Obsessive-Compulsive (OCD) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=595&amp;topid=192962' title='Online Therapy Treatment Centers in Cambridge, MA'>Online Therapy Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=461&amp;topid=192962' title='Out of Network Treatment Centers in Cambridge, MA'>Out of Network Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=247&amp;topid=192962' title='Outpatient Treatment Centers in Cambridge, MA'>Outpatient Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=465&amp;topid=192962' title='PHCS Insurance Treatment Centers in Cambridge, MA'>PHCS Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=463&amp;topid=192962' title='PacifiCare Insurance Treatment Centers in Cambridge, MA'>PacifiCare Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=21&amp;topid=192962' title='Paraphilia Treatment Centers in Cambridge, MA'>Paraphilia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=16&amp;topid=192962' title='Parenting Treatment Centers in Cambridge, MA'>Parenting Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=228&amp;topid=192962' title='Peer Relationships Treatment Centers in Cambridge, MA'>Peer Relationships Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=3&amp;topid=192962' title='Phobia Treatment Centers in Cambridge, MA'>Phobia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=201&amp;topid=192962' title='Post-Partum Treatment Centers in Cambridge, MA'>Post-Partum Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=19&amp;topid=192962' title='Post-Traumatic Stress Treatment Centers in Cambridge, MA'>Post-Traumatic Stress Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=466&amp;topid=192962' title='PreferredOne Insurance Treatment Centers in Cambridge, MA'>PreferredOne Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=330&amp;topid=192962' title='Preteens / Tweens (11 to 13) Treatment Centers in Cambridge, MA'>Preteens / Tweens (11 to 13) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=465&amp;topid=192962' title='Private HealthCare Systems Insurance Treatment Centers in Cambridge, MA'>Private HealthCare Systems Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=230&amp;topid=192962' title='Psychiatric Residential Treatment Centers in Cambridge, MA'>Psychiatric Residential Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=298&amp;topid=192962' title='Psychoanalytic Treatment Centers in Cambridge, MA'>Psychoanalytic Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=299&amp;topid=192962' title='Psychodynamic Treatment Centers in Cambridge, MA'>Psychodynamic Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=303&amp;topid=192962' title='Psychological Testing and Evaluation Treatment Centers in Cambridge, MA'>Psychological Testing and Evaluation Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=21&amp;topid=192962' title='Pyromania Treatment Centers in Cambridge, MA'>Pyromania Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=1&amp;topid=192962' title='Relationship Issues Treatment Centers in Cambridge, MA'>Relationship Issues Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=192&amp;topid=192962' title='School Issues Treatment Centers in Cambridge, MA'>School Issues Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=201&amp;topid=192962' title='Seasonal Affective Treatment Centers in Cambridge, MA'>Seasonal Affective Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=260&amp;topid=192962' title='Self Esteem Treatment Centers in Cambridge, MA'>Self Esteem Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=328&amp;topid=192962' title='Seniors Treatment Centers in Cambridge, MA'>Seniors Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=17&amp;topid=192962' title='Sex Therapy Treatment Centers in Cambridge, MA'>Sex Therapy Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=256&amp;topid=192962' title='Sexual Abuse Treatment Centers in Cambridge, MA'>Sexual Abuse Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=257&amp;topid=192962' title='Sexual Addiction Treatment Centers in Cambridge, MA'>Sexual Addiction Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=15&amp;topid=192962' title='Skin Picking Treatment Centers in Cambridge, MA'>Skin Picking Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=595&amp;topid=192962' title='Skype Treatment Centers in Cambridge, MA'>Skype Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=190&amp;topid=192962' title='Sleep or Insomnia Treatment Centers in Cambridge, MA'>Sleep or Insomnia Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=18&amp;topid=192962' title='Spirituality Treatment Centers in Cambridge, MA'>Spirituality Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=182&amp;topid=192962' title='Substance Abuse Treatment Centers in Cambridge, MA'>Substance Abuse Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=595&amp;topid=192962' title='Teletherapy Treatment Centers in Cambridge, MA'>Teletherapy Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=177&amp;topid=192962' title='Testing and Evaluation Treatment Centers in Cambridge, MA'>Testing and Evaluation Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=329&amp;topid=192962' title='Toddlers / Preschoolers (0 to 6) Treatment Centers in Cambridge, MA'>Toddlers / Preschoolers (0 to 6) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=270&amp;topid=192962' title='Transgender Clients Treatment Centers in Cambridge, MA'>Transgender Clients Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=187&amp;topid=192962' title='Transgender Treatment Centers in Cambridge, MA'>Transgender Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=19&amp;topid=192962' title='Trauma and PTSD Treatment Centers in Cambridge, MA'>Trauma and PTSD Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=15&amp;topid=192962' title='Trichotillomania (TTM) Treatment Centers in Cambridge, MA'>Trichotillomania (TTM) Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=474&amp;topid=192962' title='ValueOptions Insurance Treatment Centers in Cambridge, MA'>ValueOptions Insurance Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=595&amp;topid=192962' title='Video Counseling Treatment Centers in Cambridge, MA'>Video Counseling Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=207&amp;topid=192962' title='Video Game Addiction Treatment Centers in Cambridge, MA'>Video Game Addiction Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=262&amp;topid=192962' title='Weight Loss Treatment Centers in Cambridge, MA'>Weight Loss Treatment Centers in Cambridge, MA</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?city=Cambridge&amp;state=MA&amp;spec=279&amp;topid=192962' title='Wheelchair Access Treatment Centers in Cambridge, MA'>Wheelchair Access Treatment Centers in Cambridge, MA</a></li>
+                                            </ul>
+        </div>
+        <div class='col-xs-6 col-sm-6 col-md-6 col-lg-6'>
+            <ul>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=328&amp;topid=192962' title='65+ Treatment Centers in 02139'>65+ Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=6&amp;topid=192962' title='ADD Treatment Centers in 02139'>ADD Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=6&amp;topid=192962' title='ADHD Treatment Centers in 02139'>ADHD Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=192&amp;topid=192962' title='Academic Counseling Treatment Centers in 02139'>Academic Counseling Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=192&amp;topid=192962' title='Academic Underachievement Treatment Centers in 02139'>Academic Underachievement Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=4&amp;topid=192962' title='Addiction Treatment Centers in 02139'>Addiction Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=326&amp;topid=192962' title='Adolescents / Teenagers (14 to 19) Treatment Centers in 02139'>Adolescents / Teenagers (14 to 19) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=327&amp;topid=192962' title='Adults Treatment Centers in 02139'>Adults Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=415&amp;topid=192962' title='Aetna Insurance Treatment Centers in 02139'>Aetna Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=334&amp;topid=192962' title='African-American Treatment Centers in 02139'>African-American Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=248&amp;topid=192962' title='Alcohol Abuse Treatment Centers in 02139'>Alcohol Abuse Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=166&amp;topid=192962' title='Anger Management Treatment Centers in 02139'>Anger Management Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=9&amp;topid=192962' title='Anorexia Treatment Centers in 02139'>Anorexia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=3&amp;topid=192962' title='Anxiety Treatment Centers in 02139'>Anxiety Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=251&amp;topid=192962' title='Asperger&#039;s Syndrome Treatment Centers in 02139'>Asperger&#039;s Syndrome Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=6&amp;topid=192962' title='Attention Deficit Treatment Centers in 02139'>Attention Deficit Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=167&amp;topid=192962' title='Autism Treatment Centers in 02139'>Autism Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=423&amp;topid=192962' title='BCBS Insurance Treatment Centers in 02139'>BCBS Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=195&amp;topid=192962' title='Behavioral Issues Treatment Centers in 02139'>Behavioral Issues Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=14&amp;topid=192962' title='Bereavement Treatment Centers in 02139'>Bereavement Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=168&amp;topid=192962' title='Bipolar Disorder Treatment Centers in 02139'>Bipolar Disorder Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=185&amp;topid=192962' title='Bisexual Treatment Centers in 02139'>Bisexual Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=423&amp;topid=192962' title='BlueCross and BlueShield Insurance Treatment Centers in 02139'>BlueCross and BlueShield Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=9&amp;topid=192962' title='Bulimia Treatment Centers in 02139'>Bulimia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=183&amp;topid=192962' title='Career Counseling Treatment Centers in 02139'>Career Counseling Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=5&amp;topid=192962' title='Child or Adolescent Treatment Centers in 02139'>Child or Adolescent Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=325&amp;topid=192962' title='Children (6 to 10) Treatment Centers in 02139'>Children (6 to 10) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=197&amp;topid=192962' title='Chronic Impulsivity Treatment Centers in 02139'>Chronic Impulsivity Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=7&amp;topid=192962' title='Chronic Pain Treatment Centers in 02139'>Chronic Pain Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=429&amp;topid=192962' title='Cigna Insurance Treatment Centers in 02139'>Cigna Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=293&amp;topid=192962' title='Cognitive Behavioral (CBT) Treatment Centers in 02139'>Cognitive Behavioral (CBT) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=249&amp;topid=192962' title='Coping Skills Treatment Centers in 02139'>Coping Skills Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=287&amp;topid=192962' title='Couples Treatment Centers in 02139'>Couples Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=10&amp;topid=192962' title='Dementia Treatment Centers in 02139'>Dementia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=226&amp;topid=192962' title='Depression Treatment Centers in 02139'>Depression Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=252&amp;topid=192962' title='Developmental Disorders Treatment Centers in 02139'>Developmental Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=26&amp;topid=192962' title='Divorce Treatment Centers in 02139'>Divorce Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=253&amp;topid=192962' title='Drug Abuse Treatment Centers in 02139'>Drug Abuse Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=263&amp;topid=192962' title='Dual Diagnosis Treatment Centers in 02139'>Dual Diagnosis Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=9&amp;topid=192962' title='Eating Disorders Treatment Centers in 02139'>Eating Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=295&amp;topid=192962' title='Eclectic Treatment Centers in 02139'>Eclectic Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=10&amp;topid=192962' title='Elderly Persons Disorders Treatment Centers in 02139'>Elderly Persons Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=328&amp;topid=192962' title='Elders (65+) Treatment Centers in 02139'>Elders (65+) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=198&amp;topid=192962' title='Emotional Disturbance Treatment Centers in 02139'>Emotional Disturbance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=513&amp;topid=192962' title='Empire BlueCross Insurance Treatment Centers in 02139'>Empire BlueCross Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=296&amp;topid=192962' title='Family / Marital Treatment Centers in 02139'>Family / Marital Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=200&amp;topid=192962' title='Family Conflict Treatment Centers in 02139'>Family Conflict Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=311&amp;topid=192962' title='Family Systems Treatment Centers in 02139'>Family Systems Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=3&amp;topid=192962' title='Fears Treatment Centers in 02139'>Fears Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=7&amp;topid=192962' title='Fibromyalgia Treatment Centers in 02139'>Fibromyalgia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=187&amp;topid=192962' title='GID Treatment Centers in 02139'>GID Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=254&amp;topid=192962' title='Gambling Treatment Centers in 02139'>Gambling Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=268&amp;topid=192962' title='Gay Clients Treatment Centers in 02139'>Gay Clients Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=172&amp;topid=192962' title='Gay Treatment Centers in 02139'>Gay Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=187&amp;topid=192962' title='Gender Dysphoria Treatment Centers in 02139'>Gender Dysphoria Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=187&amp;topid=192962' title='Gender Identity Disorder Treatment Centers in 02139'>Gender Identity Disorder Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=10&amp;topid=192962' title='Geriatric Care Treatment Centers in 02139'>Geriatric Care Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=437&amp;topid=192962' title='Great-West Life Insurance Treatment Centers in 02139'>Great-West Life Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=14&amp;topid=192962' title='Grief Treatment Centers in 02139'>Grief Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=289&amp;topid=192962' title='Group Treatment Centers in 02139'>Group Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=266&amp;topid=192962' title='HIV / AIDS Clients Treatment Centers in 02139'>HIV / AIDS Clients Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=15&amp;topid=192962' title='Hair Pulling Treatment Centers in 02139'>Hair Pulling Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=439&amp;topid=192962' title='Harvard Pilgrim Health Care Insurance Treatment Centers in 02139'>Harvard Pilgrim Health Care Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=439&amp;topid=192962' title='Harvard Pilgrim Insurance Treatment Centers in 02139'>Harvard Pilgrim Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=272&amp;topid=192962' title='Heterosexual Clients Treatment Centers in 02139'>Heterosexual Clients Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=21&amp;topid=192962' title='Impulse Control Disorders Treatment Centers in 02139'>Impulse Control Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=286&amp;topid=192962' title='Individuals Treatment Centers in 02139'>Individuals Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=12&amp;topid=192962' title='Infertility Treatment Centers in 02139'>Infertility Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=202&amp;topid=192962' title='Internet Addiction Treatment Centers in 02139'>Internet Addiction Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=306&amp;topid=192962' title='Interpersonal Treatment Centers in 02139'>Interpersonal Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=448&amp;topid=192962' title='Kaiser Insurance Treatment Centers in 02139'>Kaiser Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=21&amp;topid=192962' title='Kleptomania Treatment Centers in 02139'>Kleptomania Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=172&amp;topid=192962' title='LGBTQ Treatment Centers in 02139'>LGBTQ Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=184&amp;topid=192962' title='Learning Disabilities Treatment Centers in 02139'>Learning Disabilities Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=184&amp;topid=192962' title='Learning Disorders Treatment Centers in 02139'>Learning Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=269&amp;topid=192962' title='Lesbian Clients Treatment Centers in 02139'>Lesbian Clients Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=186&amp;topid=192962' title='Lesbian Treatment Centers in 02139'>Lesbian Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=13&amp;topid=192962' title='Life Coaching Treatment Centers in 02139'>Life Coaching Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=14&amp;topid=192962' title='Loss Treatment Centers in 02139'>Loss Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=168&amp;topid=192962' title='Manic Depression Treatment Centers in 02139'>Manic Depression Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=258&amp;topid=192962' title='Medication Management Treatment Centers in 02139'>Medication Management Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=307&amp;topid=192962' title='Mindfulness-based (MBCT) Treatment Centers in 02139'>Mindfulness-based (MBCT) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=201&amp;topid=192962' title='Mood Disorders Treatment Centers in 02139'>Mood Disorders Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=492&amp;topid=192962' title='Motivational Interviewing Treatment Centers in 02139'>Motivational Interviewing Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=14&amp;topid=192962' title='Mourning Treatment Centers in 02139'>Mourning Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=458&amp;topid=192962' title='Multiplan Insurance Treatment Centers in 02139'>Multiplan Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=337&amp;topid=192962' title='Native American Treatment Centers in 02139'>Native American Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=539&amp;topid=192962' title='Network Health Insurance Treatment Centers in 02139'>Network Health Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=501&amp;topid=192962' title='Neurofeedback Treatment Centers in 02139'>Neurofeedback Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=15&amp;topid=192962' title='Obsessive-Compulsive (OCD) Treatment Centers in 02139'>Obsessive-Compulsive (OCD) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=595&amp;topid=192962' title='Online Therapy Treatment Centers in 02139'>Online Therapy Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=461&amp;topid=192962' title='Out of Network Treatment Centers in 02139'>Out of Network Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=247&amp;topid=192962' title='Outpatient Treatment Centers in 02139'>Outpatient Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=465&amp;topid=192962' title='PHCS Insurance Treatment Centers in 02139'>PHCS Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=463&amp;topid=192962' title='PacifiCare Insurance Treatment Centers in 02139'>PacifiCare Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=21&amp;topid=192962' title='Paraphilia Treatment Centers in 02139'>Paraphilia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=16&amp;topid=192962' title='Parenting Treatment Centers in 02139'>Parenting Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=228&amp;topid=192962' title='Peer Relationships Treatment Centers in 02139'>Peer Relationships Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=3&amp;topid=192962' title='Phobia Treatment Centers in 02139'>Phobia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=201&amp;topid=192962' title='Post-Partum Treatment Centers in 02139'>Post-Partum Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=19&amp;topid=192962' title='Post-Traumatic Stress Treatment Centers in 02139'>Post-Traumatic Stress Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=466&amp;topid=192962' title='PreferredOne Insurance Treatment Centers in 02139'>PreferredOne Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=330&amp;topid=192962' title='Preteens / Tweens (11 to 13) Treatment Centers in 02139'>Preteens / Tweens (11 to 13) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=465&amp;topid=192962' title='Private HealthCare Systems Insurance Treatment Centers in 02139'>Private HealthCare Systems Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=230&amp;topid=192962' title='Psychiatric Residential Treatment Centers in 02139'>Psychiatric Residential Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=298&amp;topid=192962' title='Psychoanalytic Treatment Centers in 02139'>Psychoanalytic Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=299&amp;topid=192962' title='Psychodynamic Treatment Centers in 02139'>Psychodynamic Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=303&amp;topid=192962' title='Psychological Testing and Evaluation Treatment Centers in 02139'>Psychological Testing and Evaluation Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=21&amp;topid=192962' title='Pyromania Treatment Centers in 02139'>Pyromania Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=1&amp;topid=192962' title='Relationship Issues Treatment Centers in 02139'>Relationship Issues Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=192&amp;topid=192962' title='School Issues Treatment Centers in 02139'>School Issues Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=201&amp;topid=192962' title='Seasonal Affective Treatment Centers in 02139'>Seasonal Affective Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=260&amp;topid=192962' title='Self Esteem Treatment Centers in 02139'>Self Esteem Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=328&amp;topid=192962' title='Seniors Treatment Centers in 02139'>Seniors Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=17&amp;topid=192962' title='Sex Therapy Treatment Centers in 02139'>Sex Therapy Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=256&amp;topid=192962' title='Sexual Abuse Treatment Centers in 02139'>Sexual Abuse Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=257&amp;topid=192962' title='Sexual Addiction Treatment Centers in 02139'>Sexual Addiction Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=15&amp;topid=192962' title='Skin Picking Treatment Centers in 02139'>Skin Picking Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=595&amp;topid=192962' title='Skype Treatment Centers in 02139'>Skype Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=190&amp;topid=192962' title='Sleep or Insomnia Treatment Centers in 02139'>Sleep or Insomnia Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=18&amp;topid=192962' title='Spirituality Treatment Centers in 02139'>Spirituality Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=182&amp;topid=192962' title='Substance Abuse Treatment Centers in 02139'>Substance Abuse Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=595&amp;topid=192962' title='Teletherapy Treatment Centers in 02139'>Teletherapy Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=177&amp;topid=192962' title='Testing and Evaluation Treatment Centers in 02139'>Testing and Evaluation Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=329&amp;topid=192962' title='Toddlers / Preschoolers (0 to 6) Treatment Centers in 02139'>Toddlers / Preschoolers (0 to 6) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=270&amp;topid=192962' title='Transgender Clients Treatment Centers in 02139'>Transgender Clients Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=187&amp;topid=192962' title='Transgender Treatment Centers in 02139'>Transgender Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=19&amp;topid=192962' title='Trauma and PTSD Treatment Centers in 02139'>Trauma and PTSD Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=15&amp;topid=192962' title='Trichotillomania (TTM) Treatment Centers in 02139'>Trichotillomania (TTM) Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=474&amp;topid=192962' title='ValueOptions Insurance Treatment Centers in 02139'>ValueOptions Insurance Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=595&amp;topid=192962' title='Video Counseling Treatment Centers in 02139'>Video Counseling Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=207&amp;topid=192962' title='Video Game Addiction Treatment Centers in 02139'>Video Game Addiction Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=262&amp;topid=192962' title='Weight Loss Treatment Centers in 02139'>Weight Loss Treatment Centers in 02139</a></li>
+                                    <li><a href='https://treatment.psychologytoday.com/rms/prof_results.php?zipcode=02139&amp;spec=279&amp;topid=192962' title='Wheelchair Access Treatment Centers in 02139'>Wheelchair Access Treatment Centers in 02139</a></li>
+                            </ul>
+        </div>
+    </div>
+</section><div class="row">		<div class="promo-ribbon hidden-xs col-sm-12 hidden-md hidden-lg">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div>	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 footerActions">
+		<div class="hidden-sm hidden-md hidden-lg text-xs-center">
+			<a href="https://member.psychologytoday.com/rms-sec/"
+			 class="footerLoginBtn btn btn-blue">Log In</a>
+
+			<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+			 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+		</div><div class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+<a href="https://therapists.psychologytoday.com/"
+ id="footerLogoTd" class="footerLogo ui-sprite"
+ title="Psychology Today">Psychology Today</a>
+
+<a href="https://www.healthprofs.com/cam/"
+ id="footerLogoCam" class="footerLogo ui-sprite"
+ title="The Health Professionals Directory">HealthProfs.com</a>
+
+<div class="footerActions col-xs-12 hidden-sm hidden-md hidden-lg">
+	<a href="https://member.psychologytoday.com/rms-sec/"
+	 class="footerLoginBtn btn btn-blue">Log In</a>
+
+	<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+	 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+</div></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-left text-xs-center"><ul id="footerNav">
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/about.html" class="footerNavItem first">About</a>
+</li>	<li><a href="https://therapists.psychologytoday.com/us/careers" class="footerNavItem first">Careers</a></li><li>
+    <a href="https://therapists.psychologytoday.com/rms/content/privacy.html" class="footerNavItem">Privacy</a>
+</li>
+<li>
+    <a href="https://therapists.psychologytoday.com/rms/content/terms.html" class="footerNavItem">Terms</a>
+</li></ul><div id="footerCopyright">
+&copy; 2017 <a href="https://sussexdirectories.com">Sussex Directories Inc.</a><span class="hidden-xs hidden-sm">,
+Psychology Today is &copy; 2017
+  <a href="https://www.psychologytoday.com">Sussex Publishers, LLC</a>
+</span></div></div>		</div>
+		<div class="promo-ribbon hidden-xs col-xs-12 hidden-sm col-md-6 col-lg-6 pull-left">	<div class="signupPromo ui-sprite">
+		<div class="signupPromoMessage">
+			Attention Licensed Professionals!
+			<br>Get included on Psychology Today.
+		</div>
+		<a href="https://member.psychologytoday.com/therapist/?src=TDFOOT"
+		 class="signupPromoBtn btn btn-orange">Sign Up and Get Listed</a>
+	</div>
+</div></div>
+</div>
+</footer>
+</div>
+<!-- Begin comScore Tag -->
+<script type="text/javascript">
+//<![CDATA[
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "9980773" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+//]]>
+</script>
+<noscript>
+  <img alt=""
+  src="https://b.scorecardresearch.com/p?c1=2&amp;c2=9980773&amp;cv=2.0&amp;cj=1">
+</noscript>
+<!-- End comScore Tag -->
+
+<div style="font-size: 0px; margin-top: -1px">
+<!-- Google Code for Therapy Directory Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071677164;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "JZ0bCKqCmgMQ7P2B_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1071677164/?value=0&amp;label=JZ0bCKqCmgMQ7P2B_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div><!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.async = true;
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src =
+["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&cg=0&cc=1&si=",
+escape(window.location.href), "&rp=", escape(document.referrer),
+"&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img
+src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-505189h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="">
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+</body>
+</html>
