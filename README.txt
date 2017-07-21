@@ -1,6 +1,8 @@
-1. .txt data file  is tab delimited
- — columns and meaning
-2. use python code to scrape profiles and then to process into data set
-3. data analysis in R
+This repository contains code for my first independent data science project. In this project, I explore trends in mental health-providers' Psychology Today Therapist profiles. The report on my findings is forthcoming. Currently, the repository contains the code to scrape therapists' profiles and conduct exploratory data analysis.
+
+
+<list file names and purposes>
+
+<describe data generated 
 
 ## will update soon ##
