@@ -18,3 +18,12 @@ def get_zipcodes():
     #remove ZIPS not part of the 50 US states
     df_allzipinfo = df_allzipinfo.loc[[(state not in ['PR','AS','VI']) for state in df_allzipinfo.state]]
     return df_allzipinfo
+
+
+#### moving from unicode to str
+
+df.loc[:,['state','city','ZIP']] = df[['state','city','ZIP']].applymap(encodestrings)
+
+def encodestrings(x):
+    if pd.isnull(x): return np.nan
+    else: return x.replace(u'\xa0', u' ').replace(u'\xe9',u' ').encode()

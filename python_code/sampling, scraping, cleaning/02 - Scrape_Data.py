@@ -1,3 +1,14 @@
+"""
+File: 02 - Scrape_Data.py
+Author: Steven Felix
+Purpose: Using the dictionary of therapists' IDs derived from '01 - Random_Sample.py', this script
+         iterates through each ID, downloading and parsing the respective profile. Function
+         saves a backup of the in-progress dataframe every 50 iterations. At completion
+         the data frame is saved to a pickle. Data needs some editing before it can be
+         saved as CSV (will be done in '03 - Data_Prep.py')
+
+"""
+
 import requests
 import pandas as pd
 import numpy as np
@@ -13,7 +24,7 @@ import string
 ######################## Run program ##################
 
 # open list of ids
-with open('../Data/ids.json','r') as fp:
+with open('ids.json','r') as fp:
     id_dict = json.load(fp)
 
 # initalize dataframe [or make sure new dataframe conforms to following variable list]
@@ -25,8 +36,6 @@ therapistDF = pd.DataFrame(columns=varNamesList)
 
 # Note, therapistDF can be empty, initalized DF, or one with data already in it
 therapistDF = scrape(id_dict, therapistDF, varNamesList)
-
-therapistDF.to_csv('../Data/therapist_profiles.csv', encoding='utf-8')
 
 ######################### Functions ####################
 
@@ -73,12 +82,13 @@ def scrape(id_dict, df, variables):
         n +=1
         log('\nProfile ID {} successfully parsed (number {} of {})\n'.format(id_num,n,total-1), output)
         if n % 50 == 0:
-            df.to_pickle('therapist_profiles.pkl') # just in case of errors
+            df.to_pickle('BACKUP_therapist_profiles.pkl') # just in case of errors
             log('\n**********Pickled at {}\n'.format(n), output)
         time.sleep(uniform(.5,1.5)*2)
     
-    # pickle final data frame
-    df.to_pickle('therapist_profiles.pkl')
+    # save final data frame to pickle
+    df.to_pickle('./data/therapist_profiles.pkl')
+    #df.to_csv('therapist_profiles.csv', encoding='utf-8')
     log("\n\n****Process Complete: {} linked iterated [failed links not written] *****\n\n".format(n+1), output)
     
     output.close()
@@ -129,15 +139,15 @@ def parse_content(tree, id_num, url, variablenames, regex):
     
 
     city = tree.xpath('//div[@class="address address-rank-1"]//div[@itemprop="address"]//span[@itemprop="addressLocality"]/text()')
-    try: city = city[0]
+    try: city = city[0].encode()
     except IndexError: city = np.nan
     
     state = tree.xpath('//div[@class="address address-rank-1"]//div[@itemprop="address"]//span[@itemprop="addressRegion"]/text()')
-    try: state = state[0]
+    try: state = state[0].replace(u'\xa0', u' ').encode()
     except IndexError: state = np.nan
     
     ZIP = tree.xpath('//div[@class="address address-rank-1"]//div[@itemprop="address"]//span[@itemprop="postalcode"]/text()')
-    try: ZIP = ZIP[0]
+    try: ZIP = ZIP[0].encode()
     except IndexError: ZIP = np.nan
     
     quals = tree.xpath('//div[@class="profile-qualifications"]//text()')
