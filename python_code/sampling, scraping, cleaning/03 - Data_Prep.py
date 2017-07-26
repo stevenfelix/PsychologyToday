@@ -49,7 +49,7 @@ def clean_data(data, statedict):
     
     numvars = ['issuesnum','treatmentapproachnum','treatmentorientationnum','mentalhealthnum','years']
     df2.loc[:,numvars] = df2.loc[:,numvars].astype(float)
-    
+    df2.set_index('id_num',inplace=True)
     return df2
 
 def get_stateinfo():
@@ -77,7 +77,10 @@ def encodestrings(x):
 #                .replace(u'\xe1', u' ').replace(u'\xf1', u' ')).encode()
 
 def encodeprofile(x):
-        return repr(x).encode() if isinstance(x,unicode) else x
+    if isinstance(x,unicode):
+        x = repr(x)
+    x = x.replace('u"','').replace('"','').replace("u'","").replace("'","").replace('\\','')
+    return " ".join(x.split())
 
 
 def summarizedata(df):
@@ -88,8 +91,7 @@ def summarizedata(df):
     
 
 def main():
-    filename = input("Raw data file name (must be pickled pandas DataFrame, in quotes): ")
-    df = pd.read_pickle('./data/'+filename)
+    df = pd.read_pickle('./data/therapist_profiles.pkl')
     stateinfo  = get_stateinfo()
     df = clean_data(df, stateinfo)
     summarizedata(df)
@@ -101,3 +103,5 @@ def main():
 #data = test()
 data = main()
 data.to_csv('./data/therapist_profiles.csv')
+
+

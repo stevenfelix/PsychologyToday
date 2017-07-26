@@ -1,3 +1,24 @@
+"""
+File:       04 - Construct_Dictionaries_ListData.py
+Author:     Steven Felix
+Purpose:    There are 4 variables in the raw data that consist of lists. They include each therapist's
+            specialities, treatment orientations, issues treated, and mental health issues treated. To
+            process these lists and put them into a form that is useable for data analysis, this script
+            will output two files:
+            
+            profilefeaturesdict_bool_dict.json - this is a dictionary of dataframes. There is one dataframe
+                                                 for each of the 4 list variables. Each dataframe consists of
+                                                 a column for any list-item that had over 20 responses. And each
+                                                 column is is 0 or 1s, where 1 = provider endorsed.
+            
+            profiledict.json - this is a dictionary of dictionaries. THere are 4 sub-dictionarious -- one of each
+                               of the list variables. And each subdictionary consists of two keys-value pairs:
+                               - counts = a Counter object (ie a dictionary) giving the number of 
+                                          providers endorsing every possible item from the respectivel list
+                               - provider_lists = a dictionary mapping providers to a list of their services/specialties
+
+"""
+
 import pandas as pd
 import numpy as np
 from collections import Counter
@@ -61,22 +82,20 @@ def booldfs(variables, varinfo):
 
 
 def main():
-    os.chdir('/Users/stevenfelix/Dropbox/DataScience/Projects/PsychologyToday/Data/')
-    filename = input('Most recent pickled dataframe (with quotes): ')
-    data = pd.read_pickle(filename)
-
+    data = pd.read_csv('./data/therapist_profiles.csv', index_col='id_num')
     names = ['issues', 'specialties', 'treatmentorientation', 'mentalhealth']
     varinfo = decompose(data, names)
 
-    with open("profiledict.json","w") as fd:
+    with open("./data/profiledict.json","w") as fd:
         json.dump(varinfo,fd)
 
+    # 'TF' = True/False, stored as 0's and 1's as indication of whether provider endorsed item
     TFdfs = booldfs(['issues','specialties','treatmentorientation'], varinfo)
 
     # convert dictionary of dataframes to a dictionary of dictionarys, to store as JSON
     TFdicts = {key:TFdfs[key].to_dict() for key in TFdfs}
 
-    with open("profilefeaturesdict_bool_dict.json","w") as fd:
+    with open("./data/profilefeaturesdict_bool_dict.json","w") as fd:
         json.dump(TFdicts, fd)
         
     print ("""\n\nDictionaries completed and saved to file: \n
@@ -87,3 +106,4 @@ def main():
 ################ run functions ############
 
 main()
+
