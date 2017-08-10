@@ -58,3 +58,23 @@ regionplots = [('specialties',10, "Specialties", axs[0]),
 for variable, topnum, title, ax in regionplots:
     region_plots(variable,topnum,title,ax)
 fig.tight_layout();
+
+#### java script
+<script>
+  function code_toggle() {
+    if (code_shown){
+      $('div.input').hide('500');
+      $('#toggleButton').val('Show Code')
+    } else {
+      $('div.input').show('500');
+      $('#toggleButton').val('Hide Code')
+    }
+    code_shown = !code_shown
+  }
+
+  $( document ).ready(function(){
+    code_shown=false;
+    $('div.input').hide()
+  });
+</script>
+<form action="javascript:code_toggle()"><input type="submit" id="toggleButton" value="Show Code"></form>
