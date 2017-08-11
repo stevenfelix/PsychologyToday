@@ -59,6 +59,50 @@ for variable, topnum, title, ax in regionplots:
     region_plots(variable,topnum,title,ax)
 fig.tight_layout();
 
+
+### graphing title X gender, two different ways
+
+top10 = data.title.value_counts()[:9].index
+data['title10'] = [title if title in top10 else 'other' for title in data.title]
+top10 = data.title10.value_counts().index
+
+# side by side
+fig, ax = plt.subplots(figsize=(10,5))
+d2 = data[data.gender2 != 'unknown']
+dummies = pd.get_dummies(d2.gender2).join(d2.title10)
+dummies_long = pd.melt(frame = dummies, id_vars = 'title10')
+dummies_long.head()
+sns.barplot(x ='title10', y='value', orient = 'v',hue = 'variable', order=top10, data = dummies_long, errwidth = 2, ax = ax);
+labels = ['\n'.join(i.replace('and ','').replace('or ','').replace('& ','').split()) for i in top10]
+ax.set_xticklabels(labels, rotation = 90)
+ax.legend(bbox_to_anchor=(1.05, .65), loc=2, borderaxespad=0.)
+sns.despine()
+
+# spread / differences
+vals = dummies_long.groupby(['title10','variable']).mean()
+vals.reset_index(inplace=True)
+diffs = vals.groupby('title10').value.apply(lambda x: np.diff(x)[0] *-1)
+ax = diffs.plot(kind='bar')
+ax.axhline(y=0, color = 'black');
+sns.despine(bottom = True)
+
+##### fee by gender 
+recodes = {'male': 'male', 'female': 'female', 'mostly_female': 'female', 'mostly_male':'male', 'andy':'unknown','unknown':'unknown'}
+data['gender2'] = data.gender.map(recodes)
+
+def bygender(series):
+    if np.issubdtype(series.dtype, np.number):
+        series.hist(grid=False, by=data.gender2)
+        print 'Mean {} by gender\n'.format(series.name)
+        print data.groupby(data.gender2)[series.name].mean()
+    else:
+        series.plot()
+
+    sns.despine()
+
+bygender(data.fee)  
+
+
 #### java script
 <script>
   function code_toggle() {
