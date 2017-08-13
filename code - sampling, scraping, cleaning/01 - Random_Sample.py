@@ -1,3 +1,12 @@
+"""
+Name: 01 - Random Sample.py
+
+Description: This script semi-randomly selects therapist profile IDs from Psychology Today. It tries to 
+get 200 from each of the 50 states (and DC). At each iteration it randomly selects a zip code,
+and takes the ID of the first search result. It returns a dictionary with keys consisting of 
+US state acronyms, and values are therapist profile IDs from that state.
+"""
+
 import pandas as pd
 import numpy as np
 from lxml import html

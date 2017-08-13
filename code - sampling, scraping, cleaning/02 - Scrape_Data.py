@@ -1,7 +1,7 @@
 """
 File: 02 - Scrape_Data.py
 Author: Steven Felix
-Purpose: Using the dictionary of therapists' IDs derived from '01 - Random_Sample.py', this script
+Description: Using the dictionary of therapists' IDs derived from '01 - Random_Sample.py', this script
          iterates through each ID, downloading and parsing the respective profile. Function
          saves a backup of the in-progress dataframe every 50 iterations. At completion
          the data frame is saved to a pickle. Data needs some editing before it can be

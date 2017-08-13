@@ -2,7 +2,7 @@
 File:       03 - Data_Prep.py
 Author:     Steven Felix
 Purpose:    Given a raw dataframe from '02-Scrape_Data.py', this file checks for duplicates,
-            deals with encoding issues (so we can save as CSV), drops profiles with addresses,
+            deals with encoding issues (so we can save as CSV), drops profiles with addresses
             not in the 50 US states (and DC), and makes sure numeric variables have the appropriate,
             dtype. A CSV file is output.
 
